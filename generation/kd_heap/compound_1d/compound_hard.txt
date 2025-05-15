@@ -1,0 +1,803 @@
+Heap 0, Dimension: 1
+insert (4, [46])
+delete
+insert (29, [11])
+delete
+insert (23, [23])
+insert (21, [97])
+insert (41, [75])
+delete
+insert (42, [92])
+insert (90, [8])
+insert (92, [93])
+insert (73, [41])
+delete
+insert (20, [81])
+delete
+delete
+delete
+insert (71, [39])
+delete
+insert (36, [47])
+insert (11, [18])
+delete
+delete
+insert (56, [77])
+delete
+insert (60, [79])
+[60, 42, 92, 21]
+Heap 1, Dimension: 1
+insert (71, [51])
+insert (21, [40])
+insert (96, [93])
+delete
+delete
+delete
+insert (43, [96])
+insert (96, [42])
+insert (95, [6])
+delete
+insert (69, [67])
+insert (75, [92])
+insert (39, [39])
+insert (96, [1])
+insert (10, [73])
+insert (18, [85])
+insert (49, [28])
+insert (62, [27])
+delete
+delete
+delete
+delete
+[96, 10, 69, 18, 75, 43]
+Heap 2, Dimension: 1
+insert (28, [88])
+insert (85, [29])
+delete
+delete
+insert (35, [39])
+insert (35, [17])
+insert (91, [50])
+insert (4, [45])
+delete
+delete
+insert (51, [31])
+delete
+insert (57, [36])
+insert (38, [44])
+insert (64, [25])
+delete
+insert (8, [62])
+insert (67, [33])
+insert (14, [46])
+insert (35, [77])
+insert (65, [70])
+delete
+insert (97, [80])
+insert (25, [93])
+insert (96, [94])
+insert (70, [49])
+[57, 38, 4, 91, 8, 70, 14, 35, 97, 25, 96, 65]
+Heap 3, Dimension: 1
+insert (13, [24])
+insert (42, [92])
+insert (79, [25])
+insert (55, [3])
+insert (52, [86])
+insert (26, [85])
+delete
+insert (46, [19])
+insert (49, [33])
+delete
+insert (66, [15])
+insert (76, [95])
+delete
+insert (12, [65])
+insert (37, [21])
+insert (83, [10])
+insert (28, [19])
+insert (28, [83])
+insert (66, [85])
+delete
+insert (90, [64])
+insert (27, [53])
+[28, 37, 79, 12, 13, 49, 27, 42, 26, 52, 66, 28, 90, 76]
+Heap 4, Dimension: 1
+insert (98, [13])
+insert (99, [92])
+delete
+insert (44, [29])
+delete
+insert (39, [83])
+insert (30, [39])
+insert (5, [40])
+insert (73, [4])
+insert (8, [48])
+insert (48, [7])
+insert (45, [73])
+insert (62, [30])
+insert (97, [45])
+insert (41, [12])
+insert (80, [79])
+delete
+insert (60, [12])
+insert (43, [71])
+delete
+insert (47, [51])
+insert (4, [65])
+insert (66, [81])
+insert (97, [35])
+insert (89, [43])
+delete
+delete
+insert (68, [6])
+insert (99, [9])
+[68, 99, 89, 62, 5, 8, 4, 97, 45, 97, 43, 80, 47, 39, 66, 99, 30]
+Heap 5, Dimension: 1
+insert (93, [36])
+delete
+insert (63, [51])
+insert (94, [97])
+insert (21, [4])
+insert (25, [2])
+insert (3, [62])
+insert (26, [59])
+insert (99, [70])
+insert (0, [6])
+insert (97, [36])
+delete
+delete
+insert (35, [81])
+insert (38, [2])
+insert (87, [44])
+delete
+insert (88, [67])
+delete
+insert (21, [48])
+delete
+insert (18, [72])
+insert (35, [54])
+delete
+insert (79, [79])
+insert (80, [5])
+insert (86, [46])
+delete
+insert (31, [48])
+[86, 35, 21, 3, 88, 31, 99, 94, 35, 18, 79, 26, 63]
+Heap 6, Dimension: 1
+insert (33, [46])
+insert (84, [58])
+delete
+insert (80, [90])
+insert (36, [84])
+delete
+insert (77, [48])
+delete
+delete
+insert (15, [55])
+delete
+delete
+insert (69, [52])
+delete
+insert (74, [31])
+delete
+insert (31, [66])
+insert (91, [59])
+delete
+insert (26, [65])
+delete
+insert (4, [83])
+[31, 4]
+Heap 7, Dimension: 1
+insert (27, [72])
+delete
+insert (55, [77])
+delete
+insert (28, [18])
+insert (39, [4])
+insert (26, [97])
+delete
+insert (85, [31])
+delete
+insert (56, [45])
+insert (30, [70])
+insert (29, [2])
+delete
+insert (65, [47])
+insert (62, [20])
+insert (92, [34])
+insert (11, [19])
+insert (53, [44])
+insert (27, [73])
+delete
+[62, 53, 85, 65, 30, 56, 92, 26, 27]
+Heap 8, Dimension: 1
+insert (57, [69])
+delete
+insert (90, [76])
+insert (48, [65])
+insert (67, [77])
+insert (33, [10])
+delete
+insert (32, [6])
+insert (96, [22])
+insert (45, [2])
+delete
+insert (67, [71])
+insert (82, [36])
+insert (48, [58])
+insert (74, [28])
+insert (8, [22])
+insert (49, [50])
+delete
+insert (29, [84])
+insert (53, [19])
+insert (59, [67])
+delete
+delete
+delete
+[74, 49, 82, 48, 48, 67, 67, 90, 59, 29]
+Heap 9, Dimension: 1
+insert (46, [48])
+insert (48, [81])
+insert (74, [60])
+delete
+insert (27, [77])
+insert (72, [5])
+insert (47, [3])
+insert (47, [51])
+insert (9, [70])
+insert (58, [41])
+delete
+insert (6, [67])
+delete
+delete
+delete
+delete
+insert (0, [54])
+insert (98, [63])
+delete
+insert (98, [74])
+insert (50, [80])
+[98, 6, 9, 48, 27, 98, 50]
+Heap 10, Dimension: 1
+insert (31, [39])
+delete
+insert (52, [63])
+insert (95, [12])
+insert (57, [26])
+delete
+insert (89, [43])
+insert (85, [58])
+insert (21, [88])
+insert (29, [36])
+insert (6, [15])
+insert (11, [96])
+insert (14, [28])
+insert (63, [67])
+insert (29, [85])
+delete
+delete
+delete
+insert (34, [62])
+insert (5, [5])
+insert (96, [40])
+insert (17, [62])
+delete
+[29, 96, 89, 34, 85, 17, 29, 11, 52, 63, 21]
+Heap 11, Dimension: 1
+insert (62, [75])
+insert (56, [45])
+insert (27, [29])
+delete
+insert (17, [28])
+insert (52, [56])
+insert (14, [64])
+insert (98, [57])
+insert (86, [5])
+insert (34, [63])
+insert (95, [11])
+delete
+insert (56, [40])
+insert (17, [33])
+delete
+delete
+delete
+insert (26, [8])
+insert (51, [31])
+insert (81, [4])
+delete
+insert (1, [71])
+delete
+insert (43, [25])
+insert (10, [37])
+delete
+[51, 10, 56, 52, 56, 98, 14, 62, 1, 34]
+Heap 12, Dimension: 1
+insert (72, [55])
+delete
+insert (47, [39])
+insert (87, [54])
+insert (11, [77])
+insert (49, [97])
+delete
+insert (92, [73])
+insert (76, [79])
+insert (63, [51])
+insert (79, [5])
+delete
+insert (34, [56])
+insert (40, [47])
+insert (4, [85])
+delete
+delete
+insert (57, [45])
+insert (45, [66])
+insert (85, [12])
+insert (71, [27])
+delete
+delete
+insert (44, [63])
+[57, 87, 34, 45, 44, 11, 49, 4, 92, 76]
+Heap 13, Dimension: 1
+insert (96, [38])
+delete
+insert (78, [61])
+insert (48, [15])
+insert (7, [75])
+insert (99, [70])
+delete
+insert (85, [81])
+insert (5, [13])
+delete
+insert (72, [18])
+delete
+insert (27, [3])
+insert (84, [19])
+delete
+insert (42, [99])
+insert (62, [31])
+insert (68, [90])
+insert (30, [46])
+delete
+delete
+insert (3, [90])
+delete
+delete
+delete
+insert (12, [29])
+insert (85, [21])
+[85, 85, 12, 68, 3, 42, 7]
+Heap 14, Dimension: 1
+insert (63, [2])
+insert (97, [24])
+insert (91, [45])
+insert (19, [93])
+delete
+insert (51, [92])
+insert (74, [72])
+insert (91, [42])
+delete
+insert (40, [5])
+delete
+insert (25, [99])
+insert (9, [47])
+insert (38, [35])
+delete
+insert (52, [88])
+insert (93, [80])
+delete
+delete
+insert (68, [81])
+insert (27, [72])
+delete
+insert (98, [4])
+delete
+delete
+delete
+[93, 68, 52, 19, 51, 25]
+Heap 15, Dimension: 1
+insert (46, [74])
+insert (78, [8])
+insert (50, [11])
+insert (67, [68])
+delete
+insert (70, [95])
+delete
+delete
+delete
+delete
+insert (32, [21])
+insert (68, [88])
+insert (16, [49])
+insert (49, [86])
+insert (2, [87])
+insert (88, [52])
+insert (32, [78])
+delete
+delete
+insert (55, [0])
+delete
+delete
+delete
+insert (68, [54])
+insert (97, [65])
+insert (94, [12])
+insert (25, [4])
+[25, 97, 94, 68, 49, 2, 68]
+Heap 16, Dimension: 1
+insert (25, [31])
+insert (89, [8])
+insert (38, [77])
+insert (63, [9])
+insert (69, [1])
+insert (35, [15])
+delete
+delete
+insert (32, [9])
+insert (42, [35])
+insert (72, [16])
+insert (45, [74])
+insert (85, [87])
+insert (82, [70])
+insert (86, [9])
+delete
+delete
+insert (62, [15])
+insert (35, [99])
+insert (51, [30])
+delete
+delete
+insert (17, [90])
+insert (6, [64])
+insert (25, [0])
+insert (24, [14])
+[25, 25, 24, 45, 42, 72, 35, 38, 85, 82, 17, 6, 51, 35]
+Heap 17, Dimension: 1
+insert (50, [47])
+insert (69, [32])
+insert (40, [0])
+delete
+insert (15, [46])
+insert (15, [66])
+insert (81, [93])
+delete
+delete
+insert (81, [48])
+insert (32, [93])
+insert (2, [58])
+delete
+insert (12, [95])
+insert (5, [37])
+insert (15, [28])
+insert (16, [65])
+delete
+delete
+insert (47, [82])
+delete
+delete
+[16, 15, 47, 81, 32, 12]
+Heap 18, Dimension: 1
+insert (62, [53])
+delete
+insert (90, [85])
+insert (12, [58])
+delete
+delete
+insert (68, [94])
+insert (94, [1])
+insert (77, [48])
+insert (90, [25])
+insert (21, [15])
+insert (57, [38])
+insert (35, [9])
+insert (27, [66])
+insert (71, [25])
+insert (88, [47])
+delete
+insert (6, [30])
+insert (30, [17])
+insert (57, [6])
+insert (64, [70])
+[57, 21, 35, 71, 30, 57, 88, 68, 27, 6, 90, 77, 64]
+Heap 19, Dimension: 1
+insert (66, [62])
+insert (34, [77])
+insert (10, [55])
+delete
+delete
+insert (81, [17])
+insert (90, [28])
+delete
+insert (35, [70])
+insert (82, [6])
+insert (93, [76])
+delete
+delete
+insert (44, [99])
+delete
+insert (97, [53])
+delete
+delete
+insert (61, [0])
+insert (23, [54])
+insert (25, [56])
+delete
+insert (89, [81])
+delete
+insert (80, [45])
+insert (61, [22])
+insert (81, [9])
+[81, 25, 61, 44, 89, 34, 80]
+Heap 20, Dimension: 1
+insert (97, [32])
+insert (88, [14])
+insert (29, [19])
+delete
+delete
+insert (67, [85])
+delete
+insert (25, [68])
+delete
+insert (77, [73])
+insert (24, [80])
+delete
+delete
+insert (98, [10])
+delete
+insert (84, [80])
+delete
+insert (92, [62])
+insert (62, [86])
+insert (94, [61])
+insert (99, [88])
+insert (43, [46])
+delete
+insert (18, [63])
+insert (28, [27])
+[28, 92, 94, 67, 99, 62, 18]
+Heap 21, Dimension: 1
+insert (19, [50])
+delete
+insert (56, [29])
+insert (54, [62])
+insert (27, [95])
+insert (32, [87])
+insert (38, [79])
+delete
+insert (49, [27])
+delete
+insert (95, [64])
+delete
+insert (18, [46])
+insert (37, [39])
+insert (69, [16])
+insert (99, [66])
+insert (79, [30])
+insert (2, [5])
+delete
+insert (83, [34])
+insert (86, [66])
+insert (39, [45])
+insert (79, [7])
+[79, 79, 69, 95, 83, 37, 18, 32, 99, 38, 86, 27, 39]
+Heap 22, Dimension: 1
+insert (53, [7])
+insert (47, [83])
+insert (14, [7])
+insert (57, [41])
+insert (70, [32])
+insert (46, [30])
+insert (38, [80])
+insert (96, [55])
+insert (59, [6])
+delete
+insert (82, [98])
+insert (63, [77])
+insert (36, [89])
+insert (71, [94])
+delete
+delete
+delete
+delete
+delete
+delete
+insert (30, [37])
+insert (82, [28])
+insert (48, [3])
+insert (5, [30])
+delete
+insert (23, [49])
+delete
+insert (67, [57])
+[5, 30, 63, 47, 23, 71, 38, 36, 82, 67]
+Heap 23, Dimension: 1
+insert (77, [9])
+delete
+insert (68, [63])
+insert (91, [69])
+insert (83, [79])
+insert (19, [9])
+delete
+insert (85, [23])
+delete
+delete
+delete
+insert (6, [91])
+insert (51, [8])
+insert (75, [27])
+delete
+insert (41, [14])
+delete
+insert (91, [30])
+insert (72, [58])
+insert (31, [2])
+insert (99, [67])
+insert (48, [59])
+insert (69, [87])
+insert (86, [17])
+delete
+insert (49, [79])
+insert (26, [20])
+insert (34, [67])
+[86, 26, 75, 48, 91, 34, 99, 6, 69, 49, 72, 83]
+Heap 24, Dimension: 1
+insert (82, [23])
+insert (17, [38])
+delete
+delete
+insert (42, [31])
+delete
+insert (91, [76])
+delete
+insert (75, [98])
+insert (49, [20])
+insert (39, [15])
+insert (27, [78])
+delete
+delete
+insert (62, [65])
+insert (4, [14])
+delete
+insert (16, [4])
+delete
+insert (49, [89])
+insert (22, [69])
+insert (83, [31])
+[83, 22, 62, 75, 49, 27]
+Heap 25, Dimension: 1
+insert (79, [52])
+delete
+insert (49, [1])
+insert (61, [26])
+insert (91, [22])
+delete
+delete
+insert (36, [70])
+insert (80, [14])
+insert (89, [94])
+insert (16, [20])
+insert (58, [23])
+delete
+insert (20, [58])
+insert (45, [24])
+delete
+insert (2, [85])
+insert (36, [54])
+insert (27, [79])
+insert (68, [71])
+insert (15, [65])
+insert (80, [14])
+insert (46, [47])
+insert (13, [76])
+insert (91, [54])
+insert (69, [88])
+delete
+[58, 61, 45, 36, 15, 46, 91, 69, 27, 68, 36, 20, 89, 2, 13]
+Heap 26, Dimension: 1
+insert (46, [88])
+insert (4, [21])
+insert (51, [58])
+insert (21, [57])
+insert (89, [47])
+delete
+insert (34, [20])
+insert (15, [91])
+insert (38, [3])
+insert (62, [36])
+delete
+insert (42, [15])
+insert (28, [83])
+insert (49, [92])
+insert (16, [62])
+delete
+delete
+insert (90, [9])
+insert (92, [21])
+insert (5, [5])
+insert (31, [91])
+delete
+delete
+insert (58, [24])
+insert (45, [46])
+insert (23, [30])
+insert (80, [72])
+insert (1, [47])
+insert (20, [82])
+[92, 62, 58, 1, 89, 45, 23, 16, 28, 21, 15, 31, 51, 46, 80, 49, 20]
+Heap 27, Dimension: 1
+insert (70, [98])
+insert (50, [35])
+insert (41, [71])
+insert (26, [69])
+delete
+insert (27, [6])
+delete
+insert (9, [67])
+delete
+delete
+insert (88, [37])
+delete
+insert (34, [30])
+insert (32, [60])
+insert (96, [40])
+delete
+delete
+insert (80, [28])
+insert (91, [30])
+delete
+insert (43, [36])
+delete
+insert (75, [87])
+insert (55, [68])
+insert (49, [0])
+delete
+[43, 32, 55, 70, 75, 41]
+Heap 28, Dimension: 1
+insert (50, [96])
+insert (50, [61])
+insert (40, [9])
+delete
+insert (15, [3])
+insert (88, [79])
+insert (3, [1])
+insert (50, [21])
+delete
+insert (81, [0])
+insert (30, [5])
+insert (67, [97])
+insert (18, [25])
+insert (31, [23])
+insert (10, [32])
+insert (70, [34])
+insert (88, [73])
+insert (91, [89])
+insert (77, [7])
+insert (94, [14])
+insert (49, [57])
+insert (74, [66])
+[81, 94, 15, 31, 18, 50, 30, 49, 74, 88, 10, 70, 88, 91, 77, 67, 50, 50]
+Heap 29, Dimension: 1
+insert (12, [87])
+insert (2, [7])
+insert (58, [35])
+delete
+delete
+insert (87, [52])
+delete
+insert (6, [96])
+delete
+insert (85, [97])
+insert (54, [49])
+delete
+insert (93, [22])
+insert (72, [16])
+delete
+insert (38, [72])
+insert (41, [9])
+insert (6, [83])
+insert (15, [6])
+insert (66, [70])
+insert (76, [33])
+insert (59, [22])
+[15, 93, 41, 76, 59, 6, 6, 85, 66, 38]

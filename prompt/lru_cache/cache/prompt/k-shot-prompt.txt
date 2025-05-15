@@ -1,0 +1,23 @@
+Q: You have a LRU cache with cache size 2. Initially, the cache is empty. What is the state of the LRU cache after the following sequence of operations:
+access 2
+access 3
+access 3
+access 8
+access 2
+A: [8, 2]
+
+Q: You have a LRU cache with cache size 3. Initially, the cache is empty. What is the state of the LRU cache after the following sequence of operations:
+access 0
+access 7
+access 3
+access 5
+access 4
+A: [3, 5, 4]
+
+Q: You have a LRU cache with cache size 3. Initially, the cache is empty. What is the state of the LRU cache after the following sequence of operations:
+access 9
+access 6
+access 1
+access 6
+access 8
+A: [6, 1, 8]

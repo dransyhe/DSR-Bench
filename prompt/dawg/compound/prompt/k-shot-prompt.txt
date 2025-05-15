@@ -1,0 +1,23 @@
+Q: You are given an empty Directed Acyclic Word Graph (DAWG), what is its final state after the following operations?
+insert gknqi
+delete gknqi
+insert vvqsj
+insert vvdmz
+delete vvdmz
+A: [['', 'F'], ['v', 'F'], ['vv', 'F'], ['vvq', 'F'], ['vvqs', 'F'], ['vvqsj', 'T']]
+
+Q: You are given an empty Directed Acyclic Word Graph (DAWG), what is its final state after the following operations?
+insert lkuccy
+insert lkuccyh
+insert llbr
+insert ywlpa
+insert ebqhc
+[['', 'F'], ['e', 'F'], ['l', 'F'], ['y', 'F'], ['eb', 'F'], ['lk', 'F'], ['ll', 'F'], ['yw', 'F'], ['ebq', 'F'], ['lku', 'F'], ['llb', 'F'], ['ywl', 'F'], ['ebqh', 'F'], ['lkuc', 'F'], ['llbr', 'T'], ['ywlp', 'F'], ['lkucc', 'F'], ['lkuccy', 'T']]
+
+Q: You are given an empty Directed Acyclic Word Graph (DAWG), what is its final state after the following operations?
+insert ysdx
+insert cdthim
+delete ysdx
+insert cqdt
+insert cdthiz
+[['', 'F'], ['c', 'F'], ['cd', 'F'], ['cq', 'F'], ['cdt', 'F'], ['cqd', 'F'], ['cdth', 'F'], ['cqdt', 'T'], ['cdthi', 'F']]

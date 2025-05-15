@@ -1,0 +1,7 @@
+Given an array [20, 25, 46, 84, 34], indexed from 0.
+Q: What is the value stored in index 2?
+A: The value stored in index 0 is 20.
+The value stored in index 1 is 25.
+The value stored in index 2 is 46.
+The final answer is 46.
+

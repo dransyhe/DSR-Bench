@@ -1,0 +1,11 @@
+Given an array [95, 44, 29, 66, 83].  
+Q: What is the reversed array?  
+A: The final answer is [83, 66, 29, 44, 95].  
+
+Given an array [49, 88, 10, 41, 8].  
+Q: What is the reversed array?  
+A: The final answer is [8, 41, 10, 88, 49].  
+
+Given an array [9, 95, 24, 61, 68].  
+Q: What is the reversed array?  
+A: The final answer is [68, 61, 24, 95, 9].

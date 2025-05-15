@@ -1,0 +1,90 @@
+SuffixTree 0
+zvdfmqrafeecuhkiaywqejh$
+['$', 'a', 'feecuhkiaywqejh$', 'ywqejh$', 'cuhkiaywqejh$', 'dfmqrafeecuhkiaywqejh$', 'e', 'cuhkiaywqejh$', 'ecuhkiaywqejh$', 'jh$', 'f', 'eecuhkiaywqejh$', 'mqrafeecuhkiaywqejh$', 'h', '$', 'kiaywqejh$', 'iaywqejh$', 'jh$', 'kiaywqejh$', 'mqrafeecuhkiaywqejh$', 'q', 'ejh$', 'rafeecuhkiaywqejh$', 'rafeecuhkiaywqejh$', 'uhkiaywqejh$', 'vdfmqrafeecuhkiaywqejh$', 'wqejh$', 'ywqejh$', 'zvdfmqrafeecuhkiaywqejh$']
+SuffixTree 1
+mvqxnczwjfkpyfezwyjinkdiws$
+['$', 'czwjfkpyfezwyjinkdiws$', 'diws$', 'ezwyjinkdiws$', 'f', 'ezwyjinkdiws$', 'kpyfezwyjinkdiws$', 'i', 'nkdiws$', 'ws$', 'j', 'fkpyfezwyjinkdiws$', 'inkdiws$', 'k', 'diws$', 'pyfezwyjinkdiws$', 'mvqxnczwjfkpyfezwyjinkdiws$', 'n', 'czwjfkpyfezwyjinkdiws$', 'kdiws$', 'pyfezwyjinkdiws$', 'qxnczwjfkpyfezwyjinkdiws$', 's$', 'vqxnczwjfkpyfezwyjinkdiws$', 'w', 'jfkpyfezwyjinkdiws$', 's$', 'yjinkdiws$', 'xnczwjfkpyfezwyjinkdiws$', 'y', 'fezwyjinkdiws$', 'jinkdiws$', 'zw', 'jfkpyfezwyjinkdiws$', 'yjinkdiws$']
+SuffixTree 2
+feenvgjlowwfziffajctlhzhhm$
+['$', 'ajctlhzhhm$', 'ctlhzhhm$', 'e', 'envgjlowwfziffajctlhzhhm$', 'nvgjlowwfziffajctlhzhhm$', 'f', 'ajctlhzhhm$', 'eenvgjlowwfziffajctlhzhhm$', 'fajctlhzhhm$', 'ziffajctlhzhhm$', 'gjlowwfziffajctlhzhhm$', 'h', 'hm$', 'm$', 'zhhm$', 'iffajctlhzhhm$', 'j', 'ctlhzhhm$', 'lowwfziffajctlhzhhm$', 'l', 'hzhhm$', 'owwfziffajctlhzhhm$', 'm$', 'nvgjlowwfziffajctlhzhhm$', 'owwfziffajctlhzhhm$', 'tlhzhhm$', 'vgjlowwfziffajctlhzhhm$', 'w', 'fziffajctlhzhhm$', 'wfziffajctlhzhhm$', 'z', 'hhm$', 'iffajctlhzhhm$']
+SuffixTree 3
+yemdmbdwvxgpsiiowpixzqnjcqu$
+['$', 'bdwvxgpsiiowpixzqnjcqu$', 'cqu$', 'd', 'mbdwvxgpsiiowpixzqnjcqu$', 'wvxgpsiiowpixzqnjcqu$', 'emdmbdwvxgpsiiowpixzqnjcqu$', 'gpsiiowpixzqnjcqu$', 'i', 'iowpixzqnjcqu$', 'owpixzqnjcqu$', 'xzqnjcqu$', 'jcqu$', 'm', 'bdwvxgpsiiowpixzqnjcqu$', 'dmbdwvxgpsiiowpixzqnjcqu$', 'njcqu$', 'owpixzqnjcqu$', 'p', 'ixzqnjcqu$', 'siiowpixzqnjcqu$', 'q', 'njcqu$', 'u$', 'siiowpixzqnjcqu$', 'u$', 'vxgpsiiowpixzqnjcqu$', 'w', 'pixzqnjcqu$', 'vxgpsiiowpixzqnjcqu$', 'x', 'gpsiiowpixzqnjcqu$', 'zqnjcqu$', 'yemdmbdwvxgpsiiowpixzqnjcqu$', 'zqnjcqu$']
+SuffixTree 4
+tygwczicylwglpyfvczffxct$
+['$', 'c', 't$', 'ylwglpyfvczffxct$', 'z', 'ffxct$', 'icylwglpyfvczffxct$', 'f', 'fxct$', 'vczffxct$', 'xct$', 'g', 'lpyfvczffxct$', 'wczicylwglpyfvczffxct$', 'icylwglpyfvczffxct$', 'l', 'pyfvczffxct$', 'wglpyfvczffxct$', 'pyfvczffxct$', 't', '$', 'ygwczicylwglpyfvczffxct$', 'vczffxct$', 'w', 'czicylwglpyfvczffxct$', 'glpyfvczffxct$', 'xct$', 'y', 'fvczffxct$', 'gwczicylwglpyfvczffxct$', 'lwglpyfvczffxct$', 'z', 'ffxct$', 'icylwglpyfvczffxct$']
+SuffixTree 5
+nzlvjpzrmgrlazsjvccwogd$
+['$', 'azsjvccwogd$', 'c', 'cwogd$', 'wogd$', 'd$', 'g', 'd$', 'rlazsjvccwogd$', 'j', 'pzrmgrlazsjvccwogd$', 'vccwogd$', 'l', 'azsjvccwogd$', 'vjpzrmgrlazsjvccwogd$', 'mgrlazsjvccwogd$', 'nzlvjpzrmgrlazsjvccwogd$', 'ogd$', 'pzrmgrlazsjvccwogd$', 'r', 'lazsjvccwogd$', 'mgrlazsjvccwogd$', 'sjvccwogd$', 'v', 'ccwogd$', 'jpzrmgrlazsjvccwogd$', 'wogd$', 'z', 'lvjpzrmgrlazsjvccwogd$', 'rmgrlazsjvccwogd$', 'sjvccwogd$']
+SuffixTree 6
+lrtkyktcreawskujmabyyxbfqlnziq$
+['$', 'a', 'byyxbfqlnziq$', 'wskujmabyyxbfqlnziq$', 'b', 'fqlnziq$', 'yyxbfqlnziq$', 'creawskujmabyyxbfqlnziq$', 'eawskujmabyyxbfqlnziq$', 'fqlnziq$', 'iq$', 'jmabyyxbfqlnziq$', 'k', 'tcreawskujmabyyxbfqlnziq$', 'ujmabyyxbfqlnziq$', 'yktcreawskujmabyyxbfqlnziq$', 'l', 'nziq$', 'rtkyktcreawskujmabyyxbfqlnziq$', 'mabyyxbfqlnziq$', 'nziq$', 'q', '$', 'lnziq$', 'r', 'eawskujmabyyxbfqlnziq$', 'tkyktcreawskujmabyyxbfqlnziq$', 'skujmabyyxbfqlnziq$', 't', 'creawskujmabyyxbfqlnziq$', 'kyktcreawskujmabyyxbfqlnziq$', 'ujmabyyxbfqlnziq$', 'wskujmabyyxbfqlnziq$', 'xbfqlnziq$', 'y', 'ktcreawskujmabyyxbfqlnziq$', 'xbfqlnziq$', 'yxbfqlnziq$', 'ziq$']
+SuffixTree 7
+drkluwmdwittnzllugzuvlplphu$
+['$', 'd', 'rkluwmdwittnzllugzuvlplphu$', 'wittnzllugzuvlplphu$', 'gzuvlplphu$', 'hu$', 'ittnzllugzuvlplphu$', 'kluwmdwittnzllugzuvlplphu$', 'l', 'lugzuvlplphu$', 'p', 'hu$', 'lphu$', 'u', 'gzuvlplphu$', 'wmdwittnzllugzuvlplphu$', 'mdwittnzllugzuvlplphu$', 'nzllugzuvlplphu$', 'p', 'hu$', 'lphu$', 'rkluwmdwittnzllugzuvlplphu$', 't', 'nzllugzuvlplphu$', 'tnzllugzuvlplphu$', 'u', '$', 'gzuvlplphu$', 'vlplphu$', 'wmdwittnzllugzuvlplphu$', 'vlplphu$', 'w', 'ittnzllugzuvlplphu$', 'mdwittnzllugzuvlplphu$', 'z', 'llugzuvlplphu$', 'uvlplphu$']
+SuffixTree 8
+amcewxzgaytkswrfxfqilwieb$
+['$', 'a', 'mcewxzgaytkswrfxfqilwieb$', 'ytkswrfxfqilwieb$', 'b$', 'cewxzgaytkswrfxfqilwieb$', 'e', 'b$', 'wxzgaytkswrfxfqilwieb$', 'f', 'qilwieb$', 'xfqilwieb$', 'gaytkswrfxfqilwieb$', 'i', 'eb$', 'lwieb$', 'kswrfxfqilwieb$', 'lwieb$', 'mcewxzgaytkswrfxfqilwieb$', 'qilwieb$', 'rfxfqilwieb$', 'swrfxfqilwieb$', 'tkswrfxfqilwieb$', 'w', 'ieb$', 'rfxfqilwieb$', 'xzgaytkswrfxfqilwieb$', 'x', 'fqilwieb$', 'zgaytkswrfxfqilwieb$', 'ytkswrfxfqilwieb$', 'zgaytkswrfxfqilwieb$']
+SuffixTree 9
+joivjlrpjulmyocgedwqvnavmmft$
+['$', 'avmmft$', 'cgedwqvnavmmft$', 'dwqvnavmmft$', 'edwqvnavmmft$', 'ft$', 'gedwqvnavmmft$', 'ivjlrpjulmyocgedwqvnavmmft$', 'j', 'lrpjulmyocgedwqvnavmmft$', 'oivjlrpjulmyocgedwqvnavmmft$', 'ulmyocgedwqvnavmmft$', 'l', 'myocgedwqvnavmmft$', 'rpjulmyocgedwqvnavmmft$', 'm', 'ft$', 'mft$', 'yocgedwqvnavmmft$', 'navmmft$', 'o', 'cgedwqvnavmmft$', 'ivjlrpjulmyocgedwqvnavmmft$', 'pjulmyocgedwqvnavmmft$', 'qvnavmmft$', 'rpjulmyocgedwqvnavmmft$', 't$', 'ulmyocgedwqvnavmmft$', 'v', 'jlrpjulmyocgedwqvnavmmft$', 'mmft$', 'navmmft$', 'wqvnavmmft$', 'yocgedwqvnavmmft$']
+SuffixTree 10
+kcrvrymfecwlglifmpvfmihirwxg$
+['$', 'c', 'rvrymfecwlglifmpvfmihirwxg$', 'wlglifmpvfmihirwxg$', 'ecwlglifmpvfmihirwxg$', 'f', 'ecwlglifmpvfmihirwxg$', 'm', 'ihirwxg$', 'pvfmihirwxg$', 'g', '$', 'lifmpvfmihirwxg$', 'hirwxg$', 'i', 'fmpvfmihirwxg$', 'hirwxg$', 'rwxg$', 'kcrvrymfecwlglifmpvfmihirwxg$', 'l', 'glifmpvfmihirwxg$', 'ifmpvfmihirwxg$', 'm', 'fecwlglifmpvfmihirwxg$', 'ihirwxg$', 'pvfmihirwxg$', 'pvfmihirwxg$', 'r', 'vrymfecwlglifmpvfmihirwxg$', 'wxg$', 'ymfecwlglifmpvfmihirwxg$', 'v', 'fmihirwxg$', 'rymfecwlglifmpvfmihirwxg$', 'w', 'lglifmpvfmihirwxg$', 'xg$', 'xg$', 'ymfecwlglifmpvfmihirwxg$']
+SuffixTree 11
+oxkmyyhvevwjjqsyhbddm$
+['$', 'bddm$', 'd', 'dm$', 'm$', 'evwjjqsyhbddm$', 'h', 'bddm$', 'vevwjjqsyhbddm$', 'j', 'jqsyhbddm$', 'qsyhbddm$', 'kmyyhvevwjjqsyhbddm$', 'm', '$', 'yyhvevwjjqsyhbddm$', 'oxkmyyhvevwjjqsyhbddm$', 'qsyhbddm$', 'syhbddm$', 'v', 'evwjjqsyhbddm$', 'wjjqsyhbddm$', 'wjjqsyhbddm$', 'xkmyyhvevwjjqsyhbddm$', 'y', 'h', 'bddm$', 'vevwjjqsyhbddm$', 'yhvevwjjqsyhbddm$']
+SuffixTree 12
+sfstpkqzcdkbpcxqylugkqtmbljpy$
+['$', 'b', 'ljpy$', 'pcxqylugkqtmbljpy$', 'c', 'dkbpcxqylugkqtmbljpy$', 'xqylugkqtmbljpy$', 'dkbpcxqylugkqtmbljpy$', 'fstpkqzcdkbpcxqylugkqtmbljpy$', 'gkqtmbljpy$', 'jpy$', 'k', 'bpcxqylugkqtmbljpy$', 'q', 'tmbljpy$', 'zcdkbpcxqylugkqtmbljpy$', 'l', 'jpy$', 'ugkqtmbljpy$', 'mbljpy$', 'p', 'cxqylugkqtmbljpy$', 'kqzcdkbpcxqylugkqtmbljpy$', 'y$', 'q', 'tmbljpy$', 'ylugkqtmbljpy$', 'zcdkbpcxqylugkqtmbljpy$', 's', 'fstpkqzcdkbpcxqylugkqtmbljpy$', 'tpkqzcdkbpcxqylugkqtmbljpy$', 't', 'mbljpy$', 'pkqzcdkbpcxqylugkqtmbljpy$', 'ugkqtmbljpy$', 'xqylugkqtmbljpy$', 'y', '$', 'lugkqtmbljpy$', 'zcdkbpcxqylugkqtmbljpy$']
+SuffixTree 13
+vqcfchoqhkckfxyphlfes$
+['$', 'c', 'fchoqhkckfxyphlfes$', 'hoqhkckfxyphlfes$', 'kfxyphlfes$', 'es$', 'f', 'choqhkckfxyphlfes$', 'es$', 'xyphlfes$', 'h', 'kckfxyphlfes$', 'lfes$', 'oqhkckfxyphlfes$', 'k', 'ckfxyphlfes$', 'fxyphlfes$', 'lfes$', 'oqhkckfxyphlfes$', 'phlfes$', 'q', 'cfchoqhkckfxyphlfes$', 'hkckfxyphlfes$', 's$', 'vqcfchoqhkckfxyphlfes$', 'xyphlfes$', 'yphlfes$']
+SuffixTree 14
+zbiyhqsuhxvlyrrnaifebcas$
+['$', 'a', 'ifebcas$', 's$', 'b', 'cas$', 'iyhqsuhxvlyrrnaifebcas$', 'cas$', 'ebcas$', 'febcas$', 'h', 'qsuhxvlyrrnaifebcas$', 'xvlyrrnaifebcas$', 'i', 'febcas$', 'yhqsuhxvlyrrnaifebcas$', 'lyrrnaifebcas$', 'naifebcas$', 'qsuhxvlyrrnaifebcas$', 'r', 'naifebcas$', 'rnaifebcas$', 's', '$', 'uhxvlyrrnaifebcas$', 'uhxvlyrrnaifebcas$', 'vlyrrnaifebcas$', 'xvlyrrnaifebcas$', 'y', 'hqsuhxvlyrrnaifebcas$', 'rrnaifebcas$', 'zbiyhqsuhxvlyrrnaifebcas$']
+SuffixTree 15
+vxbqahqdgubydzsbezdvivyfe$
+['$', 'ahqdgubydzsbezdvivyfe$', 'b', 'ezdvivyfe$', 'qahqdgubydzsbezdvivyfe$', 'ydzsbezdvivyfe$', 'd', 'gubydzsbezdvivyfe$', 'vivyfe$', 'zsbezdvivyfe$', 'e', '$', 'zdvivyfe$', 'fe$', 'gubydzsbezdvivyfe$', 'hqdgubydzsbezdvivyfe$', 'ivyfe$', 'q', 'ahqdgubydzsbezdvivyfe$', 'dgubydzsbezdvivyfe$', 'sbezdvivyfe$', 'ubydzsbezdvivyfe$', 'v', 'ivyfe$', 'xbqahqdgubydzsbezdvivyfe$', 'yfe$', 'xbqahqdgubydzsbezdvivyfe$', 'y', 'dzsbezdvivyfe$', 'fe$', 'z', 'dvivyfe$', 'sbezdvivyfe$']
+SuffixTree 16
+fyagxfduzatcezkmwumhuutejrdjb$
+['$', 'a', 'gxfduzatcezkmwumhuutejrdjb$', 'tcezkmwumhuutejrdjb$', 'b$', 'cezkmwumhuutejrdjb$', 'd', 'jb$', 'uzatcezkmwumhuutejrdjb$', 'e', 'jrdjb$', 'zkmwumhuutejrdjb$', 'f', 'duzatcezkmwumhuutejrdjb$', 'yagxfduzatcezkmwumhuutejrdjb$', 'gxfduzatcezkmwumhuutejrdjb$', 'huutejrdjb$', 'j', 'b$', 'rdjb$', 'kmwumhuutejrdjb$', 'm', 'huutejrdjb$', 'wumhuutejrdjb$', 'rdjb$', 't', 'cezkmwumhuutejrdjb$', 'ejrdjb$', 'u', 'mhuutejrdjb$', 'tejrdjb$', 'utejrdjb$', 'zatcezkmwumhuutejrdjb$', 'wumhuutejrdjb$', 'xfduzatcezkmwumhuutejrdjb$', 'yagxfduzatcezkmwumhuutejrdjb$', 'z', 'atcezkmwumhuutejrdjb$', 'kmwumhuutejrdjb$']
+SuffixTree 17
+wpfyrnnbdhvsnrgngwjivkamy$
+['$', 'amy$', 'bdhvsnrgngwjivkamy$', 'dhvsnrgngwjivkamy$', 'fyrnnbdhvsnrgngwjivkamy$', 'g', 'ngwjivkamy$', 'wjivkamy$', 'hvsnrgngwjivkamy$', 'ivkamy$', 'jivkamy$', 'kamy$', 'my$', 'n', 'bdhvsnrgngwjivkamy$', 'gwjivkamy$', 'nbdhvsnrgngwjivkamy$', 'rgngwjivkamy$', 'pfyrnnbdhvsnrgngwjivkamy$', 'r', 'gngwjivkamy$', 'nnbdhvsnrgngwjivkamy$', 'snrgngwjivkamy$', 'v', 'kamy$', 'snrgngwjivkamy$', 'w', 'jivkamy$', 'pfyrnnbdhvsnrgngwjivkamy$', 'y', '$', 'rnnbdhvsnrgngwjivkamy$']
+SuffixTree 18
+lhhdqcvxiebilzoexavhoto$
+['$', 'avhoto$', 'bilzoexavhoto$', 'cvxiebilzoexavhoto$', 'dqcvxiebilzoexavhoto$', 'e', 'bilzoexavhoto$', 'xavhoto$', 'h', 'dqcvxiebilzoexavhoto$', 'hdqcvxiebilzoexavhoto$', 'oto$', 'i', 'ebilzoexavhoto$', 'lzoexavhoto$', 'l', 'hhdqcvxiebilzoexavhoto$', 'zoexavhoto$', 'o', '$', 'exavhoto$', 'to$', 'qcvxiebilzoexavhoto$', 'to$', 'v', 'hoto$', 'xiebilzoexavhoto$', 'x', 'avhoto$', 'iebilzoexavhoto$', 'zoexavhoto$']
+SuffixTree 19
+bhevdyhcigvzhaetkvrrcsitixq$
+['$', 'aetkvrrcsitixq$', 'bhevdyhcigvzhaetkvrrcsitixq$', 'c', 'igvzhaetkvrrcsitixq$', 'sitixq$', 'dyhcigvzhaetkvrrcsitixq$', 'e', 'tkvrrcsitixq$', 'vdyhcigvzhaetkvrrcsitixq$', 'gvzhaetkvrrcsitixq$', 'h', 'aetkvrrcsitixq$', 'cigvzhaetkvrrcsitixq$', 'evdyhcigvzhaetkvrrcsitixq$', 'i', 'gvzhaetkvrrcsitixq$', 'tixq$', 'xq$', 'kvrrcsitixq$', 'q$', 'r', 'csitixq$', 'rcsitixq$', 'sitixq$', 't', 'ixq$', 'kvrrcsitixq$', 'v', 'dyhcigvzhaetkvrrcsitixq$', 'rrcsitixq$', 'zhaetkvrrcsitixq$', 'xq$', 'yhcigvzhaetkvrrcsitixq$', 'zhaetkvrrcsitixq$']
+SuffixTree 20
+rvqtgjwgeghlshzqwwggee$
+['$', 'e', '$', 'e$', 'ghlshzqwwggee$', 'g', 'e', 'e$', 'ghlshzqwwggee$', 'gee$', 'hlshzqwwggee$', 'jwgeghlshzqwwggee$', 'h', 'lshzqwwggee$', 'zqwwggee$', 'jwgeghlshzqwwggee$', 'lshzqwwggee$', 'q', 'tgjwgeghlshzqwwggee$', 'wwggee$', 'rvqtgjwgeghlshzqwwggee$', 'shzqwwggee$', 'tgjwgeghlshzqwwggee$', 'vqtgjwgeghlshzqwwggee$', 'w', 'g', 'eghlshzqwwggee$', 'gee$', 'wggee$', 'zqwwggee$']
+SuffixTree 21
+ucnbphdzaggbfdbciqgnlvxwt$
+['$', 'aggbfdbciqgnlvxwt$', 'b', 'ciqgnlvxwt$', 'fdbciqgnlvxwt$', 'phdzaggbfdbciqgnlvxwt$', 'c', 'iqgnlvxwt$', 'nbphdzaggbfdbciqgnlvxwt$', 'd', 'bciqgnlvxwt$', 'zaggbfdbciqgnlvxwt$', 'fdbciqgnlvxwt$', 'g', 'bfdbciqgnlvxwt$', 'gbfdbciqgnlvxwt$', 'nlvxwt$', 'hdzaggbfdbciqgnlvxwt$', 'iqgnlvxwt$', 'lvxwt$', 'n', 'bphdzaggbfdbciqgnlvxwt$', 'lvxwt$', 'phdzaggbfdbciqgnlvxwt$', 'qgnlvxwt$', 't$', 'ucnbphdzaggbfdbciqgnlvxwt$', 'vxwt$', 'wt$', 'xwt$', 'zaggbfdbciqgnlvxwt$']
+SuffixTree 22
+hwptoxtpanmveotwltbftxrbtxa$
+['$', 'a', '$', 'nmveotwltbftxrbtxa$', 'b', 'ftxrbtxa$', 'txa$', 'eotwltbftxrbtxa$', 'ftxrbtxa$', 'hwptoxtpanmveotwltbftxrbtxa$', 'ltbftxrbtxa$', 'mveotwltbftxrbtxa$', 'nmveotwltbftxrbtxa$', 'o', 'twltbftxrbtxa$', 'xtpanmveotwltbftxrbtxa$', 'p', 'anmveotwltbftxrbtxa$', 'toxtpanmveotwltbftxrbtxa$', 'rbtxa$', 't', 'bftxrbtxa$', 'oxtpanmveotwltbftxrbtxa$', 'panmveotwltbftxrbtxa$', 'wltbftxrbtxa$', 'x', 'a$', 'rbtxa$', 'veotwltbftxrbtxa$', 'w', 'ltbftxrbtxa$', 'ptoxtpanmveotwltbftxrbtxa$', 'x', 'a$', 'rbtxa$', 'tpanmveotwltbftxrbtxa$']
+SuffixTree 23
+ykkfpxypdyzyxmsilxlyalmth$
+['$', 'almth$', 'dyzyxmsilxlyalmth$', 'fpxypdyzyxmsilxlyalmth$', 'h$', 'ilxlyalmth$', 'k', 'fpxypdyzyxmsilxlyalmth$', 'kfpxypdyzyxmsilxlyalmth$', 'l', 'mth$', 'xlyalmth$', 'yalmth$', 'm', 'silxlyalmth$', 'th$', 'p', 'dyzyxmsilxlyalmth$', 'xypdyzyxmsilxlyalmth$', 'silxlyalmth$', 'th$', 'x', 'lyalmth$', 'msilxlyalmth$', 'ypdyzyxmsilxlyalmth$', 'y', 'almth$', 'kkfpxypdyzyxmsilxlyalmth$', 'pdyzyxmsilxlyalmth$', 'xmsilxlyalmth$', 'zyxmsilxlyalmth$', 'zyxmsilxlyalmth$']
+SuffixTree 24
+ubtrwsxowfmxthxghnthwz$
+['$', 'btrwsxowfmxthxghnthwz$', 'fmxthxghnthwz$', 'ghnthwz$', 'h', 'nthwz$', 'wz$', 'xghnthwz$', 'mxthxghnthwz$', 'nthwz$', 'owfmxthxghnthwz$', 'rwsxowfmxthxghnthwz$', 'sxowfmxthxghnthwz$', 't', 'h', 'wz$', 'xghnthwz$', 'rwsxowfmxthxghnthwz$', 'ubtrwsxowfmxthxghnthwz$', 'w', 'fmxthxghnthwz$', 'sxowfmxthxghnthwz$', 'z$', 'x', 'ghnthwz$', 'owfmxthxghnthwz$', 'thxghnthwz$', 'z$']
+SuffixTree 25
+aomsphpcshbqfqqecedduwhnpml$
+['$', 'aomsphpcshbqfqqecedduwhnpml$', 'bqfqqecedduwhnpml$', 'c', 'edduwhnpml$', 'shbqfqqecedduwhnpml$', 'd', 'duwhnpml$', 'uwhnpml$', 'e', 'cedduwhnpml$', 'dduwhnpml$', 'fqqecedduwhnpml$', 'h', 'bqfqqecedduwhnpml$', 'npml$', 'pcshbqfqqecedduwhnpml$', 'l$', 'm', 'l$', 'sphpcshbqfqqecedduwhnpml$', 'npml$', 'omsphpcshbqfqqecedduwhnpml$', 'p', 'cshbqfqqecedduwhnpml$', 'hpcshbqfqqecedduwhnpml$', 'ml$', 'q', 'ecedduwhnpml$', 'fqqecedduwhnpml$', 'qecedduwhnpml$', 's', 'hbqfqqecedduwhnpml$', 'phpcshbqfqqecedduwhnpml$', 'uwhnpml$', 'whnpml$']
+SuffixTree 26
+dlunlogdztyhipnikpsslpnelk$
+['$', 'd', 'lunlogdztyhipnikpsslpnelk$', 'ztyhipnikpsslpnelk$', 'elk$', 'gdztyhipnikpsslpnelk$', 'hipnikpsslpnelk$', 'i', 'kpsslpnelk$', 'pnikpsslpnelk$', 'k', '$', 'psslpnelk$', 'l', 'k$', 'ogdztyhipnikpsslpnelk$', 'pnelk$', 'unlogdztyhipnikpsslpnelk$', 'n', 'elk$', 'ikpsslpnelk$', 'logdztyhipnikpsslpnelk$', 'ogdztyhipnikpsslpnelk$', 'p', 'n', 'elk$', 'ikpsslpnelk$', 'sslpnelk$', 's', 'lpnelk$', 'slpnelk$', 'tyhipnikpsslpnelk$', 'unlogdztyhipnikpsslpnelk$', 'yhipnikpsslpnelk$', 'ztyhipnikpsslpnelk$']
+SuffixTree 27
+xrdwhgvvodihriuhkhlacupx$
+['$', 'acupx$', 'cupx$', 'd', 'ihriuhkhlacupx$', 'whgvvodihriuhkhlacupx$', 'gvvodihriuhkhlacupx$', 'h', 'gvvodihriuhkhlacupx$', 'khlacupx$', 'lacupx$', 'riuhkhlacupx$', 'i', 'hriuhkhlacupx$', 'uhkhlacupx$', 'khlacupx$', 'lacupx$', 'odihriuhkhlacupx$', 'px$', 'r', 'dwhgvvodihriuhkhlacupx$', 'iuhkhlacupx$', 'u', 'hkhlacupx$', 'px$', 'v', 'odihriuhkhlacupx$', 'vodihriuhkhlacupx$', 'whgvvodihriuhkhlacupx$', 'x', '$', 'rdwhgvvodihriuhkhlacupx$']
+SuffixTree 28
+bcdcbegwyppywqvnljokur$
+['$', 'b', 'cdcbegwyppywqvnljokur$', 'egwyppywqvnljokur$', 'c', 'begwyppywqvnljokur$', 'dcbegwyppywqvnljokur$', 'dcbegwyppywqvnljokur$', 'egwyppywqvnljokur$', 'gwyppywqvnljokur$', 'jokur$', 'kur$', 'ljokur$', 'nljokur$', 'okur$', 'p', 'pywqvnljokur$', 'ywqvnljokur$', 'qvnljokur$', 'r$', 'ur$', 'vnljokur$', 'w', 'qvnljokur$', 'yppywqvnljokur$', 'y', 'ppywqvnljokur$', 'wqvnljokur$']
+SuffixTree 29
+mjkwyndhtidmvbotivvbipvsjtalqs$
+['$', 'alqs$', 'b', 'ipvsjtalqs$', 'otivvbipvsjtalqs$', 'd', 'htidmvbotivvbipvsjtalqs$', 'mvbotivvbipvsjtalqs$', 'htidmvbotivvbipvsjtalqs$', 'i', 'dmvbotivvbipvsjtalqs$', 'pvsjtalqs$', 'vvbipvsjtalqs$', 'j', 'kwyndhtidmvbotivvbipvsjtalqs$', 'talqs$', 'kwyndhtidmvbotivvbipvsjtalqs$', 'lqs$', 'm', 'jkwyndhtidmvbotivvbipvsjtalqs$', 'vbotivvbipvsjtalqs$', 'ndhtidmvbotivvbipvsjtalqs$', 'otivvbipvsjtalqs$', 'pvsjtalqs$', 'qs$', 's', '$', 'jtalqs$', 't', 'alqs$', 'i', 'dmvbotivvbipvsjtalqs$', 'vvbipvsjtalqs$', 'v', 'b', 'ipvsjtalqs$', 'otivvbipvsjtalqs$', 'sjtalqs$', 'vbipvsjtalqs$', 'wyndhtidmvbotivvbipvsjtalqs$', 'yndhtidmvbotivvbipvsjtalqs$']

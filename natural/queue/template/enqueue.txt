@@ -1,0 +1,30 @@
+{name} ran over from the swings and joined the ice cream line.
+Hearing the truck's jingle, {name} hurried up and took their place in the line.
+With money in hand, {name} stepped into the queue.
+{name} spotted the growing line and quietly joined.
+Excited for a popsicle, {name} dashed over and got in line.
+After finishing their game of tag, {name} ran to join the ice cream line.
+{name} noticed the crowd by the truck and quickly joined the line before it got longer.
+Drawn by the sound of laughter and cones being handed out, {name} made their way to the queue.
+{name} clutched a few coins and quietly took a spot in line.
+Without saying a word, {name} joined the queue, eyes fixed on the menu board above the ice cream truck.
+{name_prev} waved at {name} to come over and {name} joined too.
+{name} happily joined, seeing their best friend {name_prev}. 
+{name_prev} told {name} about the ice cream truck, and {name} soon joined the line. 
+{name_prev} invited her friend, {name}, who decided to get ice cream too and joined the line.
+{name_prev} waved at {name}, who came over and joined the queue.
+After hearing about the ice cream truck from {name_prev}, {name} decided to line up too.
+{name} joined the queue after {name_prev} mentioned how good the ice cream looked.
+Seeing {name_prev} near the truck, {name} decided to get in line as well.
+{name} was convinced to join the line after talking with {name_prev}.
+When {name_prev} pointed out the ice cream truck, {name} eagerly ran to join the queue.
+{name} and {extra_name} arrived at the park, but only {name} chose to wait in line.
+{name} spotted the truck and called {extra_name} over, but only {name} joined the queue because {extra_name} had no money.
+{name} joined the back of the queue, while {extra_name} decided it was too hot to wait and went home.
+{name} joined the line alone, even though she had come to the park with {extra_name}, who wasn't interested in ice cream.
+{name} joined the queue to buy an ice cream for his little sister {extra_name}. 
+{name} lined up at the truck, hoping to surprise {extra_name} with her favorite ice cream.
+To treat {extra_name} on a hot day, {name} got in line for a cold, sweet cone.
+{name} entered the queue with the plan to bring home a popsicle for {extra_name}, who had stayed at the playground.
+{name} stepped into line, determined to bring back a treat for {extra_name}, who wasn’t feeling well.
+While {extra_name} waited on a bench nearby, {name} joined the queue to grab them something cold and sweet.

@@ -1,0 +1,23 @@
+Q: Given an empty B+ tree with order 4 and the following sequence of operations, what is the final state of the tree as a pre-order traversal (a list of nodes' keys), ensuring that keys in each node are sorted in ascending order? 
+insert 26
+delete 26
+insert 97
+insert 53
+delete 53
+A: [[97]]
+
+Q: Given an empty B+ tree with order 4 and the following sequence of operations, what is the final state of the tree as a pre-order traversal (a list of nodes' keys), ensuring that keys in each node are sorted in ascending order? 
+insert 56
+insert 82
+delete 82
+insert 78
+insert 20
+A: [[20, 56, 78]]
+
+Q: Given an empty B+ tree with order 4 and the following sequence of operations, what is the final state of the tree as a pre-order traversal (a list of nodes' keys), ensuring that keys in each node are sorted in ascending order? 
+insert 61
+insert 92
+insert 43
+insert 45
+delete 92
+A: [[61], [43, 45], [61]]

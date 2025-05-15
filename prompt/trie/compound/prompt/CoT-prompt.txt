@@ -1,0 +1,17 @@
+Q: You are given an empty trie tree, what is its final state after the following operations? 
+insert yvhjeofl
+insert yvhjeofq
+delete yvhjeofq
+insert yvhjeycoudf
+insert yvkxxqwqkm
+A: 
+After inserting "yvhjeofl", the tree becomes ['', 'y', 'v', 'h', 'j', 'e', 'o', 'f', 'l'].
+To insert "yvhjeofq", we traverse from the root '' -> 'y' -> 'v' -> 'h' -> 'j' -> 'e' -> 'o' -> 'f', and insert 'q' as a leaf node for 'f'. 
+The pre-order traversal of the tree becomes ['', 'y', 'v', 'h', 'j', 'e', 'o', 'f', 'l', 'q']. 
+To delete "yvhjeofq", we traverse from the root '' -> 'y' -> 'v' -> 'h' -> 'j' -> 'e' -> 'o' -> 'f' -> 'q', and only delete 'q' because all parent nodes in the path are shared by another string. 
+The pre-order traversal of the tree becomes ['', 'y', 'v', 'h', 'j', 'e', 'o', 'f', 'l'].
+To insert "yvhjeycoudf", we traverse from the root '' -> 'y' -> 'v' -> 'h' -> 'j' -> 'e', and insert the rest of the string 'y', 'c', 'o', 'u', 'd', 'f' sequentially after 'e'. 
+The pre-order traversal of the tree becomes ['', 'y', 'v', 'h', 'j', 'e', 'o', 'f', 'l', 'y', 'c', 'o', 'u', 'd', 'f'].
+To insert "yvkxxqwqkm", we traverse from the root '' -> 'y' -> 'v', and insert the rest of the string 'k', 'x', 'x', 'q', 'w', 'q', 'k', 'm' sequentially after 'v'. 
+The pre-order traversal of the tree becomes ['', 'y', 'v', 'h', 'j', 'e', 'o', 'f', 'l', 'y', 'c', 'o', 'u', 'd', 'f', 'k', 'x', 'x', 'q', 'w', 'q', 'k', 'm']. 
+The final state of the trie tree in pre-order traversal is ['', 'y', 'v', 'h', 'j', 'e', 'o', 'f', 'l', 'y', 'c', 'o', 'u', 'd', 'f', 'k', 'x', 'x', 'q', 'w', 'q', 'k', 'm'].

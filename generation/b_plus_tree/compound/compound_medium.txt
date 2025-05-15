@@ -1,0 +1,523 @@
+BPlusTree 0 (Order: 6)
+insert 44
+insert 53
+insert 0
+insert 10
+insert 93
+insert 80
+insert 71
+delete 71
+delete 0
+insert 75
+delete 80
+insert 21
+[[53], [10, 21, 44], [53, 75, 93]]
+BPlusTree 1 (Order: 6)
+insert 96
+delete 96
+insert 22
+insert 14
+insert 97
+insert 69
+insert 17
+insert 74
+insert 58
+insert 14
+delete 74
+delete 22
+delete 17
+[[69], [14, 14, 58], [69, 97]]
+BPlusTree 2 (Order: 6)
+insert 9
+insert 29
+insert 9
+insert 29
+insert 64
+insert 85
+insert 40
+insert 11
+insert 74
+insert 9
+delete 64
+[[29], [9, 9, 9, 11, 29], [29, 40, 74, 85]]
+BPlusTree 3 (Order: 6)
+insert 11
+insert 28
+insert 39
+insert 80
+insert 6
+insert 87
+insert 85
+delete 87
+insert 65
+insert 47
+insert 5
+[[39], [5, 6, 11, 28], [39, 47, 65, 80, 85]]
+BPlusTree 4 (Order: 6)
+insert 44
+delete 44
+insert 54
+delete 54
+insert 66
+delete 66
+insert 72
+insert 49
+insert 41
+delete 72
+delete 49
+insert 23
+insert 56
+insert 17
+insert 56
+delete 41
+insert 98
+[[17, 23, 56, 56, 98]]
+BPlusTree 5 (Order: 6)
+insert 78
+insert 65
+insert 54
+delete 78
+insert 96
+insert 37
+insert 52
+insert 40
+delete 65
+delete 54
+insert 34
+insert 16
+[[54], [16, 34, 37, 40, 52], [96]]
+BPlusTree 6 (Order: 6)
+insert 25
+delete 25
+insert 72
+insert 78
+insert 41
+delete 72
+insert 25
+delete 78
+insert 32
+insert 28
+delete 25
+insert 60
+delete 41
+delete 60
+delete 32
+insert 13
+insert 47
+insert 56
+delete 56
+delete 47
+[[13, 28]]
+BPlusTree 7 (Order: 6)
+insert 70
+delete 70
+insert 67
+insert 75
+insert 36
+delete 75
+insert 36
+insert 66
+insert 77
+delete 67
+insert 33
+insert 91
+insert 72
+insert 45
+insert 23
+insert 6
+insert 83
+insert 44
+[[36, 66], [6, 23, 33], [36, 36, 44, 45], [66, 72, 77, 83, 91]]
+BPlusTree 8 (Order: 6)
+insert 56
+delete 56
+insert 22
+delete 22
+insert 5
+insert 66
+insert 67
+delete 5
+insert 47
+insert 41
+insert 15
+delete 66
+delete 47
+insert 68
+insert 29
+[[15, 29, 41, 67, 68]]
+BPlusTree 9 (Order: 6)
+insert 96
+delete 96
+insert 97
+delete 97
+insert 40
+delete 40
+insert 44
+insert 53
+delete 53
+delete 44
+insert 38
+delete 38
+insert 59
+insert 11
+insert 21
+insert 14
+insert 32
+insert 14
+insert 4
+[[21], [4, 11, 14, 14], [21, 32, 59]]
+BPlusTree 10 (Order: 6)
+insert 58
+delete 58
+insert 52
+insert 16
+delete 52
+insert 99
+delete 16
+insert 93
+delete 93
+insert 76
+insert 46
+insert 32
+[[32, 46, 76, 99]]
+BPlusTree 11 (Order: 6)
+insert 85
+delete 85
+insert 22
+delete 22
+insert 50
+insert 41
+insert 56
+delete 50
+insert 54
+insert 26
+delete 26
+insert 21
+delete 54
+delete 56
+insert 1
+insert 73
+insert 77
+delete 73
+[[1, 21, 41, 77]]
+BPlusTree 12 (Order: 6)
+insert 79
+insert 7
+delete 7
+delete 79
+insert 12
+delete 12
+insert 67
+delete 67
+insert 2
+insert 59
+insert 66
+delete 59
+delete 66
+insert 61
+insert 17
+insert 49
+insert 79
+insert 88
+insert 42
+[[61], [2, 17, 42, 49], [61, 79, 88]]
+BPlusTree 13 (Order: 6)
+insert 38
+insert 39
+insert 74
+delete 38
+insert 19
+insert 39
+delete 39
+insert 16
+insert 79
+insert 25
+insert 61
+insert 30
+delete 30
+insert 81
+insert 86
+insert 27
+insert 100
+insert 37
+insert 59
+[[39, 79], [16, 19, 25, 27, 37], [39, 59, 61, 74], [79, 81, 86, 100]]
+BPlusTree 14 (Order: 6)
+insert 73
+delete 73
+insert 90
+insert 28
+insert 16
+insert 97
+delete 16
+delete 90
+delete 97
+delete 28
+insert 7
+delete 7
+insert 41
+delete 41
+insert 77
+[[77]]
+BPlusTree 15 (Order: 6)
+insert 55
+insert 24
+insert 3
+delete 55
+insert 7
+delete 7
+insert 69
+insert 30
+insert 7
+insert 11
+insert 42
+insert 44
+insert 14
+insert 21
+insert 17
+[[14, 24], [3, 7, 11], [14, 17, 21], [24, 30, 42, 44, 69]]
+BPlusTree 16 (Order: 6)
+insert 12
+delete 12
+insert 78
+insert 24
+insert 11
+insert 60
+delete 60
+insert 76
+delete 76
+insert 55
+delete 78
+insert 9
+insert 30
+[[9, 11, 24, 30, 55]]
+BPlusTree 17 (Order: 6)
+insert 90
+insert 64
+delete 64
+delete 90
+insert 19
+delete 19
+insert 11
+insert 92
+delete 11
+delete 92
+insert 28
+insert 50
+insert 52
+insert 74
+[[28, 50, 52, 74]]
+BPlusTree 18 (Order: 6)
+insert 53
+insert 95
+insert 84
+insert 53
+insert 41
+insert 39
+insert 85
+delete 53
+insert 15
+insert 16
+insert 32
+insert 18
+insert 27
+insert 43
+[[39, 53], [15, 16, 18, 27, 32], [39, 41, 43, 53], [84, 85, 95]]
+BPlusTree 19 (Order: 6)
+insert 85
+insert 75
+insert 20
+insert 67
+delete 20
+delete 67
+insert 23
+insert 98
+insert 46
+insert 79
+insert 78
+insert 8
+delete 79
+insert 61
+insert 100
+insert 75
+insert 13
+delete 75
+delete 78
+insert 12
+[[61, 79], [8, 12, 13, 23, 46], [61, 75], [85, 98, 100]]
+BPlusTree 20 (Order: 6)
+insert 60
+insert 6
+delete 60
+delete 6
+insert 0
+insert 81
+delete 81
+insert 56
+insert 53
+insert 0
+delete 0
+insert 48
+insert 83
+delete 0
+[[48, 53, 56, 83]]
+BPlusTree 21 (Order: 6)
+insert 89
+insert 84
+delete 89
+insert 11
+insert 17
+insert 75
+delete 17
+insert 67
+insert 53
+insert 75
+insert 59
+insert 27
+[[75], [11, 27, 53, 59, 67], [75, 75, 84]]
+BPlusTree 22 (Order: 6)
+insert 74
+insert 81
+insert 23
+delete 81
+insert 66
+delete 74
+insert 37
+insert 99
+insert 30
+delete 23
+insert 74
+delete 30
+insert 38
+insert 90
+insert 74
+insert 53
+delete 74
+insert 39
+[[74], [37, 38, 39, 53, 66], [74, 90, 99]]
+BPlusTree 23 (Order: 6)
+insert 1
+insert 56
+insert 2
+insert 65
+insert 29
+insert 57
+insert 83
+delete 2
+delete 1
+insert 99
+insert 28
+insert 53
+[[56], [28, 29, 53], [56, 57, 65, 83, 99]]
+BPlusTree 24 (Order: 6)
+insert 22
+insert 68
+insert 28
+insert 72
+delete 72
+delete 22
+delete 28
+insert 29
+insert 54
+insert 68
+insert 15
+insert 51
+delete 68
+insert 4
+delete 54
+insert 32
+insert 67
+insert 1
+insert 80
+[[29, 54], [1, 4, 15], [29, 32, 51], [67, 68, 80]]
+BPlusTree 25 (Order: 6)
+insert 44
+insert 48
+delete 48
+insert 76
+insert 91
+insert 20
+insert 16
+delete 76
+delete 91
+delete 20
+delete 44
+insert 42
+delete 42
+insert 83
+[[16, 83]]
+BPlusTree 26 (Order: 6)
+insert 29
+delete 29
+insert 78
+insert 45
+delete 45
+delete 78
+insert 40
+insert 72
+insert 41
+insert 34
+insert 39
+insert 42
+delete 40
+insert 33
+insert 19
+insert 100
+insert 8
+insert 85
+insert 88
+[[41, 85], [8, 19, 33, 34, 39], [41, 42, 72], [85, 88, 100]]
+BPlusTree 27 (Order: 6)
+insert 54
+insert 100
+insert 49
+insert 3
+insert 62
+insert 43
+insert 0
+insert 88
+insert 37
+insert 71
+insert 18
+insert 50
+insert 28
+delete 43
+insert 73
+delete 88
+[[37, 54, 73], [0, 3, 18, 28], [37, 49, 50], [54, 62, 71], [73, 100]]
+BPlusTree 28 (Order: 6)
+insert 55
+delete 55
+insert 27
+insert 67
+insert 89
+insert 62
+insert 19
+insert 3
+insert 37
+insert 85
+insert 77
+insert 84
+insert 66
+insert 62
+insert 50
+[[62, 84], [3, 19, 27, 37, 50], [62, 62, 66, 67, 77], [84, 85, 89]]
+BPlusTree 29 (Order: 6)
+insert 12
+insert 20
+delete 20
+insert 82
+insert 91
+insert 46
+insert 9
+insert 4
+delete 9
+delete 82
+insert 5
+insert 83
+insert 12
+insert 84
+delete 91
+insert 49
+insert 47
+[[46], [4, 5, 12, 12], [46, 47, 49, 83, 84]]

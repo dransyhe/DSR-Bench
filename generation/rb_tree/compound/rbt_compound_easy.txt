@@ -1,0 +1,271 @@
+Tree 0
+Insert: 38
+Insert: 64
+Insert: 62
+Insert: 26
+Insert: 41
+Delete: 26
+Delete: 62
+Pre-order: [[41, 'b'],[38, 'b'],[64, 'b']]
+Tree 1
+Insert: 78
+Delete: 78
+Insert: 71
+Insert: 41
+Delete: 41
+Insert: 4
+Insert: 6
+Delete: 4
+Pre-order: [[6, 'b'],[71, 'r']]
+Tree 2
+Insert: 99
+Delete: 99
+Insert: 91
+Insert: 42
+Delete: 42
+Delete: 91
+Insert: 29
+Pre-order: [[29, 'b']]
+Tree 3
+Insert: 91
+Delete: 91
+Insert: 46
+Insert: 40
+Insert: 0
+Insert: 66
+Pre-order: [[40, 'b'],[0, 'b'],[46, 'b'],[66, 'r']]
+Tree 4
+Insert: 7
+Delete: 7
+Insert: 12
+Insert: 91
+Insert: 36
+Delete: 12
+Insert: 92
+Insert: 94
+Insert: 86
+Pre-order: [[91, 'b'],[36, 'b'],[86, 'r'],[92, 'b'],[94, 'r']]
+Tree 5
+Insert: 63
+Insert: 98
+Insert: 12
+Insert: 73
+Insert: 95
+Delete: 95
+Insert: 32
+Pre-order: [[63, 'b'],[12, 'b'],[32, 'r'],[98, 'b'],[73, 'r']]
+Tree 6
+Insert: 63
+Insert: 8
+Delete: 63
+Insert: 67
+Insert: 18
+Insert: 27
+Insert: 58
+Pre-order: [[18, 'b'],[8, 'b'],[58, 'b'],[27, 'r'],[67, 'r']]
+Tree 7
+Insert: 0
+Insert: 66
+Delete: 0
+Insert: 96
+Insert: 35
+Pre-order: [[66, 'b'],[35, 'r'],[96, 'r']]
+Tree 8
+Insert: 52
+Insert: 100
+Insert: 55
+Insert: 77
+Insert: 50
+Insert: 85
+Pre-order: [[55, 'b'],[52, 'b'],[50, 'r'],[85, 'b'],[77, 'r'],[100, 'r']]
+Tree 9
+Insert: 57
+Delete: 57
+Insert: 32
+Insert: 17
+Insert: 100
+Pre-order: [[32, 'b'],[17, 'r'],[100, 'r']]
+Tree 10
+Insert: 63
+Insert: 65
+Delete: 63
+Insert: 94
+Insert: 46
+Insert: 23
+Pre-order: [[65, 'b'],[46, 'b'],[23, 'r'],[94, 'b']]
+Tree 11
+Insert: 18
+Insert: 81
+Delete: 18
+Insert: 58
+Insert: 16
+Insert: 91
+Delete: 91
+Insert: 32
+Insert: 64
+Pre-order: [[58, 'b'],[16, 'b'],[32, 'r'],[81, 'b'],[64, 'r']]
+Tree 12
+Insert: 19
+Insert: 3
+Delete: 3
+Insert: 38
+Delete: 38
+Pre-order: [[19, 'b']]
+Tree 13
+Insert: 98
+Insert: 37
+Delete: 98
+Delete: 37
+Insert: 75
+Insert: 77
+Delete: 75
+Insert: 78
+Insert: 97
+Pre-order: [[78, 'b'],[77, 'r'],[97, 'r']]
+Tree 14
+Insert: 88
+Delete: 88
+Insert: 48
+Delete: 48
+Insert: 17
+Insert: 71
+Insert: 62
+Pre-order: [[62, 'b'],[17, 'r'],[71, 'r']]
+Tree 15
+Insert: 7
+Delete: 7
+Insert: 65
+Delete: 65
+Insert: 1
+Delete: 1
+Insert: 10
+Insert: 34
+Insert: 4
+Pre-order: [[10, 'b'],[4, 'r'],[34, 'r']]
+Tree 16
+Insert: 75
+Insert: 32
+Delete: 32
+Insert: 72
+Delete: 75
+Delete: 72
+Pre-order: []
+Tree 17
+Insert: 89
+Insert: 28
+Insert: 17
+Delete: 28
+Insert: 65
+Insert: 72
+Insert: 5
+Insert: 13
+Delete: 5
+Pre-order: [[65, 'b'],[13, 'b'],[17, 'r'],[89, 'b'],[72, 'r']]
+Tree 18
+Insert: 80
+Insert: 38
+Delete: 80
+Insert: 53
+Insert: 18
+Insert: 9
+Delete: 38
+Insert: 1
+Insert: 38
+Pre-order: [[18, 'b'],[9, 'b'],[1, 'r'],[53, 'b'],[38, 'r']]
+Tree 19
+Insert: 99
+Insert: 74
+Delete: 74
+Delete: 99
+Insert: 85
+Pre-order: [[85, 'b']]
+Tree 20
+Insert: 35
+Delete: 35
+Insert: 35
+Insert: 87
+Delete: 35
+Pre-order: [[87, 'b']]
+Tree 21
+Insert: 46
+Insert: 46
+Insert: 13
+Insert: 7
+Insert: 3
+Delete: 13
+Delete: 7
+Pre-order: [[46, 'b'],[3, 'b'],[46, 'b']]
+Tree 22
+Insert: 13
+Insert: 32
+Insert: 91
+Delete: 13
+Insert: 19
+Delete: 32
+Insert: 9
+Insert: 40
+Delete: 9
+Pre-order: [[40, 'b'],[19, 'b'],[91, 'b']]
+Tree 23
+Insert: 71
+Insert: 34
+Insert: 64
+Insert: 34
+Insert: 81
+Delete: 34
+Insert: 16
+Insert: 83
+Insert: 70
+Insert: 94
+Pre-order: [[64, 'b'],[34, 'b'],[16, 'r'],[81, 'r'],[71, 'b'],[70, 'r'],[83, 'b'],[94, 'r']]
+Tree 24
+Insert: 15
+Insert: 56
+Insert: 80
+Insert: 1
+Delete: 1
+Pre-order: [[56, 'b'],[15, 'b'],[80, 'b']]
+Tree 25
+Insert: 45
+Insert: 57
+Delete: 57
+Delete: 45
+Insert: 74
+Pre-order: [[74, 'b']]
+Tree 26
+Insert: 12
+Insert: 3
+Delete: 3
+Delete: 12
+Insert: 29
+Delete: 29
+Insert: 48
+Pre-order: [[48, 'b']]
+Tree 27
+Insert: 3
+Delete: 3
+Insert: 28
+Insert: 66
+Insert: 73
+Pre-order: [[66, 'b'],[28, 'r'],[73, 'r']]
+Tree 28
+Insert: 73
+Insert: 4
+Insert: 38
+Delete: 38
+Insert: 53
+Insert: 0
+Delete: 0
+Insert: 91
+Insert: 92
+Insert: 23
+Pre-order: [[53, 'b'],[4, 'b'],[23, 'r'],[91, 'b'],[73, 'r'],[92, 'r']]
+Tree 29
+Insert: 21
+Insert: 95
+Insert: 99
+Delete: 99
+Delete: 21
+Insert: 5
+Insert: 62
+Pre-order: [[62, 'b'],[5, 'r'],[95, 'r']]

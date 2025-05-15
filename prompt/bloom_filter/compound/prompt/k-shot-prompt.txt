@@ -1,0 +1,26 @@
+Q: You are given an empty Counting Bloom Filter with m = 20 and k = 3.
+What is the final state of the Counting Bloom Filter, represented as its count array (a list of integer counts), after the following operations? 
+insert 37
+insert 77
+delete 37
+insert 7
+insert 24
+A: [1, 1, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+
+Q: You are given an empty Counting Bloom Filter with m = 20 and k = 3.
+What is the final state of the Counting Bloom Filter, represented as its count array (a list of integer counts), after the following operations? 
+insert 9
+insert 99
+delete 99
+delete 9
+insert 86
+A: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Q: You are given an empty Counting Bloom Filter with m = 20 and k = 3.
+What is the final state of the Counting Bloom Filter, represented as its count array (a list of integer counts), after the following operations? 
+insert 36
+delete 36
+insert 23
+delete 23
+insert 76
+A: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]

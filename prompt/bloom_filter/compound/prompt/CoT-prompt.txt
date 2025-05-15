@@ -1,0 +1,99 @@
+Q: You are given an empty Counting Bloom Filter with m = 20 and k = 3.
+What is the final state of the Counting Bloom Filter, represented as its count array (a list of integer counts), after the following operations? 
+insert 29
+insert 47
+insert 88
+delete 88
+insert 39
+A: 
+We insert 29.
+We hash item: 29 with salt 0 and size 20.
+Startin from h=0, for each char c in str(29), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 6607.
+Add the salt value 0 to h, giving us 6607.
+The final hash value is h modulo m: 7.
+We increment 1 to index 7 in the bloom filter.
+We hash item: 29 with salt 1 and size 20.
+Startin from h=0, for each char c in str(29), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 6607.
+Add the salt value 1 to h, giving us 6608.
+The final hash value is h modulo m: 8.
+We increment 1 to index 8 in the bloom filter.
+We hash item: 29 with salt 2 and size 20.
+Startin from h=0, for each char c in str(29), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 6607.
+Add the salt value 2 to h, giving us 6609.
+The final hash value is h modulo m: 9.
+We increment 1 to index 9 in the bloom filter.
+We stop because we used 3 salt values. 
+This gives us the state: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].
+We insert 47.
+We hash item: 47 with salt 0 and size 20.
+Startin from h=0, for each char c in str(47), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 6867.
+Add the salt value 0 to h, giving us 6867.
+The final hash value is h modulo m: 7.
+We increment 1 to index 7 in the bloom filter.
+We hash item: 47 with salt 1 and size 20.
+Startin from h=0, for each char c in str(47), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 6867.
+Add the salt value 1 to h, giving us 6868.
+The final hash value is h modulo m: 8.
+We increment 1 to index 8 in the bloom filter.
+We hash item: 47 with salt 2 and size 20.
+Startin from h=0, for each char c in str(47), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 6867.
+Add the salt value 2 to h, giving us 6869.
+The final hash value is h modulo m: 9.
+We increment 1 to index 9 in the bloom filter.
+We stop because we used 3 salt values. 
+This gives us the state: [0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].
+We insert 88.
+We hash item: 88 with salt 0 and size 20.
+Startin from h=0, for each char c in str(88), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 7392.
+Add the salt value 0 to h, giving us 7392.
+The final hash value is h modulo m: 12.
+We increment 1 to index 12 in the bloom filter.
+We hash item: 88 with salt 1 and size 20.
+Startin from h=0, for each char c in str(88), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 7392.
+Add the salt value 1 to h, giving us 7393.
+The final hash value is h modulo m: 13.
+We increment 1 to index 13 in the bloom filter.
+We hash item: 88 with salt 2 and size 20.
+Startin from h=0, for each char c in str(88), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 7392.
+Add the salt value 2 to h, giving us 7394.
+The final hash value is h modulo m: 14.
+We increment 1 to index 14 in the bloom filter.
+We stop because we used 3 salt values. 
+This gives us the state: [0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0].
+We delete 88.
+We hash item: 88 with salt 0 and size 20.
+Startin from h=0, for each char c in str(88), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 7392.
+Add the salt value 0 to h, giving us 7392.
+The final hash value is h modulo m: 12.
+We decrement 1 to index 12 in the bloom filter.
+We hash item: 88 with salt 1 and size 20.
+Startin from h=0, for each char c in str(88), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 7392.
+Add the salt value 1 to h, giving us 7393.
+The final hash value is h modulo m: 13.
+We decrement 1 to index 13 in the bloom filter.
+We hash item: 88 with salt 2 and size 20.
+Startin from h=0, for each char c in str(88), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 7392.
+Add the salt value 2 to h, giving us 7394.
+The final hash value is h modulo m: 14.
+We decrement 1 to index 14 in the bloom filter.
+We stop because we used 3 salt values. 
+This gives us the state: [0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0].
+We insert 39.
+We hash item: 39 with salt 0 and size 20.
+Startin from h=0, for each char c in str(39), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 6738.
+Add the salt value 0 to h, giving us 6738.
+The final hash value is h modulo m: 18.
+We increment 1 to index 18 in the bloom filter.
+We hash item: 39 with salt 1 and size 20.
+Startin from h=0, for each char c in str(39), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 6738.
+Add the salt value 1 to h, giving us 6739.
+The final hash value is h modulo m: 19.
+We increment 1 to index 19 in the bloom filter.
+We hash item: 39 with salt 2 and size 20.
+Startin from h=0, for each char c in str(39), we compute h = h * 131 + ord(c), giving us the intermediate hash value: 6738.
+Add the salt value 2 to h, giving us 6740.
+The final hash value is h modulo m: 0.
+We increment 1 to index 0 in the bloom filter.
+We stop because we used 3 salt values. 
+This gives us the state: [1, 0, 0, 0, 0, 0, 0, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1].
+The final state of the bloom filter is [1, 0, 0, 0, 0, 0, 0, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1].

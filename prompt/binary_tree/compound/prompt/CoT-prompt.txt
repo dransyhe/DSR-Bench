@@ -1,0 +1,13 @@
+Q: What is the final state of the binary search tree, after performing the following operations: 
+(insert, 45)
+(insert, 64)
+(insert, 74)
+(insert, 32)
+(delete, 64)
+A: 
+Insert 45. The tree is empty, so we place 45 as the root node. 
+Insert 64. 64 > 45, so 64 is inserted to 45's right child. 
+Insert 74. 74 > 45, so 74 go to the right sub-tree. 74 > 64, so 74 is inserted to 64's right child. 
+Insert 32. 32 < 45, so 32 is inserted to 45's left child. 
+Delete 64. 64's child 74 replaces 64 to become 45's right child. 
+Finally, the pre-order traversal of the current tree is [45, 32, 74]

@@ -1,0 +1,263 @@
+enqueue 82
+enqueue 90
+enqueue 42
+enqueue 77
+enqueue 57
+enqueue 40
+enqueue 51
+[82, 90, 42, 77, 57, 40, 51]
+enqueue 86
+dequeue
+enqueue 3
+enqueue 66
+enqueue 19
+enqueue 15
+dequeue
+[66, 19, 15]
+enqueue 29
+enqueue 71
+dequeue
+enqueue 73
+enqueue 16
+enqueue 50
+enqueue 13
+enqueue 5
+[71, 73, 16, 50, 13, 5]
+enqueue 100
+enqueue 10
+enqueue 18
+dequeue
+enqueue 77
+[10, 18, 77]
+enqueue 36
+enqueue 58
+dequeue
+enqueue 64
+enqueue 38
+[58, 64, 38]
+enqueue 27
+enqueue 57
+enqueue 50
+dequeue
+enqueue 11
+enqueue 8
+enqueue 67
+[57, 50, 11, 8, 67]
+enqueue 53
+enqueue 55
+dequeue
+dequeue
+enqueue 39
+[39]
+enqueue 10
+enqueue 70
+enqueue 22
+dequeue
+enqueue 80
+enqueue 17
+[70, 22, 80, 17]
+enqueue 90
+dequeue
+enqueue 36
+dequeue
+enqueue 98
+[98]
+enqueue 17
+enqueue 36
+enqueue 38
+enqueue 6
+enqueue 26
+[17, 36, 38, 6, 26]
+enqueue 49
+enqueue 24
+enqueue 36
+enqueue 17
+dequeue
+dequeue
+enqueue 11
+dequeue
+enqueue 10
+enqueue 67
+[17, 11, 10, 67]
+enqueue 75
+dequeue
+enqueue 42
+enqueue 73
+enqueue 47
+dequeue
+dequeue
+dequeue
+enqueue 58
+enqueue 26
+[58, 26]
+enqueue 72
+enqueue 81
+enqueue 82
+enqueue 29
+dequeue
+enqueue 15
+dequeue
+enqueue 100
+enqueue 39
+[82, 29, 15, 100, 39]
+enqueue 6
+dequeue
+enqueue 59
+enqueue 44
+dequeue
+enqueue 97
+enqueue 37
+dequeue
+enqueue 36
+[97, 37, 36]
+enqueue 54
+enqueue 91
+dequeue
+enqueue 21
+dequeue
+enqueue 23
+enqueue 4
+enqueue 75
+enqueue 37
+enqueue 34
+[21, 23, 4, 75, 37, 34]
+enqueue 26
+enqueue 17
+enqueue 5
+dequeue
+dequeue
+enqueue 12
+enqueue 18
+enqueue 66
+enqueue 49
+[5, 12, 18, 66, 49]
+enqueue 2
+enqueue 71
+enqueue 77
+dequeue
+enqueue 77
+enqueue 18
+dequeue
+dequeue
+[77, 18]
+enqueue 54
+enqueue 86
+enqueue 98
+dequeue
+enqueue 19
+enqueue 4
+enqueue 64
+[86, 98, 19, 4, 64]
+enqueue 82
+enqueue 30
+enqueue 66
+enqueue 75
+enqueue 45
+enqueue 4
+dequeue
+dequeue
+[66, 75, 45, 4]
+enqueue 90
+dequeue
+enqueue 90
+enqueue 97
+dequeue
+dequeue
+enqueue 83
+dequeue
+[]
+enqueue 0
+enqueue 25
+dequeue
+enqueue 77
+enqueue 55
+enqueue 47
+enqueue 73
+enqueue 65
+[25, 77, 55, 47, 73, 65]
+enqueue 100
+dequeue
+enqueue 25
+enqueue 29
+dequeue
+enqueue 85
+dequeue
+dequeue
+enqueue 34
+enqueue 23
+[34, 23]
+enqueue 54
+enqueue 49
+dequeue
+enqueue 53
+enqueue 8
+dequeue
+dequeue
+dequeue
+enqueue 54
+enqueue 93
+[54, 93]
+enqueue 40
+enqueue 9
+enqueue 91
+enqueue 95
+enqueue 18
+[40, 9, 91, 95, 18]
+enqueue 39
+enqueue 73
+dequeue
+enqueue 6
+dequeue
+dequeue
+enqueue 100
+dequeue
+enqueue 49
+enqueue 19
+[49, 19]
+enqueue 53
+enqueue 89
+enqueue 68
+enqueue 24
+enqueue 1
+enqueue 45
+enqueue 75
+enqueue 52
+enqueue 40
+enqueue 65
+[53, 89, 68, 24, 1, 45, 75, 52, 40, 65]
+enqueue 98
+enqueue 53
+enqueue 3
+enqueue 46
+dequeue
+dequeue
+enqueue 90
+enqueue 58
+dequeue
+enqueue 100
+[46, 90, 58, 100]
+enqueue 98
+enqueue 74
+enqueue 12
+enqueue 79
+dequeue
+enqueue 81
+[74, 12, 79, 81]
+enqueue 100
+enqueue 11
+dequeue
+enqueue 15
+enqueue 10
+enqueue 13
+[11, 15, 10, 13]
+enqueue 49
+enqueue 89
+enqueue 90
+enqueue 30
+enqueue 75
+enqueue 77
+enqueue 79
+dequeue
+enqueue 47
+enqueue 69
+[89, 90, 30, 75, 77, 79, 47, 69]

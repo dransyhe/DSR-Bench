@@ -1,0 +1,14 @@
+Q: The root node is Node 10. Node 10's left child is Node 5, and its right child is Node 15. Node 5's left child is Node 3, and its right child is Node 7.  
+Please answer the following questions. Your answer to the following questions should be indexed.
+What is the post-order traversal of the tree?
+
+A:
+Start at the root node, which is 10. 
+Next, visit the left subtree of 10. The left child of 10 is 5. 
+Next, visit the left subtree of 5. The left child of 5 is 3. Since 3 has no children, the list now is: [3]. 
+Next, visit the right subtree of 5. The right child of 5 is 7. Since 7 has no children, the list now is: [3, 7].
+Go back to node 5. Both of its subtrees are visited. The list now is: [3, 7, 5]. 
+Go back to node 10.  
+Next, visit the right subtree of 10. The right child of 10 is 15. Since 15 has no children, the list now is: [3, 7, 5, 15].
+Go back to node 10. Both of its subtrees are visited. The list now is: [3, 7, 5, 15, 10].
+The final post-order traversal is: [3, 7, 5, 15, 10].

@@ -1,0 +1,308 @@
+HashMap 0 with 10 buckets 
+add key 31 value 37 
+remove 31 
+add key 53 value 64 
+add key 83 value 51 
+add key 91 value 1 
+add key 45 value 88 
+add key 49 value 45 
+Final HashMap: [[], [(91, 1)], [], [(53, 64), (83, 51)], [], [(45, 88)], [], [], [], [(49, 45)]] 
+
+HashMap 1 with 10 buckets 
+add key 34 value 24 
+add key 28 value 70 
+add key 68 value 10 
+add key 63 value 74 
+add key 9 value 59 
+remove 28 
+add key 59 value 5 
+Final HashMap: [[], [], [], [(63, 74)], [(34, 24)], [], [], [], [(68, 10)], [(9, 59), (59, 5)]] 
+
+HashMap 2 with 10 buckets 
+add key 61 value 79 
+add key 3 value 15 
+add key 18 value 31 
+remove 61 
+add key 9 value 88 
+add key 83 value 81 
+Final HashMap: [[], [], [], [(3, 15), (83, 81)], [], [], [], [], [(18, 31)], [(9, 88)]] 
+
+HashMap 3 with 10 buckets 
+add key 10 value 48 
+remove 10 
+add key 80 value 22 
+add key 49 value 33 
+add key 10 value 54 
+add key 52 value 10 
+add key 63 value 63 
+Final HashMap: [[(80, 22), (10, 54)], [], [(52, 10)], [(63, 63)], [], [], [], [], [], [(49, 33)]] 
+
+HashMap 4 with 10 buckets 
+add key 5 value 90 
+add key 59 value 21 
+add key 70 value 39 
+remove 5 
+remove 59 
+add key 44 value 33 
+add key 20 value 41 
+add key 62 value 88 
+Final HashMap: [[(70, 39), (20, 41)], [], [(62, 88)], [], [(44, 33)], [], [], [], [], []] 
+
+HashMap 5 with 10 buckets 
+add key 99 value 94 
+add key 43 value 64 
+add key 63 value 43 
+add key 97 value 75 
+remove 99 
+add key 99 value 58 
+add key 86 value 7 
+add key 39 value 4 
+remove 39 
+Final HashMap: [[], [], [], [(43, 64), (63, 43)], [], [], [(86, 7)], [(97, 75)], [], [(99, 58)]] 
+
+HashMap 6 with 10 buckets 
+add key 56 value 11 
+add key 90 value 16 
+add key 20 value 38 
+add key 97 value 16 
+add key 60 value 13 
+remove 90 
+Final HashMap: [[(20, 38), (60, 13)], [], [], [], [], [], [(56, 11)], [(97, 16)], [], []] 
+
+HashMap 7 with 10 buckets 
+add key 75 value 44 
+add key 1 value 89 
+add key 69 value 1 
+add key 60 value 5 
+add key 15 value 74 
+add key 0 value 66 
+add key 51 value 95 
+add key 9 value 89 
+add key 31 value 6 
+Final HashMap: [[(60, 5), (0, 66)], [(1, 89), (51, 95), (31, 6)], [], [], [], [(75, 44), (15, 74)], [], [], [], [(69, 1), (9, 89)]] 
+
+HashMap 8 with 10 buckets 
+add key 75 value 4 
+add key 19 value 66 
+add key 21 value 13 
+remove 19 
+add key 47 value 9 
+add key 49 value 38 
+add key 51 value 69 
+remove 19 
+Final HashMap: [[], [(21, 13), (51, 69)], [], [], [], [(75, 4)], [], [(47, 9)], [], [(49, 38)]] 
+
+HashMap 9 with 10 buckets 
+add key 96 value 3 
+add key 4 value 98 
+remove 96 
+add key 71 value 97 
+add key 94 value 34 
+add key 30 value 45 
+Final HashMap: [[(30, 45)], [(71, 97)], [], [], [(4, 98), (94, 34)], [], [], [], [], []] 
+
+HashMap 10 with 10 buckets 
+add key 41 value 11 
+remove 41 
+add key 72 value 50 
+remove 41 
+add key 99 value 23 
+add key 97 value 88 
+remove 97 
+add key 95 value 46 
+add key 72 value 40 
+Final HashMap: [[], [], [(72, 40)], [], [], [(95, 46)], [], [], [], [(99, 23)]] 
+
+HashMap 11 with 10 buckets 
+add key 18 value 58 
+remove 18 
+add key 76 value 75 
+add key 39 value 15 
+add key 9 value 36 
+remove 39 
+Final HashMap: [[], [], [], [], [], [], [(76, 75)], [], [], [(9, 36)]] 
+
+HashMap 12 with 10 buckets 
+add key 89 value 61 
+add key 57 value 68 
+remove 89 
+add key 15 value 90 
+add key 97 value 2 
+remove 57 
+add key 91 value 54 
+Final HashMap: [[], [(91, 54)], [], [], [], [(15, 90)], [], [(97, 2)], [], []] 
+
+HashMap 13 with 10 buckets 
+add key 91 value 42 
+add key 77 value 73 
+remove 77 
+add key 76 value 78 
+add key 26 value 3 
+remove 76 
+Final HashMap: [[], [(91, 42)], [], [], [], [], [(26, 3)], [], [], []] 
+
+HashMap 14 with 10 buckets 
+add key 56 value 12 
+remove 56 
+add key 15 value 52 
+add key 35 value 59 
+add key 47 value 20 
+add key 92 value 41 
+remove 35 
+add key 8 value 49 
+add key 81 value 31 
+Final HashMap: [[], [(81, 31)], [(92, 41)], [], [], [(15, 52)], [], [(47, 20)], [(8, 49)], []] 
+
+HashMap 15 with 10 buckets 
+add key 94 value 13 
+add key 65 value 63 
+add key 34 value 21 
+add key 24 value 22 
+add key 48 value 19 
+add key 25 value 24 
+remove 34 
+add key 66 value 38 
+add key 60 value 75 
+Final HashMap: [[(60, 75)], [], [], [], [(94, 13), (24, 22)], [(65, 63), (25, 24)], [(66, 38)], [], [(48, 19)], []] 
+
+HashMap 16 with 10 buckets 
+add key 16 value 92 
+remove 16 
+add key 94 value 43 
+remove 94 
+add key 20 value 71 
+add key 93 value 92 
+Final HashMap: [[(20, 71)], [], [], [(93, 92)], [], [], [], [], [], []] 
+
+HashMap 17 with 10 buckets 
+add key 28 value 6 
+remove 28 
+add key 81 value 85 
+add key 74 value 76 
+add key 14 value 95 
+add key 14 value 74 
+add key 51 value 90 
+Final HashMap: [[], [(81, 85), (51, 90)], [], [], [(74, 76), (14, 74)], [], [], [], [], []] 
+
+HashMap 18 with 10 buckets 
+add key 29 value 57 
+add key 18 value 98 
+remove 29 
+add key 29 value 9 
+add key 13 value 85 
+add key 8 value 17 
+remove 29 
+Final HashMap: [[], [], [], [(13, 85)], [], [], [], [], [(18, 98), (8, 17)], []] 
+
+HashMap 19 with 10 buckets 
+add key 51 value 42 
+add key 60 value 93 
+add key 32 value 5 
+add key 38 value 82 
+add key 33 value 74 
+add key 93 value 51 
+add key 19 value 36 
+add key 83 value 21 
+add key 28 value 46 
+Final HashMap: [[(60, 93)], [(51, 42)], [(32, 5)], [(33, 74), (93, 51), (83, 21)], [], [], [], [], [(38, 82), (28, 46)], [(19, 36)]] 
+
+HashMap 20 with 10 buckets 
+add key 20 value 64 
+add key 63 value 68 
+add key 93 value 67 
+add key 31 value 5 
+add key 77 value 6 
+remove 93 
+Final HashMap: [[(20, 64)], [(31, 5)], [], [(63, 68)], [], [], [], [(77, 6)], [], []] 
+
+HashMap 21 with 10 buckets 
+add key 97 value 83 
+add key 75 value 81 
+remove 97 
+add key 45 value 56 
+add key 3 value 88 
+remove 75 
+add key 78 value 79 
+add key 99 value 6 
+Final HashMap: [[], [], [], [(3, 88)], [], [(45, 56)], [], [], [(78, 79)], [(99, 6)]] 
+
+HashMap 22 with 10 buckets 
+add key 48 value 25 
+add key 66 value 84 
+add key 71 value 88 
+remove 48 
+add key 24 value 39 
+add key 34 value 21 
+remove 66 
+Final HashMap: [[], [(71, 88)], [], [], [(24, 39), (34, 21)], [], [], [], [], []] 
+
+HashMap 23 with 10 buckets 
+add key 78 value 46 
+remove 78 
+add key 60 value 40 
+remove 78 
+add key 21 value 79 
+remove 78 
+Final HashMap: [[(60, 40)], [(21, 79)], [], [], [], [], [], [], [], []] 
+
+HashMap 24 with 10 buckets 
+add key 88 value 56 
+add key 45 value 98 
+add key 70 value 79 
+add key 97 value 67 
+remove 88 
+Final HashMap: [[(70, 79)], [], [], [], [], [(45, 98)], [], [(97, 67)], [], []] 
+
+HashMap 25 with 10 buckets 
+add key 57 value 88 
+add key 96 value 80 
+add key 92 value 97 
+add key 3 value 16 
+add key 89 value 46 
+Final HashMap: [[], [], [(92, 97)], [(3, 16)], [], [], [(96, 80)], [(57, 88)], [], [(89, 46)]] 
+
+HashMap 26 with 10 buckets 
+add key 91 value 59 
+add key 17 value 38 
+add key 72 value 76 
+remove 91 
+remove 91 
+add key 24 value 9 
+add key 22 value 37 
+add key 77 value 34 
+Final HashMap: [[], [], [(72, 76), (22, 37)], [], [(24, 9)], [], [], [(17, 38), (77, 34)], [], []] 
+
+HashMap 27 with 10 buckets 
+add key 41 value 83 
+add key 67 value 75 
+add key 26 value 88 
+add key 73 value 38 
+add key 37 value 55 
+remove 41 
+add key 68 value 10 
+add key 6 value 89 
+remove 67 
+Final HashMap: [[], [], [], [(73, 38)], [], [], [(26, 88), (6, 89)], [(37, 55)], [(68, 10)], []] 
+
+HashMap 28 with 10 buckets 
+add key 80 value 67 
+add key 10 value 80 
+add key 2 value 18 
+add key 65 value 74 
+add key 90 value 34 
+add key 70 value 42 
+add key 92 value 38 
+add key 55 value 28 
+add key 12 value 78 
+Final HashMap: [[(80, 67), (10, 80), (90, 34), (70, 42)], [], [(2, 18), (92, 38), (12, 78)], [], [], [(65, 74), (55, 28)], [], [], [], []] 
+
+HashMap 29 with 10 buckets 
+add key 79 value 64 
+add key 96 value 58 
+add key 74 value 18 
+add key 14 value 59 
+add key 75 value 68 
+remove 75 
+remove 14 
+Final HashMap: [[], [], [], [], [(74, 18)], [], [(96, 58)], [], [], [(79, 64)]] 
+

@@ -1,0 +1,7 @@
+Given an array [59, 30, 32, 79, 82], indexed from 0.
+Q: What is the index of the first occurrence of 30?
+A: Starting from index 0, the value stored in index 0 is 59, which is not the value we are looking for.
+Move onto index 1, the value stored in index 1 is 30, which is the value we are looking for. 
+The index of the first occurrence of 30 is 1.
+The final answer is 1.
+

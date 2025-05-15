@@ -1,0 +1,23 @@
+Q: You are given an empty skip list with max level 3, what is the final state of the skip list after the following operations? 
+insert 43
+Level generation probabilities: 0.1412 0.6574
+insert 3
+Level generation probabilities: 0.9823
+delete 3
+insert 89
+Level generation probabilities: 0.4328 0.7636
+delete 89
+A: Initially, the skip list is [].
+After inserting 43, it becomes [[43]].
+Its first generation probability is 0.1412, which is below 0.5. 
+Since the max level is not reached, it gets promoted to the next level 1: [[43], [43]].
+Its second generation probability is 0.6574, which is above 0.5, so it stops. 
+After inserting 3, it becomes [[43], [3, 43]] by keeping the elements at each level in ascending order.
+Its first generation probability is 0.9823, which is above 0.5, so it stops. 
+After deleting 3, it becomes [[43], [43]].
+After inserting 89, it becomes [[43], [43, 89]] by keeping the elements at each level in ascending order.
+Its first generation probability is 0.4328, which is below 0.5. 
+Since the max level is not reached, it gets promoted to the next level 1: [[43, 89] [43, 89]].
+Its second generation probability is 0.7636, which is above 0.5, so it stops. 
+After deleting 89, it becomes [[43], [43]].
+Its final state is [[43], [43]].

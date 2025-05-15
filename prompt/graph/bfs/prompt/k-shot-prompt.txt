@@ -1,0 +1,11 @@
+Q: The graph consists of nodes [67, 4, 13, 49, 2], and edges [(67, 4), (67, 49), (67, 2), (4, 13), (4, 2), (13, 49), (49, 2)].
+What is the breadth-first search path starting from node 13?
+A: The final bfs path is [13, 4, 49, 2, 67]. 
+
+Q: The graph consists of nodes [47, 9, 93, 24, 85], and edges [(47, 9), (47, 85), (9, 93), (9, 85), (93, 85), (24, 85)].
+What is the breadth-first search path starting from node 24?
+A: The final bfs path is [24, 85, 9, 47, 93]. 
+
+Q: The graph consists of nodes [51, 8, 94, 91, 7], and edges [(51, 8), (51, 91), (51, 7), (8, 94), (8, 91), (94, 91), (94, 7)].
+What is the breadth-first search path starting from node 51?
+A: The final bfs path is [51, 7, 8, 91, 94]. 

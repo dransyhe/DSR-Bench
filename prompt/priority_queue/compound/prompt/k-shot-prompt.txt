@@ -1,0 +1,23 @@
+Q: What is the state of the priority queue after the following operations:
+insert (22, 77)
+insert (34, 21)
+raise_key (34, 83)
+insert (85, 95)
+insert (40, 68)
+A: [(85, 95), (34, 83), (22, 77), (40, 68)]
+
+Q: What is the state of the priority queue after the following operations:
+insert (35, 84)
+decrease_key (35, 56)
+raise_key (35, 73)
+delete
+insert (4, 49)
+A: [(4, 49)]
+
+Q: What is the state of the priority queue after the following operations:
+insert (98, 34)
+insert (75, 5)
+delete
+decrease_key (98, 0)
+insert (14, 44)
+A: [(14, 44), (98, 0)]

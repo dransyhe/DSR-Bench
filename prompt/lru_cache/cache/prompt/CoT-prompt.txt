@@ -1,0 +1,14 @@
+Q: You have a LRU cache with cache size 2. Initially, the cache is empty. What is the state of the LRU cache after the following sequence of operations:
+access 2
+access 3
+access 3
+access 8
+access 2
+A: 
+The cache is initially empty with size 2. 
+access 2: 2 is not in cache so we put it in the cache. No need to evict from cache as cache still has empty space. The cache is now [2]. 
+access 3: 3 is not in cache so we put it in the cache. No need to evict from cache as cache still has empty space. The cache is now [2, 3].
+access 3: 3 is already in the cache. No need to update cache. 
+access 8: 8 is not in the cache. The cache is full, so we evict the least recently used page 2 and add 8 to the cache. The cache is now [3, 8]. 
+access 2: 2 is not in the cache.  The cache is full, so we evict the least recently used page 3 and add 2 to the cache. The cache is now [8, 2].
+Thus, the final cache is [8, 2]. 

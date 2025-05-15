@@ -1,0 +1,439 @@
+SkipList 0 (Max Level: 3)
+insert 77
+Level generation probabilities: 0.2391, 0.3462, 0.3111, 0.5204
+insert 1
+Level generation probabilities: 0.8068
+delete 77
+delete 1
+insert 79
+Level generation probabilities: 0.9187
+[[79]]
+SkipList 1 (Max Level: 3)
+insert 9
+Level generation probabilities: 0.9100
+insert 63
+Level generation probabilities: 0.1726, 0.6123
+insert 71
+Level generation probabilities: 0.3660, 0.7068
+delete 9
+insert 25
+Level generation probabilities: 0.7797
+insert 84
+Level generation probabilities: 0.3625, 0.8189
+insert 22
+Level generation probabilities: 0.2760, 0.9321
+insert 4
+Level generation probabilities: 0.8643
+insert 4
+delete 4
+[[22, 63, 71, 84], [22, 25, 63, 71, 84]]
+SkipList 2 (Max Level: 3)
+insert 6
+Level generation probabilities: 0.6479
+insert 23
+Level generation probabilities: 0.5216
+insert 25
+Level generation probabilities: 0.7909
+delete 23
+insert 37
+Level generation probabilities: 0.2603, 0.9955
+insert 15
+Level generation probabilities: 0.1118, 0.0080, 0.6408
+insert 90
+Level generation probabilities: 0.4531, 0.4410, 0.8680
+[[15, 90], [15, 37, 90], [6, 15, 25, 37, 90]]
+SkipList 3 (Max Level: 3)
+insert 74
+Level generation probabilities: 0.1704, 0.9973
+insert 78
+Level generation probabilities: 0.6805
+delete 78
+insert 47
+Level generation probabilities: 0.3530, 0.1453, 0.5643
+insert 41
+Level generation probabilities: 0.5628
+delete 47
+insert 97
+Level generation probabilities: 0.7516
+insert 72
+Level generation probabilities: 0.2504, 0.2736, 0.6971
+[[72], [72, 74], [41, 72, 74, 97]]
+SkipList 4 (Max Level: 3)
+insert 95
+Level generation probabilities: 0.3041, 0.3928, 0.7910
+insert 97
+Level generation probabilities: 0.6035
+insert 55
+Level generation probabilities: 0.1386, 0.8014
+insert 71
+Level generation probabilities: 0.5740
+insert 89
+Level generation probabilities: 0.5020
+insert 76
+Level generation probabilities: 0.6473
+[[95], [55, 95], [55, 71, 76, 89, 95, 97]]
+SkipList 5 (Max Level: 3)
+insert 59
+Level generation probabilities: 0.7970
+insert 31
+Level generation probabilities: 0.6960
+delete 59
+delete 31
+insert 82
+Level generation probabilities: 0.5432
+delete 82
+insert 6
+Level generation probabilities: 0.8066
+delete 6
+insert 54
+Level generation probabilities: 0.4603, 0.7632
+insert 10
+Level generation probabilities: 0.5558
+[[54], [10, 54]]
+SkipList 6 (Max Level: 3)
+insert 56
+Level generation probabilities: 0.1592, 0.4175, 0.7659
+insert 42
+Level generation probabilities: 0.5362
+insert 97
+Level generation probabilities: 0.2270, 0.6153
+delete 42
+insert 68
+Level generation probabilities: 0.5789
+[[56], [56, 97], [56, 68, 97]]
+SkipList 7 (Max Level: 3)
+insert 79
+Level generation probabilities: 0.0911, 0.1942, 0.2896, 0.0672
+delete 79
+insert 73
+Level generation probabilities: 0.5272
+insert 67
+Level generation probabilities: 0.6834
+delete 73
+insert 27
+Level generation probabilities: 0.4119, 0.9563
+insert 32
+Level generation probabilities: 0.9961
+insert 20
+Level generation probabilities: 0.9517
+insert 61
+Level generation probabilities: 0.6197
+insert 44
+Level generation probabilities: 0.3904, 0.2581, 0.6475
+[[44], [27, 44], [20, 27, 32, 44, 61, 67]]
+SkipList 8 (Max Level: 3)
+insert 2
+Level generation probabilities: 0.3015, 0.6472
+insert 42
+Level generation probabilities: 0.9216
+insert 84
+Level generation probabilities: 0.3673, 0.8952
+insert 22
+Level generation probabilities: 0.3631, 0.3330, 0.4145, 0.9817
+insert 75
+Level generation probabilities: 0.7327
+delete 75
+delete 22
+[[2, 84], [2, 42, 84]]
+SkipList 9 (Max Level: 3)
+insert 11
+Level generation probabilities: 0.9459
+delete 11
+insert 75
+Level generation probabilities: 0.3265, 0.8640
+insert 73
+Level generation probabilities: 0.9370
+insert 87
+Level generation probabilities: 0.2119, 0.8370
+insert 68
+Level generation probabilities: 0.5062
+insert 55
+Level generation probabilities: 0.3493, 0.0988, 0.3834, 0.3662
+insert 62
+Level generation probabilities: 0.7156
+[[55], [55], [55, 75, 87], [55, 62, 68, 73, 75, 87]]
+SkipList 10 (Max Level: 3)
+insert 68
+Level generation probabilities: 0.5343
+insert 53
+Level generation probabilities: 0.8806
+insert 17
+Level generation probabilities: 0.5946
+insert 83
+Level generation probabilities: 0.2909, 0.4158, 0.3388, 0.3882
+insert 17
+insert 34
+Level generation probabilities: 0.1250, 0.3794, 0.7902
+delete 17
+insert 38
+Level generation probabilities: 0.6970
+insert 87
+Level generation probabilities: 0.0634, 0.3114, 0.5171
+[[83], [34, 83, 87], [34, 83, 87], [34, 38, 53, 68, 83, 87]]
+SkipList 11 (Max Level: 3)
+insert 49
+Level generation probabilities: 0.1882, 0.7380
+delete 49
+insert 29
+Level generation probabilities: 0.7582
+delete 29
+insert 37
+Level generation probabilities: 0.4738, 0.5980
+insert 39
+Level generation probabilities: 0.3254, 0.4904, 0.3082, 0.1316
+[[39], [39], [37, 39], [37, 39]]
+SkipList 12 (Max Level: 3)
+insert 19
+Level generation probabilities: 0.2221, 0.9490
+insert 63
+Level generation probabilities: 0.1914, 0.3766, 0.2039, 0.2603
+delete 19
+delete 63
+insert 4
+Level generation probabilities: 0.4652, 0.9768
+insert 91
+Level generation probabilities: 0.7167
+insert 93
+Level generation probabilities: 0.6635
+delete 93
+insert 90
+Level generation probabilities: 0.2095, 0.4893, 0.7156
+[[90], [4, 90], [4, 90, 91]]
+SkipList 13 (Max Level: 3)
+insert 28
+Level generation probabilities: 0.5102
+insert 77
+Level generation probabilities: 0.4487, 0.3602, 0.8742
+insert 26
+Level generation probabilities: 0.1513, 0.5228
+insert 17
+Level generation probabilities: 0.2460, 0.9978
+delete 26
+[[77], [17, 77], [17, 28, 77]]
+SkipList 14 (Max Level: 3)
+insert 27
+Level generation probabilities: 0.8184
+insert 37
+Level generation probabilities: 0.0326, 0.4472, 0.6482
+insert 74
+Level generation probabilities: 0.4031, 0.5935
+delete 37
+insert 55
+Level generation probabilities: 0.9050
+delete 55
+[[74], [27, 74]]
+SkipList 15 (Max Level: 3)
+insert 77
+Level generation probabilities: 0.7629
+insert 68
+Level generation probabilities: 0.5238
+insert 55
+Level generation probabilities: 0.6963
+insert 56
+Level generation probabilities: 0.7134
+delete 55
+delete 77
+[[56, 68]]
+SkipList 16 (Max Level: 3)
+insert 72
+Level generation probabilities: 0.3251, 0.1690, 0.5454
+insert 26
+Level generation probabilities: 0.7422
+delete 26
+insert 51
+Level generation probabilities: 0.6657
+delete 51
+insert 72
+[[72], [72], [72]]
+SkipList 17 (Max Level: 3)
+insert 21
+Level generation probabilities: 0.7158
+insert 18
+Level generation probabilities: 0.7089
+insert 46
+Level generation probabilities: 0.6349
+insert 58
+Level generation probabilities: 0.2273, 0.0749, 0.1243, 0.2123
+delete 18
+insert 79
+Level generation probabilities: 0.7394
+insert 45
+Level generation probabilities: 0.5165
+[[58], [58], [58], [21, 45, 46, 58, 79]]
+SkipList 18 (Max Level: 3)
+insert 13
+Level generation probabilities: 0.9748
+insert 80
+Level generation probabilities: 0.4345, 0.8608
+insert 91
+Level generation probabilities: 0.9720
+delete 91
+delete 13
+delete 80
+insert 84
+Level generation probabilities: 0.6522
+[[84]]
+SkipList 19 (Max Level: 3)
+insert 87
+Level generation probabilities: 0.7716
+delete 87
+insert 54
+Level generation probabilities: 0.4034, 0.2614, 0.4646, 0.9938
+insert 79
+Level generation probabilities: 0.4316, 0.9242
+insert 99
+Level generation probabilities: 0.4549, 0.7304
+insert 25
+Level generation probabilities: 0.5643
+[[54], [54], [54, 79, 99], [25, 54, 79, 99]]
+SkipList 20 (Max Level: 3)
+insert 2
+Level generation probabilities: 0.5763
+delete 2
+insert 10
+Level generation probabilities: 0.5715
+delete 10
+insert 6
+Level generation probabilities: 0.2233, 0.2465, 0.7585
+insert 78
+Level generation probabilities: 0.8099
+insert 40
+Level generation probabilities: 0.8178
+insert 48
+Level generation probabilities: 0.4378, 0.2113, 0.2115, 0.4922
+delete 6
+[[48], [48], [48], [40, 48, 78]]
+SkipList 21 (Max Level: 3)
+insert 79
+Level generation probabilities: 0.4331, 0.8250
+insert 20
+Level generation probabilities: 0.6557
+insert 94
+Level generation probabilities: 0.5541
+delete 94
+insert 19
+Level generation probabilities: 0.2631, 0.1378, 0.7521
+delete 79
+delete 20
+insert 85
+Level generation probabilities: 0.5399
+delete 85
+insert 100
+Level generation probabilities: 0.6061
+[[19], [19], [19, 100]]
+SkipList 22 (Max Level: 3)
+insert 75
+Level generation probabilities: 0.0382, 0.0742, 0.2283, 0.0556
+delete 75
+insert 33
+Level generation probabilities: 0.8861
+delete 33
+insert 68
+Level generation probabilities: 0.7677
+delete 68
+[[]]
+SkipList 23 (Max Level: 3)
+insert 54
+Level generation probabilities: 0.8959
+delete 54
+insert 95
+Level generation probabilities: 0.2318, 0.9718
+insert 60
+Level generation probabilities: 0.7172
+delete 95
+[[60]]
+SkipList 24 (Max Level: 3)
+insert 54
+Level generation probabilities: 0.0319, 0.1380, 0.5998
+delete 54
+insert 67
+Level generation probabilities: 0.8123
+insert 40
+Level generation probabilities: 0.2757, 0.5708
+delete 40
+insert 4
+Level generation probabilities: 0.9272
+insert 51
+Level generation probabilities: 0.8450
+insert 52
+Level generation probabilities: 0.2476, 0.7261
+insert 88
+Level generation probabilities: 0.7334
+delete 52
+[[4, 51, 67, 88]]
+SkipList 25 (Max Level: 3)
+insert 89
+Level generation probabilities: 0.8862
+delete 89
+insert 61
+Level generation probabilities: 0.5755
+delete 61
+insert 54
+Level generation probabilities: 0.7327
+delete 54
+insert 99
+Level generation probabilities: 0.5224
+[[99]]
+SkipList 26 (Max Level: 3)
+insert 6
+Level generation probabilities: 0.7176
+insert 77
+Level generation probabilities: 0.8317
+insert 88
+Level generation probabilities: 0.4771, 0.5372
+insert 32
+Level generation probabilities: 0.7776
+insert 50
+Level generation probabilities: 0.1256, 0.6954
+insert 48
+Level generation probabilities: 0.0881, 0.6777
+insert 45
+Level generation probabilities: 0.8434
+delete 50
+[[48, 88], [6, 32, 45, 48, 77, 88]]
+SkipList 27 (Max Level: 3)
+insert 70
+Level generation probabilities: 0.6015
+insert 23
+Level generation probabilities: 0.3215, 0.4653, 0.9052
+insert 29
+Level generation probabilities: 0.2622, 0.8446
+insert 66
+Level generation probabilities: 0.6634
+delete 66
+insert 39
+Level generation probabilities: 0.3728, 0.0590, 0.5965
+insert 30
+Level generation probabilities: 0.7331
+[[23, 39], [23, 29, 39], [23, 29, 30, 39, 70]]
+SkipList 28 (Max Level: 3)
+insert 42
+Level generation probabilities: 0.5453
+insert 25
+Level generation probabilities: 0.8876
+insert 33
+Level generation probabilities: 0.1767, 0.6554
+insert 33
+insert 19
+Level generation probabilities: 0.6465
+insert 57
+Level generation probabilities: 0.6891
+insert 24
+Level generation probabilities: 0.0417, 0.1081, 0.2861, 0.7175
+[[24], [24], [24, 33], [19, 24, 25, 33, 42, 57]]
+SkipList 29 (Max Level: 3)
+insert 52
+Level generation probabilities: 0.3895, 0.7680
+delete 52
+insert 14
+Level generation probabilities: 0.5870
+insert 41
+Level generation probabilities: 0.2104, 0.5668
+insert 23
+Level generation probabilities: 0.0406, 0.9169
+delete 23
+delete 41
+delete 14
+insert 53
+Level generation probabilities: 0.0670, 0.5043
+[[53], [53]]

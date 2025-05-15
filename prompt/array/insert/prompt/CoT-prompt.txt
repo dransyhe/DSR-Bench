@@ -1,0 +1,6 @@
+Given an array [6, 62, 21, 5, 56], starting with index 0. Insert an item of value 18 at index 3.
+Q: What is the updated array?
+A: The original array is [6, 62, 21, 5, 56].
+Inserting 18 at index 3 shifts the elements from index 3 onwards to the right.
+The updated array becomes [6, 62, 21, 18, 5, 56].
+The final answer is [6, 62, 21, 18, 5, 56].

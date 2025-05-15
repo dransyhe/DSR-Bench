@@ -1,0 +1,23 @@
+Q: Start with an empty red-black tree. What is the final state of the red-black tree after performing the operations?
+Insert: 1
+Insert: 54
+Delete: 1
+Insert: 90
+Insert: 17
+A: [[54, 'b'],[17, 'r'],[90, 'r']]
+
+Q: Start with an empty red-black tree. What is the final state of the red-black tree after performing the operations?
+Insert: 40
+Insert: 100
+Insert: 67
+Insert: 94
+Insert: 10
+A: [[67, 'b'],[40, 'b'],[10, 'r'],[100, 'b'],[94, 'r']]
+
+Q: Start with an empty red-black tree. What is the final state of the red-black tree after performing the operations?
+Insert: 89
+Insert: 24
+Insert: 56
+Insert: 72
+Delete: 56
+A: [[72, 'b'],[24, 'b'],[89, 'b']]

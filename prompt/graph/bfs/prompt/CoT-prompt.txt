@@ -1,0 +1,14 @@
+Q: The graph consists of nodes [35, 44, 1, 13, 28], and edges [(35, 44), (35, 1), (35, 28), (44, 28), (13, 28)].
+What is the breadth-first search path starting from node 28?
+A: Starting from [28] in the queue, it has neighbors [13, 35, 44] in ascending order. 
+We remove 28 and add [13, 35, 44]. The queue is now [13, 35, 44]. 
+Next, we move onto node 13, whose neighbors are [28] in ascending order. 
+Since we have visited [28], we remove 13 and add []. The queue is now [35, 44].
+Next, we move onto node 35, whose neighbors are [1, 28, 44] in ascending order. 
+Since we have visited [28, 44], we remove 35 and add [1]. The queue is now [44, 1].
+Next, we move onto node 44, whose neighbors are [28, 35] in ascending order. 
+Since we have visited [28, 35], we remove 44 and add []. The queue is now [1].
+Next, we move onto node 1, whose neighbors are [35] in ascending order. 
+Since we have visited [35], we remove 1 and add []. The queue is now [].
+The queue is now empty, so we stop the traversal.
+The final bfs path is [28, 13, 35, 44, 1].

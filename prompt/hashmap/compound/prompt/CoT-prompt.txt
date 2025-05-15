@@ -1,0 +1,15 @@
+Q: Given a empty hashmap with 5 buckets. The hash function is bucket_number = key % number_of_buckets. 
+What is the final hashmap when performing the following operations? 
+(add, (45, 21))
+(add, (13, 11))
+(add, (96, 3))
+(remove, 13)
+(add, (10, 67))
+A: Initially, the hashmap is empty. 
+Adding (45, 21) to the hashmap, the bucket is calculated as 45 % 5 = 0, we add (45, 21) to bucket 0.  
+Adding (13, 11) to the hashmap, the bucket is calculated as 13 % 5 = 3, we add (13, 11) to bucket 3. 
+Adding (96, 3) to the hashmap, the bucket is calculated as 96 % 5 = 1, so we add (96, 3) to bucket 1. 
+Removing key 13 from the hashmap, we calculate the bucket as 13 % 5 = 3, and remove (13, 11) from bucket 3. 
+Finally, adding (10, 67) to the hashmap, the bucket is calculated as 10 % 5 = 0, and we add (10, 67) to bucket 0, which now contains both (45, 21) and (10, 67).
+Terefore, the final hashmap is: [{'number': 0, "contents": [{"key": 45, "value": 21}, {"key": 10, "value": 67}]}, {'number': 1, "contents": [{"key": 96, "value": 3}]}, {'number': 2, "contents": []}, {'number': 3, "contents": []}, {'number': 4, "contents": []}]. 
+

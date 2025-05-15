@@ -1,0 +1,280 @@
+Heap 0
+insert 90
+delete
+insert 86
+delete
+insert 42
+insert 57
+delete
+[57]
+Heap 1
+insert 11
+insert 6
+insert 55
+insert 54
+insert 52
+[6, 11, 55, 54, 52]
+Heap 2
+insert 34
+insert 77
+insert 12
+delete
+insert 37
+insert 19
+insert 26
+insert 31
+delete
+[26, 34, 31, 77, 37]
+Heap 3
+insert 29
+insert 12
+insert 3
+delete
+insert 95
+[12, 29, 95]
+Heap 4
+insert 24
+insert 77
+insert 40
+delete
+insert 26
+delete
+delete
+insert 17
+[17, 77]
+Heap 5
+insert 94
+insert 73
+insert 33
+insert 81
+delete
+delete
+insert 36
+[36, 94, 81]
+Heap 6
+insert 68
+delete
+insert 96
+insert 8
+insert 41
+insert 23
+insert 76
+insert 74
+[8, 23, 41, 96, 76, 74]
+Heap 7
+insert 50
+delete
+insert 63
+insert 87
+insert 9
+insert 13
+delete
+insert 40
+insert 76
+insert 51
+[13, 40, 51, 87, 76, 63]
+Heap 8
+insert 50
+insert 6
+insert 26
+insert 70
+insert 48
+insert 33
+insert 73
+insert 46
+insert 95
+delete
+[26, 46, 33, 48, 50, 95, 73, 70]
+Heap 9
+insert 67
+delete
+insert 67
+delete
+insert 51
+delete
+[]
+Heap 10
+insert 66
+insert 13
+delete
+delete
+insert 4
+insert 47
+[4, 47]
+Heap 11
+insert 97
+insert 34
+delete
+delete
+insert 11
+insert 53
+insert 71
+insert 95
+insert 52
+delete
+[52, 53, 71, 95]
+Heap 12
+insert 75
+delete
+insert 90
+insert 19
+delete
+[90]
+Heap 13
+insert 1
+insert 69
+delete
+insert 99
+delete
+[99]
+Heap 14
+insert 6
+insert 6
+insert 79
+insert 24
+insert 26
+insert 99
+delete
+[6, 24, 79, 99, 26]
+Heap 15
+insert 14
+delete
+insert 28
+insert 24
+delete
+[28]
+Heap 16
+insert 81
+insert 28
+insert 12
+insert 30
+insert 53
+insert 87
+delete
+insert 23
+[23, 30, 28, 81, 53, 87]
+Heap 17
+insert 33
+insert 30
+insert 79
+insert 7
+insert 49
+insert 29
+insert 40
+insert 25
+[7, 25, 29, 30, 49, 79, 40, 33]
+Heap 18
+insert 100
+delete
+insert 57
+delete
+insert 88
+delete
+insert 92
+delete
+insert 84
+insert 94
+[84, 94]
+Heap 19
+insert 68
+insert 7
+insert 81
+insert 88
+insert 34
+insert 22
+delete
+[22, 34, 81, 88, 68]
+Heap 20
+insert 0
+insert 14
+insert 88
+insert 19
+insert 90
+delete
+delete
+insert 15
+insert 60
+insert 92
+[15, 19, 88, 90, 60, 92]
+Heap 21
+insert 48
+insert 93
+insert 19
+delete
+insert 4
+delete
+insert 56
+delete
+[56, 93]
+Heap 22
+insert 70
+delete
+insert 38
+insert 56
+insert 28
+insert 46
+insert 17
+[17, 28, 38, 56, 46]
+Heap 23
+insert 26
+insert 49
+insert 83
+insert 57
+insert 27
+[26, 27, 83, 57, 49]
+Heap 24
+insert 6
+insert 55
+insert 3
+insert 50
+insert 1
+insert 51
+insert 64
+insert 22
+[1, 3, 6, 22, 50, 51, 64, 55]
+Heap 25
+insert 43
+insert 14
+insert 82
+insert 42
+insert 32
+insert 100
+[14, 32, 82, 43, 42, 100]
+Heap 26
+insert 58
+insert 26
+insert 69
+insert 99
+insert 35
+delete
+insert 77
+insert 93
+[35, 58, 69, 99, 77, 93]
+Heap 27
+insert 17
+insert 13
+insert 65
+insert 91
+insert 70
+insert 66
+insert 100
+insert 72
+[13, 17, 65, 72, 70, 66, 100, 91]
+Heap 28
+insert 37
+insert 83
+insert 82
+insert 81
+insert 53
+insert 19
+insert 68
+insert 80
+insert 52
+[19, 52, 37, 53, 81, 82, 68, 83, 80]
+Heap 29
+insert 95
+insert 78
+insert 82
+delete
+insert 58
+[58, 95, 82]

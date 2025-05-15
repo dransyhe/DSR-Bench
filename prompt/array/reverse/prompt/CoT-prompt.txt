@@ -1,0 +1,8 @@
+Given an array [95, 44, 29, 66, 83].
+Q: What is the reversed array?
+A: The original array is [95, 44, 29, 66, 83].
+Reversing the array means swapping the first and last elements, which gives [83, 44, 29, 66, 95].
+Then reverse the second and second-to-last elements, [83, 66, 29, 44, 95].
+The updated array becomes [83, 66, 29, 44, 95].
+The final answer is [83, 66, 29, 44, 95].
+

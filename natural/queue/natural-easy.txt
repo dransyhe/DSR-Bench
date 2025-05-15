@@ -1,0 +1,260 @@
+enqueue Hiroshi Nguyen
+enqueue Carlos Martinez
+enqueue Haruto Sanchez
+dequeue Hiroshi Nguyen
+dequeue Carlos Martinez
+enqueue Fatima Singh
+enqueue Isabella Miller
+enqueue Yuki Lopez
+['Haruto Sanchez', 'Fatima Singh', 'Isabella Miller', 'Yuki Lopez']
+enqueue Diego Young
+dequeue Diego Young
+enqueue Maria Smith
+dequeue Maria Smith
+enqueue Jackson Kumar
+dequeue Jackson Kumar
+enqueue Evelyn Hernandez
+enqueue Caden Hassan
+dequeue Evelyn Hernandez
+enqueue Ella Kumar
+['Caden Hassan', 'Ella Kumar']
+enqueue Aiden Smith
+dequeue Aiden Smith
+enqueue Logan Yamamoto
+enqueue Sakura Allen
+enqueue Elijah Walker
+enqueue Evelyn Clark
+dequeue Logan Yamamoto
+['Sakura Allen', 'Elijah Walker', 'Evelyn Clark']
+enqueue Aiden Martinez
+enqueue Lucas Hall
+enqueue Elijah Perez
+enqueue Jackson Moore
+enqueue Lucas Williams
+dequeue Aiden Martinez
+dequeue Lucas Hall
+['Elijah Perez', 'Jackson Moore', 'Lucas Williams']
+enqueue Ling Wilson
+enqueue Jackson Brown
+dequeue Ling Wilson
+enqueue Logan Wilson
+dequeue Jackson Brown
+enqueue Isabella Chen
+dequeue Logan Wilson
+enqueue Ella Sanchez
+enqueue Mason Moore
+enqueue Evelyn Lewis
+['Isabella Chen', 'Ella Sanchez', 'Mason Moore', 'Evelyn Lewis']
+enqueue Chloe Wilson
+dequeue Chloe Wilson
+enqueue Haruto Perez
+dequeue Haruto Perez
+enqueue Ava Perez
+enqueue Ali Clark
+dequeue Ava Perez
+enqueue Fatima Sanchez
+['Ali Clark', 'Fatima Sanchez']
+enqueue Lucas Jones
+dequeue Lucas Jones
+enqueue Ali Lee
+enqueue Fatima Patel
+enqueue Oliver Martin
+dequeue Ali Lee
+enqueue Elijah Brown
+enqueue Carlos Lee
+enqueue Maria Wilson
+dequeue Fatima Patel
+['Oliver Martin', 'Elijah Brown', 'Carlos Lee', 'Maria Wilson']
+enqueue Harper Thomas
+enqueue Chloe Smith
+dequeue Harper Thomas
+enqueue Caden Gonzalez
+enqueue Grayson Brown
+dequeue Chloe Smith
+['Caden Gonzalez', 'Grayson Brown']
+enqueue Ella Thompson
+enqueue Maria Chen
+enqueue Carlos Patel
+enqueue Hassan Chen
+dequeue Ella Thompson
+enqueue Oliver Sanchez
+['Maria Chen', 'Carlos Patel', 'Hassan Chen', 'Oliver Sanchez']
+enqueue Ava Yamamoto
+enqueue Emma Thomas
+enqueue Emma Brown
+enqueue Sakura Thomas
+enqueue Hassan Lopez
+enqueue Liam Kumar
+['Ava Yamamoto', 'Emma Thomas', 'Emma Brown', 'Sakura Thomas', 'Hassan Lopez', 'Liam Kumar']
+enqueue Carlos Kobayashi
+dequeue Carlos Kobayashi
+enqueue Ling Hassan
+enqueue Oliver Kobayashi
+enqueue Sofia Hernandez
+enqueue Fatima Kobayashi
+enqueue Carlos Patel
+enqueue Jackson Allen
+['Ling Hassan', 'Oliver Kobayashi', 'Sofia Hernandez', 'Fatima Kobayashi', 'Carlos Patel', 'Jackson Allen']
+enqueue Oliver Young
+enqueue Isabella Moore
+dequeue Oliver Young
+enqueue Ling Davis
+enqueue Aria Ali
+enqueue Diego Miller
+dequeue Isabella Moore
+enqueue Ethan Ali
+enqueue Sophia Gonzalez
+enqueue Logan Clark
+['Ling Davis', 'Aria Ali', 'Diego Miller', 'Ethan Ali', 'Sophia Gonzalez', 'Logan Clark']
+enqueue Ella Hernandez
+dequeue Ella Hernandez
+enqueue Mia Johnson
+enqueue Haruto Jackson
+enqueue Hiroshi Lewis
+enqueue Oliver Davis
+['Mia Johnson', 'Haruto Jackson', 'Hiroshi Lewis', 'Oliver Davis']
+enqueue Aisha Taylor
+dequeue Aisha Taylor
+enqueue Ella Jones
+enqueue Lucas Kobayashi
+dequeue Ella Jones
+enqueue Caden Taylor
+enqueue Fatima Jackson
+enqueue Diego Hernandez
+enqueue Ali Wilson
+enqueue Harper Yamamoto
+['Lucas Kobayashi', 'Caden Taylor', 'Fatima Jackson', 'Diego Hernandez', 'Ali Wilson', 'Harper Yamamoto']
+enqueue Grayson Wang
+dequeue Grayson Wang
+enqueue Sophia Kumar
+enqueue Evelyn Gonzalez
+dequeue Sophia Kumar
+enqueue Sophia Walker
+enqueue Amelia Sanchez
+['Evelyn Gonzalez', 'Sophia Walker', 'Amelia Sanchez']
+enqueue Hassan Thompson
+dequeue Hassan Thompson
+enqueue Evelyn Ali
+dequeue Evelyn Ali
+enqueue Liam Chen
+['Liam Chen']
+enqueue Liam Davis
+dequeue Liam Davis
+enqueue Mia Williams
+enqueue Harper Jones
+enqueue Chloe Wilson
+enqueue Diego Hall
+enqueue Valentina Taylor
+enqueue Amelia Williams
+['Mia Williams', 'Harper Jones', 'Chloe Wilson', 'Diego Hall', 'Valentina Taylor', 'Amelia Williams']
+enqueue Aria Williams
+enqueue Valentina Martin
+enqueue Amelia Lee
+enqueue Diego Fernandez
+enqueue Ethan Singh
+enqueue Harper Miller
+dequeue Aria Williams
+enqueue Hiroshi Yamamoto
+enqueue Sophia Davis
+['Valentina Martin', 'Amelia Lee', 'Diego Fernandez', 'Ethan Singh', 'Harper Miller', 'Hiroshi Yamamoto', 'Sophia Davis']
+enqueue Mateo Miller
+dequeue Mateo Miller
+enqueue Ali Rodriguez
+dequeue Ali Rodriguez
+enqueue Logan Wang
+enqueue Carlos Taylor
+dequeue Logan Wang
+enqueue Ling Brown
+dequeue Carlos Taylor
+['Ling Brown']
+enqueue Fatima Ali
+dequeue Fatima Ali
+enqueue Aisha Gonzalez
+enqueue Aria Johnson
+dequeue Aisha Gonzalez
+['Aria Johnson']
+enqueue Valentina White
+enqueue Aiden Gonzalez
+enqueue Yuki Young
+dequeue Valentina White
+enqueue Evelyn Taylor
+dequeue Aiden Gonzalez
+enqueue Logan Thompson
+dequeue Yuki Young
+['Evelyn Taylor', 'Logan Thompson']
+enqueue Ali Allen
+enqueue Isabella Williams
+dequeue Ali Allen
+enqueue Elijah Wilson
+dequeue Isabella Williams
+enqueue Ling Patel
+enqueue Valentina Lopez
+dequeue Elijah Wilson
+['Ling Patel', 'Valentina Lopez']
+enqueue Mia Johnson
+dequeue Mia Johnson
+enqueue Caden Fernandez
+dequeue Caden Fernandez
+enqueue Grayson Sanchez
+enqueue Yuki Patel
+enqueue Hassan Thomas
+['Grayson Sanchez', 'Yuki Patel', 'Hassan Thomas']
+enqueue Elijah Jackson
+enqueue Chloe Sanchez
+enqueue Haruto Fernandez
+enqueue Lucas Johnson
+dequeue Elijah Jackson
+enqueue Harper Moore
+dequeue Chloe Sanchez
+['Haruto Fernandez', 'Lucas Johnson', 'Harper Moore']
+enqueue Yuki Nguyen
+enqueue Caden White
+enqueue Haruto Hernandez
+dequeue Yuki Nguyen
+dequeue Caden White
+enqueue Yuki Kumar
+dequeue Haruto Hernandez
+['Yuki Kumar']
+enqueue Grayson Martin
+dequeue Grayson Martin
+enqueue Ella Gonzalez
+enqueue Evelyn Chen
+enqueue Haruto Martin
+enqueue Oliver Wilson
+dequeue Ella Gonzalez
+['Evelyn Chen', 'Haruto Martin', 'Oliver Wilson']
+enqueue Oliver Ali
+enqueue Emma Chen
+enqueue Mason Moore
+enqueue Yuki Martin
+enqueue Ella Lee
+dequeue Oliver Ali
+dequeue Emma Chen
+['Mason Moore', 'Yuki Martin', 'Ella Lee']
+enqueue Liam Kobayashi
+dequeue Liam Kobayashi
+enqueue Logan Rodriguez
+enqueue Grayson Davis
+enqueue Isabella Yamamoto
+enqueue Carlos Davis
+enqueue Ava Thompson
+['Logan Rodriguez', 'Grayson Davis', 'Isabella Yamamoto', 'Carlos Davis', 'Ava Thompson']
+enqueue Haruto Smith
+enqueue Mason Kobayashi
+enqueue Evelyn Perez
+enqueue Aiden Smith
+enqueue Amelia Ali
+enqueue Mei Allen
+enqueue Mia Ali
+enqueue Emma Singh
+['Haruto Smith', 'Mason Kobayashi', 'Evelyn Perez', 'Aiden Smith', 'Amelia Ali', 'Mei Allen', 'Mia Ali', 'Emma Singh']
+enqueue Sophia Fernandez
+enqueue Diego Chen
+enqueue Hiroshi Clark
+dequeue Sophia Fernandez
+enqueue Sakura Kumar
+dequeue Diego Chen
+enqueue Grayson Martinez
+dequeue Hiroshi Clark
+enqueue Valentina Kumar
+['Sakura Kumar', 'Grayson Martinez', 'Valentina Kumar']

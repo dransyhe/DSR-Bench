@@ -1,0 +1,24 @@
+Q: What is the final stack, when performing the following operations:
+(push, 12)
+(push, 35)
+(pop)
+(pop)
+(push, 45)
+A: The final stack is [45].
+
+Q: What is the final stack, when performing the following operations:
+(push, 65)
+(push, 0)
+(pop)
+(push, 92)
+(push, 12)
+A: The final stack is [65, 92, 12].
+
+Q: What is the final stack, when performing the following operations:
+(push, 13)
+(pop)
+(push, 8)
+(push, 13)
+(push, 21)
+A: The final stack is [8, 13, 21].
+

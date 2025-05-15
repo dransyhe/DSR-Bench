@@ -1,0 +1,285 @@
+TrieTree 0
+insert hnftmtmisujb
+insert hnftmeutnb
+insert hwibcknorbbm
+insert hnftdohhyco
+delete hnftdohhyco
+delete hnftmtmisujb
+insert hnftmeutnxf
+insert hnftmeutnmd
+delete hnftmeutnmd
+['', 'h', 'n', 'f', 't', 'm', 'e', 'u', 't', 'n', 'b', 'x', 'f', 'w', 'i', 'b', 'c', 'k', 'n', 'o', 'r', 'b', 'b', 'm']
+TrieTree 1
+insert qapsdcdm
+insert qtwvedrfvhp
+insert qtxhkqbzsheh
+insert qtxhkqbzsuwo
+insert qtwvedwxh
+insert qtwvedwxwa
+delete qtxhkqbzsheh
+delete qtwvedwxwa
+insert qtwvedrfbjy
+['', 'q', 'a', 'p', 's', 'd', 'c', 'd', 'm', 't', 'w', 'v', 'e', 'd', 'r', 'f', 'b', 'j', 'y', 'v', 'h', 'p', 'w', 'x', 'h', 'x', 'h', 'k', 'q', 'b', 'z', 's', 'u', 'w', 'o']
+TrieTree 2
+insert bdczcfsz
+insert bdczcvxeria
+insert bdczcnplcu
+insert bdczcvwyas
+insert bdczfvfgxp
+delete bdczcnplcu
+['', 'b', 'd', 'c', 'z', 'c', 'f', 's', 'z', 'v', 'w', 'y', 'a', 's', 'x', 'e', 'r', 'i', 'a', 'f', 'v', 'f', 'g', 'x', 'p']
+TrieTree 3
+insert rinsfwebkxj
+insert rinsfwebkiwq
+delete rinsfwebkxj
+insert rinsfwuqg
+insert rpctlidg
+['', 'r', 'i', 'n', 's', 'f', 'w', 'e', 'b', 'k', 'i', 'w', 'q', 'u', 'q', 'g', 'p', 'c', 't', 'l', 'i', 'd', 'g']
+TrieTree 4
+insert phrxuhflw
+delete phrxuhflw
+insert libhtutlkede
+delete libhtutlkede
+insert czxpcuauwehr
+insert czxpcuaiet
+insert czxpcuaietpi
+delete czxpcuaietpi
+delete czxpcuauwehr
+insert wqbpxyzoht
+['', 'c', 'z', 'x', 'p', 'c', 'u', 'a', 'i', 'e', 't', 'w', 'q', 'b', 'p', 'x', 'y', 'z', 'o', 'h', 't']
+TrieTree 5
+insert wlipwibfgffg
+delete wlipwibfgffg
+insert vqetihonbk
+insert vqetivkyyr
+insert vqetivkyyn
+insert vqetihohtvj
+['', 'v', 'q', 'e', 't', 'i', 'h', 'o', 'h', 't', 'v', 'j', 'n', 'b', 'k', 'v', 'k', 'y', 'y', 'n', 'r']
+TrieTree 6
+insert ldvnicivdwv
+insert fnbcncghwptb
+delete ldvnicivdwv
+delete fnbcncghwptb
+insert upzrtmhxs
+delete upzrtmhxs
+insert icpatpjh
+['', 'i', 'c', 'p', 'a', 't', 'p', 'j', 'h']
+TrieTree 7
+insert amtqfwlh
+insert amtqfwlhqrma
+insert ojgclfxz
+insert amtqfwlvfo
+delete amtqfwlhqrma
+delete ojgclfxz
+insert amtqfwntch
+['', 'a', 'm', 't', 'q', 'f', 'w', 'l', 'h', 'v', 'f', 'o', 'n', 't', 'c', 'h']
+TrieTree 8
+insert yinwkhxgsyhr
+insert yinwkmycc
+delete yinwkmycc
+delete yinwkhxgsyhr
+insert aheacltfkzw
+insert aheacdgpgkw
+insert ahnslridvwl
+delete ahnslridvwl
+insert axxvvfrrhgu
+['', 'a', 'h', 'e', 'a', 'c', 'd', 'g', 'p', 'g', 'k', 'w', 'l', 't', 'f', 'k', 'z', 'w', 'x', 'x', 'v', 'v', 'f', 'r', 'r', 'h', 'g', 'u']
+TrieTree 9
+insert sjxgikfnq
+insert soxjqllagsy
+delete sjxgikfnq
+delete soxjqllagsy
+insert zzwnjhpnw
+delete zzwnjhpnw
+insert adtkubhorl
+insert adyuhuqaf
+insert adtkuukfecg
+delete adyuhuqaf
+['', 'a', 'd', 't', 'k', 'u', 'b', 'h', 'o', 'r', 'l', 'u', 'k', 'f', 'e', 'c', 'g']
+TrieTree 10
+insert xxyaeyfael
+delete xxyaeyfael
+insert ogdyihnszpi
+delete ogdyihnszpi
+insert jhiompjc
+insert jhiompuwqdjl
+insert jhiompjkshdv
+insert jhiompuwqd
+insert jhiofzdvo
+['', 'j', 'h', 'i', 'o', 'f', 'z', 'd', 'v', 'o', 'm', 'p', 'j', 'c', 'k', 's', 'h', 'd', 'v', 'u', 'w', 'q', 'd', 'j', 'l']
+TrieTree 11
+insert lyvqvapngfi
+insert lyvqvapnhoki
+insert lyvqprocs
+insert lyvqbhpjcemg
+delete lyvqvapnhoki
+delete lyvqvapngfi
+insert lyvnxhxp
+['', 'l', 'y', 'v', 'n', 'x', 'h', 'x', 'p', 'q', 'b', 'h', 'p', 'j', 'c', 'e', 'm', 'g', 'p', 'r', 'o', 'c', 's']
+TrieTree 12
+insert vwybcphsu
+delete vwybcphsu
+insert rjulkgisrn
+insert rtaefzeyy
+delete rjulkgisrn
+insert rtaedzsgac
+insert rtaefzeyyooe
+delete rtaefzeyy
+delete rtaefzeyyooe
+['', 'r', 't', 'a', 'e', 'd', 'z', 's', 'g', 'a', 'c']
+TrieTree 13
+insert nqlwviagmkg
+insert nqlofexm
+delete nqlwviagmkg
+insert nqloeclbq
+insert nqlofexmhdb
+insert nqloeclbm
+delete nqloeclbq
+delete nqloeclbm
+insert nqlofexxizuf
+insert nqlofexxizur
+['', 'n', 'q', 'l', 'o', 'f', 'e', 'x', 'm', 'h', 'd', 'b', 'x', 'i', 'z', 'u', 'f', 'r']
+TrieTree 14
+insert rxrdxopo
+delete rxrdxopo
+insert tkenwmbpt
+delete tkenwmbpt
+insert kphjndvsr
+delete kphjndvsr
+insert vvbkhkjpwha
+insert vvbkhkjpwhab
+['', 'v', 'v', 'b', 'k', 'h', 'k', 'j', 'p', 'w', 'h', 'a', 'b']
+TrieTree 15
+insert qzqqauvduwr
+insert qzgtbvaicygm
+insert qzgduxudkky
+delete qzqqauvduwr
+insert qzgtbvaicrbv
+['', 'q', 'z', 'g', 'd', 'u', 'x', 'u', 'd', 'k', 'k', 'y', 't', 'b', 'v', 'a', 'i', 'c', 'r', 'b', 'v', 'y', 'g', 'm']
+TrieTree 16
+insert rsntgqeore
+delete rsntgqeore
+insert yjuuxeqmsmat
+insert yxnrbslpyye
+insert yjulbnmj
+insert yxnrbslz
+['', 'y', 'j', 'u', 'l', 'b', 'n', 'm', 'j', 'u', 'x', 'e', 'q', 'm', 's', 'm', 'a', 't', 'x', 'n', 'r', 'b', 's', 'l', 'p', 'y', 'y', 'e', 'z']
+TrieTree 17
+insert bnjemshyvqyg
+delete bnjemshyvqyg
+insert nrjzlfct
+insert nbfqceqhyb
+delete nbfqceqhyb
+['', 'n', 'r', 'j', 'z', 'l', 'f', 'c', 't']
+TrieTree 18
+insert rlmgltlftwf
+delete rlmgltlftwf
+insert hhsjxaybljkc
+delete hhsjxaybljkc
+insert fejsaoqgaagg
+insert fejsaoqgqr
+delete fejsaoqgqr
+insert frkttgklm
+['', 'f', 'e', 'j', 's', 'a', 'o', 'q', 'g', 'a', 'a', 'g', 'g', 'r', 'k', 't', 't', 'g', 'k', 'l', 'm']
+TrieTree 19
+insert yxcsnflyqckc
+delete yxcsnflyqckc
+insert hrxswgououv
+insert hhzpiaxgq
+insert hrxswgououvf
+insert hrximayg
+['', 'h', 'h', 'z', 'p', 'i', 'a', 'x', 'g', 'q', 'r', 'x', 'i', 'm', 'a', 'y', 'g', 's', 'w', 'g', 'o', 'u', 'o', 'u', 'v', 'f']
+TrieTree 20
+insert xojjslqm
+insert xbdkhcawkp
+insert xojjslqmfzrd
+insert xojjslqmf
+delete xojjslqmf
+['', 'x', 'b', 'd', 'k', 'h', 'c', 'a', 'w', 'k', 'p', 'o', 'j', 'j', 's', 'l', 'q', 'm', 'f', 'z', 'r', 'd']
+TrieTree 21
+insert hcqutnsw
+delete hcqutnsw
+insert cwdvdjul
+insert cwdvdekp
+insert cwdvdekpzkz
+insert cwdvdeqvrfxm
+insert cwdvdeztafs
+['', 'c', 'w', 'd', 'v', 'd', 'e', 'k', 'p', 'z', 'k', 'z', 'q', 'v', 'r', 'f', 'x', 'm', 'z', 't', 'a', 'f', 's', 'j', 'u', 'l']
+TrieTree 22
+insert plqkxnylvan
+insert plqkxnlg
+insert plqkqbgatbo
+insert plqkxspcrkm
+delete plqkxnlg
+insert plqkxnylvan
+insert plqkqbgatbo
+['', 'p', 'l', 'q', 'k', 'q', 'b', 'g', 'a', 't', 'b', 'o', 'x', 'n', 'y', 'l', 'v', 'a', 'n', 's', 'p', 'c', 'r', 'k', 'm']
+TrieTree 23
+insert eeooyeas
+insert eeoonkohjy
+insert eeoonkoh
+delete eeooyeas
+delete eeoonkoh
+delete eeoonkohjy
+insert ifuenmksakug
+['', 'i', 'f', 'u', 'e', 'n', 'm', 'k', 's', 'a', 'k', 'u', 'g']
+TrieTree 24
+insert psqosoyhtq
+insert psqosoyethf
+insert pszmwzcf
+delete psqosoyethf
+insert xueyfeunwtay
+insert npcfazsb
+['', 'n', 'p', 'c', 'f', 'a', 'z', 's', 'b', 'p', 's', 'q', 'o', 's', 'o', 'y', 'h', 't', 'q', 'z', 'm', 'w', 'z', 'c', 'f', 'x', 'u', 'e', 'y', 'f', 'e', 'u', 'n', 'w', 't', 'a', 'y']
+TrieTree 25
+insert ktvxbazhn
+insert ktvxbazhnf
+insert ktvxbaqp
+insert ktvxbazh
+insert ktvpzvqzjvrp
+delete ktvxbazhnf
+insert ktvpzvcpq
+['', 'k', 't', 'v', 'p', 'z', 'v', 'c', 'p', 'q', 'q', 'z', 'j', 'v', 'r', 'p', 'x', 'b', 'a', 'q', 'p', 'z', 'h', 'n']
+TrieTree 26
+insert ibycmuud
+insert ijohkilnrt
+delete ibycmuud
+insert ijohkilf
+insert iklcutjtmc
+insert ijohkilsddnv
+delete ijohkilf
+delete ijohkilsddnv
+['', 'i', 'j', 'o', 'h', 'k', 'i', 'l', 'n', 'r', 't', 'k', 'l', 'c', 'u', 't', 'j', 't', 'm', 'c']
+TrieTree 27
+insert qnllsuxgauk
+insert qnllsuxga
+delete qnllsuxga
+insert qnmjfwibk
+delete qnllsuxgauk
+insert qnmjfztybgh
+insert qnmmyyeubppu
+insert qnmjfwibkjc
+['', 'q', 'n', 'm', 'j', 'f', 'w', 'i', 'b', 'k', 'j', 'c', 'z', 't', 'y', 'b', 'g', 'h', 'm', 'y', 'y', 'e', 'u', 'b', 'p', 'p', 'u']
+TrieTree 28
+insert xyybvavndtm
+delete xyybvavndtm
+insert ckwjzlnbwtfc
+insert ckwjzlnbwtfc
+insert ckwjzlnbak
+insert ckwjzlnop
+insert ckwjzjfu
+delete ckwjzlnbwtfc
+insert ckwjzgvxivq
+insert ckwjzgvxus
+['', 'c', 'k', 'w', 'j', 'z', 'g', 'v', 'x', 'i', 'v', 'q', 'u', 's', 'j', 'f', 'u', 'l', 'n', 'b', 'a', 'k', 'o', 'p']
+TrieTree 29
+insert brultnjvu
+insert brzedaywaje
+insert brulwwuuiq
+delete brultnjvu
+delete brulwwuuiq
+insert brzmzvcccm
+delete brzedaywaje
+insert brzmzvcccm
+insert brvkmumil
+['', 'b', 'r', 'v', 'k', 'm', 'u', 'm', 'i', 'l', 'z', 'm', 'z', 'v', 'c', 'c', 'c', 'm']

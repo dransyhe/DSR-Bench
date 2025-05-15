@@ -1,0 +1,4 @@
+Q: You should create a RB tree as described below. After creating the tree, perform the provided series of operations on the tree.
+
+
+What is the final state of the red-black tree after performing the operations?

@@ -1,0 +1,13 @@
+Q: What is the state of the priority queue after the following operations:
+insert (22, 77)
+insert (34, 21)
+raise_key (34, 83)
+insert (85, 95)
+insert (40, 68)
+A: 
+Insert (22, 77) to the empty priority queue. The queue is now [(22, 77)]. 
+Insert (34, 21) into the priority queue. Place (34, 21) after (22, 77) as it has lower priority. The queue is now [(22, 77), (34, 21)]. 
+Raise key 34's priority to 83. Update (34, 21) to (34, 83). Now (34, 83) has the highest priority, so update the queue to be [(34, 83), (22, 77)]. 
+Insert (85, 95) to priority queue. Place (85, 95) in front of (34, 83) as 95 > 83. The queue is now [(85, 95), (34, 83), (22, 77)].
+Insert (40, 68) to priority queue. 68 < 77, so we place (40, 68) after (22, 77). The queue is now [(85, 95), (34, 83), (22, 77), (40, 68)].
+The final queue is: [(85, 95), (34, 83), (22, 77), (40, 68)]. 

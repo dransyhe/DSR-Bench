@@ -1,0 +1,30 @@
+{name} called to cancel their appointment.
+After a change in plans, {name} removed their appointment from the schedule.
+The receptionist deleted {name}’s appointment from the system.
+{name} no longer needed the slot and was taken off the booking list.
+A cancellation came in from {name}, so their appointment was cleared.
+Following {name}'s cancellation, the system was updated.
+{name} had to reschedule for another day, and their original time was removed.
+With {name} dropping out, the remaining appointments adjusted accordingly.
+The system removed {name} from the list after they confirmed they couldn’t make it.
+{name}’s booking was deleted, making room for other patients.
+Once {name} withdrew their appointment, the structure updated to maintain order.
+{name} was removed as they cancelled the appointment for a personal meeting with {name_prev}.
+Because of a scheduling conflict, {name} had to be removed from the appointment tree.
+{name} canceled, and their appointment was deleted.
+The clinic’s schedule dropped {name}, who heard negative reviews from {extra_name}.
+{name} was taken off the schedule, though {extra_name} still remained on the waitlist to get an appointment.
+The system removed {name}, even though {extra_name} is still considering booking.
+{name}’s spot was deleted after they talked with {name_prev}.
+The receptionist noted that {name} no longer needed their time and removed them from the tree.
+{name} was deleted, freeing up a timeslot that had previously been full.
+The booking under {name} was canceled — though {extra_name} recommended this place.
+A rare double-booking was resolved by deleting {name}.
+{name}’s entry was cleared from the tree, as they had already been served earlier in the day.
+The schedule shifted slightly after {name}’s cancellation at the last minute.
+{name} called in to cancel the appointment.
+{name} opted out, and the node was deleted.
+{name} hesitated a lot but still decided to cancel.
+Although {extra_name} expressed interest in booking, {name} decided to go elsewhere and cancelled their appointment.
+{name}’s appointment was deleted, reshaping the tree.
+The system updated after deleting the appointment by {name}.

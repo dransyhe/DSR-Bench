@@ -1,0 +1,30 @@
+{name} called the clinic and booked an appointment for {time}.
+Hoping to be seen before {time_after}, {name} chose the earlier slot at {time}.
+{name} scheduled their visit for {time}, which came just after {time_prev}.
+Looking for the best spot, {name} claimed {time} before anyone else had called.
+After hearing {name_prev} had booked, {name} booked at {time}.
+{name} asked for {time}, following the appointment booked by {name_prev}.
+Knowing {name_prev} has booked, {name} was placed at {time}. 
+{name}, a friend of {name_prev} and {extra_name},  booked for {time}.
+Just after {name_prev} reserved their spot, {name} confirmed their appointment at {time}.
+{name} requested {time}, which is before {time_after}.
+Since {extra_name} has recommended the clinic, {name} took their preferred slot at {time}.
+{name} booked {time} as recommended by {name_prev}.
+With {extra_name} still deciding, {name} secured {time}, which fit into their schedule right between {time_prev} and {time_after}.
+{name} grabbed the {time} slot, hoping to be seen before {time_prev}.
+Although {extra_name} had considered {time}, it was {name} who actually claimed it.
+{name} reserved {time} just before {time_after}, while {extra_name} is still deciding.
+As a friend {name_prev} recommended, {name} quickly booked at {time}.
+With {time} as their preferred timeslot, {name} got their booking request in.
+{name} arrived late but still managed to book {time}, fitting into the tree after {name_prev}.
+After checking availability around {time_prev}, {name} chose {time}.
+{name} selected {time}, coming just before {extra_name} had planned to book.
+{name} requested {time}, who has got to know the place from {name_prev} and {extra_name}.
+Although {extra_name} mentioned {time} first, it was {name} who actually booked it.
+{name} picked {time} to suit their busy schedule.
+{name} was scheduled for {time}, slightly earlier than {time_after}.
+Because {name} called just after {name_prev} reserved, they were slotted in at {time}.
+{name} joined the list at {time} successfully, taking the spot of {extra_name} who was planning to request that time too. 
+{name} went with {time}, a time that balanced well between {time_prev} and {time_after}.
+The receptionist noted down that {name} booked {time}.
+{name}’s appointment starts at {time}, after their class ends at {time_prev}.

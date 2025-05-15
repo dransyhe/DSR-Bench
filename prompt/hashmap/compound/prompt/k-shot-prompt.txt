@@ -1,0 +1,26 @@
+Given a empty hashmap with 5 buckets. The hash function is bucket = key % number_of_buckets. 
+Q: What is the final hashmap when performing the following operations? 
+(add, (45, 21))
+(add, (13, 11))
+(add, (96, 3))
+(remove, 13)
+(add, (10, 67))
+A: The final hashmap is: [[(45, 21), (10, 67)], [(96, 3)], [], [], []]. 
+
+Given a empty hashmap with 6 buckets. The hash function is bucket = key % number_of_buckets.
+Q: What is the final hashmap when performing the following operations?
+(add, (21, 78))
+(add, (33, 15))
+(add, (94, 62))
+(add, (10, 99))
+(remove, 33)
+A: The final hashmap is: [[], [], [], [(21, 78)], [(94, 62), (10, 99)], []]. 
+
+Given a empty hashmap with 7 buckets. The hash function is bucket = key % number_of_buckets.
+Q: What is the final hashmap when performing the following operations?
+(add, (7, 56))
+(add, (49, 23))
+(add, (27, 99))
+(remove, 7)
+(add, (28, 16))
+A: The final hashmap is [[(49, 23), (28, 16)], [], [(79, 3)], [], [], [], [(27, 99)]].

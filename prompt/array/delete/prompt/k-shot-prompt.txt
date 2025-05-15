@@ -1,0 +1,11 @@
+Given an array [75, 30, 13, 58, 31]. Delete the first item that has the value 30 in the array.  
+Q: What is the updated array?  
+A: The final answer is [75, 13, 58, 31]. 
+
+Given an array [27, 55, 76, 15, 60]. Delete the first item that has the value 76 in the array.  
+Q: What is the updated array?  
+A: The final answer is [27, 55, 15, 60].  
+
+Given an array [47, 67, 89, 32, 43]. Delete the first item that has the value 32 in the array.  
+Q: What is the updated array?  
+A: The final answer is [47, 67, 89, 43].

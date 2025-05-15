@@ -1,0 +1,8 @@
+Q: Given an array [14, 63, 88, 100, 57], turn it into a min-heap with array-based implementation.  
+A: The final answer is [14, 57, 88, 100, 63].  
+
+Q: Given an array [71, 50, 94, 8, 21], turn it into a min-heap with array-based implementation.  
+A: The final answer is [8, 21, 94, 50, 71].  
+
+Q: Given an array [62, 99, 12, 93, 6], turn it into a min-heap with array-based implementation.  
+A: The final answer is [6, 62, 12, 93, 99].

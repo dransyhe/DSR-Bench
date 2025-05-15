@@ -1,0 +1,23 @@
+Q: What is the final state of the binary search tree, after performing the following operations: 
+(insert, 45)
+(insert, 64)
+(insert, 74)
+(insert, 32)
+(delete, 64)
+A: [45, 32, 74]
+
+Q: What is the final state of the binary search tree, after performing the following operations: 
+(insert, 62)
+(insert, 67)
+(insert, 5)
+(insert, 13)
+(insert, 12)
+A: [62, 5, 13, 12, 67]
+
+Q: What is the final state of the binary search tree, after performing the following operations: 
+(insert, 36)
+(insert, 38)
+(delete, 36)
+(insert, 47)
+(insert, 66)
+A: [38, 47, 66]

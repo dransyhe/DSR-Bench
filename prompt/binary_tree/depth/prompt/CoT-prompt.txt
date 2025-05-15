@@ -1,0 +1,12 @@
+Q: The root node is Node 10. Node 10's left child is Node 5, and its right child is Node 15. Node 5's left child is Node 3, and its right child is Node 7.  
+Please answer the following questions. Your answer to the following questions should be indexed.
+What is the depth of the tree?
+A: 
+Start at the root node, which is 10. Visit 10, whose depth is 1.
+Next, visit the left subtree of 10. The left child of 10 is 5. Visit 5, whose depth is 2.
+Next, visit the left subtree of 5. The left child of 5 is 3. Visit 3, whose depth is 3. Since 3 has no children, go back to node 5.
+Next, visit the right subtree of 5. The right child of 5 is 7. Visit 7, whose depth is 3.
+Next, visit the left subtree of 7. Since 7 has no children, return to 10, whose depth is 1. 
+Next, visit the right subtree of 10. The right child of 10 is 15. Visit 15, whose depth is 2.
+Next, since 15 has no children, the traversal is complete.
+The depth of the tree is: 3.

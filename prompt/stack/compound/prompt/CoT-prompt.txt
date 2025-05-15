@@ -1,0 +1,13 @@
+Q: What is the final stack, when performing the following operations:
+(push, 12)
+(push, 35)
+(pop)
+(pop)
+(push, 54)
+A: Initially, the stack is [].
+After (push, 12), it becomes [12].
+After (push, 35), it becomes [12, 35].
+After (pop), it becomes [12].
+After (pop), it becomes [].
+After (push, 54), it becomes [54].
+The final stack is [54].

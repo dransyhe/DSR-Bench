@@ -1,0 +1,36 @@
+Q: You are given an empty skip list with max level 3, what is the final state of the skip list after the following operations? 
+insert 52
+Level generation probabilities: 0.1800, 0.9542
+insert 88
+Level generation probabilities: 0.8431
+insert 46
+Level generation probabilities: 0.1031, 0.6570
+insert 24
+Level generation probabilities: 0.2186, 0.6223
+insert 9
+Level generation probabilities: 0.1412, 0.3862, 0.0829, 0.2946
+A: [[9], [9], [9, 24, 46, 52], [9, 24, 46, 52, 88]]
+
+Q: You are given an empty skip list with max level 3, what is the final state of the skip list after the following operations? 
+insert 37
+Level generation probabilities: 0.8554
+delete 37
+insert 38
+Level generation probabilities: 0.1635, 0.7451
+insert 65
+Level generation probabilities: 0.8034
+insert 85
+Level generation probabilities: 0.7032
+A: [[38], [38, 65, 85]]
+
+Q: You are given an empty skip list with max level 3, what is the final state of the skip list after the following operations? 
+insert 62
+Level generation probabilities: 0.8937
+insert 57
+Level generation probabilities: 0.7535
+insert 11
+Level generation probabilities: 0.7621
+insert 40
+Level generation probabilities: 0.7390
+delete 62
+A: [[11, 40, 57]]
