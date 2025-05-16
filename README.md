@@ -1,4 +1,6 @@
-# DSR-Bench: Data Structure Reasoning Benchmark for LLMs
+<p align="left">
+  <img src="figures/logo.png"  width="50%" style="display:inline-block; margin-right:2%;" />
+</p>
 
 <p align="center">
   <img src="figures/main.png"  width="50%" style="display:inline-block; margin-right:2%;" />
