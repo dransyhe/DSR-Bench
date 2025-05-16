@@ -37,8 +37,8 @@ def count_num_tokens(text):
 
 def parse_arguments():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model', type=str, default="gpt-4o-mini", help='name of LM (default: gpt-4o-turbo)', choices=model_list)
-    parser.add_argument('--mode', type=str, default="easy", help='mode (default: easy)')
+    parser.add_argument('--model', type=str, default="gpt-4o-mini", help='name of LM (default: gpt-4o-mini)', choices=model_list)
+    parser.add_argument('--mode', type=str, default="short", help='mode (default: short)')
     parser.add_argument('--description', type=str, default="full", help='whether to use full description or name-dropping', choices=["full", "name"])
     parser.add_argument('--prompt', type=str, default="none", help='prompting techniques (default: none)', choices=prompt_list)
     parser.add_argument('--T', type=float, default=0, help='temprature (default: 0)')
@@ -47,6 +47,12 @@ def parse_arguments():
     parser.add_argument('--format', type=str, default="schema", help='type of structured format method, schema or function (default: schema)')
     parser.add_argument('--dim', type=int, default=5, help='dimension for kd-heap, kd-tree, and geometric graph')
     args = parser.parse_args()
+    
+    name_map = {"short": "easy", "medium": "medium", "long": "hard"}
+    prompt_map = {"stepwise": "none", "none": "AnsOnly"}
+    if args.prompt in prompt_map:
+        args.prompt = prompt_map[args.prompt]
+    args.mode = name_map.get(args.mode, args.mode)
     return args 
 
 def _levenshteinRecursive(str1, str2, m, n):
