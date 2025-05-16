@@ -14,8 +14,8 @@
 - [Introduction](#introduction)
 - [Installation Quickstart](#installation-quickstart)
 - [Usage](#usage)
-- [Data](#data)
-- [Evaluating New Models and Configuring API Parameters](#evaluating-new-models-and-configuring-api-parameters)
+- [Data Structures and Suites](#data_structures_and_suites)
+- [Evaluating New Models](#evaluating-new-models)
 
 ## Introduction
 
@@ -27,7 +27,7 @@ data structures, 30 operations, summing up to a total of 2700 questions. It has 
 
 - **Deterministic evaluation**: Each data structure task has a concise and well-defined correct final state, allowing for deterministic and unambiguous scoring. Unlike open-ended tasks, this design supports fully automated evaluation without the need for human or model-based judgment, resulting in a fairer and more objective evaluation pipeline. 
 
-- ** Low-contamination data **: All tasks are generated efficiently from synthetic distributions, significantly reducing contamination risks from pretraining data. This setup also enables large-scale evaluation with minimal human involvement.
+- **Low-contamination data**: All tasks are generated efficiently from synthetic distributions, significantly reducing contamination risks from pretraining data. This setup also enables large-scale evaluation with minimal human involvement.
 
 
 ## Installation Quickstart
@@ -95,7 +95,7 @@ the window of 24 hours, and is 50% less expensive compare to non-batched output.
 We implemented fully automated pipeline for all OpenAI, Anthropic, and Gemini models that will help you submit the batch to server, wait till it's finished, and pull the results back to parse. When using batch API, it is recommended that you use methods like nohup to prevent interruption to the process and allow successful fetching (as wait time can 
 be up to 24 hours). 
 
-## Data Structures
+## Data Structures and Suites
 
 ### Category
 
@@ -141,6 +141,6 @@ python -m natural.queue.evaluation
 This suite allows us to examine whether LLMs can generalize structural reasoning beyond formal task descriptions with real-world scenarios, which is a critical ability for LLM deployment as assistants for practical applications and highlights an important future research direction. It also tests LLMs' capacity to reason with ambiguity and confounding information, which we specifically designed and included in the questions (e.g., “A and B both saw the ice cream truck. Only A joined the line because B has no money”, where B here is the confounding name). 
 
 
-## Evaluating New Models and Configuring API Parameters
+## Evaluating New Models
 
 The current pipeline should already be set up to automate evaluation of new models from the OpenAI, Claude, Gemini, and DeepSeek families, as well as any open-sourced models that Ollama can run. If persistent issue remains, it would be helpful to look into `evaluation/eval.py` and check out whether modifications need to be make about client definition. 
