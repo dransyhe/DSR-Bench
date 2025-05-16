@@ -122,23 +122,23 @@ Graphs naturally capture many-to-many relationships, for example, in social netw
 Real-world systems often employ hybrid data structures that combine multiple relational principles. This category includes LRU caches, integrating temporal and memory constraints; bloom filters, designed for probabilistic set membership queries; and Directed Acyclic Word Graphs, which are trie-like hierarchical graphs. These tasks assess whether a model can generalize beyond individual structural concepts and reason over combined constraints.
 
 
-### DSR-Bench-challenge
-
-DSR-Bench-challenge is a subset of DSR-Bench problems characterized by more complex and non-standard data structures, with tasks of multi-step reasoning. It contains 15 data structures and 450 questions. 
-
-We tested 4 reasoning models (o4-mini, Gemini-2.5-Pro-preview, Claude-3.7-Sonnet, and DeepSeek-r1) and 5 instruction-tuned models (GPT-4.1, Gemini-2.0-flash, Claude-3.5-Sonnet, DeepSeek-v3, and Llama 3.3). None of the reasoning models tested can score above 0.5/1 on DSR-Bench-challenge. DSR-Bench-challenge is designed to highlight remaining weaknesses of existing models in structural reasoning capacity and promote future research into LLM structural reasoning. 
-
-### DSR-Bench-spatial
+### Test DSR-Bench-spatial
 
 DSR-Bench-spatial extends 3 data structures in DSR-Bench (K-D Heap, K-D Tree, Geometric Graphs) into variants in terms of dimensionality and data distribution. It contains the 1D, 2D, 3D, and 5D data versions of all three data structures, and 3 non-uniform data distributions (moons, circles, blobs) versions of K-D Tree, all containing short, medium, and long prompts, yielding a total of 450 questions.
 
-DSR-Bench-spatial is designed to highlight LLMs’ strengths and weaknesses in terms of spatial reasoning. Non-uniform data tasks for K-D Tree also help identify the model’s robustness in terms of generalizing from more standard data patterns to less standard data patterns. 
+This suite can easily be tested by adjusting the `--dim` flag for implemented data structures. 
 
 ### DSR-Bench-natural
 
 DSR-Bench-natural extends 3 data structures in DSR-Bench (queue, binary search tree, and graphs) into narrative-based natural language questions. LLMs are no longer evaluated on textbook/interview question style formal prompts like “Given an empty queue. Do the following operations: (enqueue 2), (dequeue), (enqueue 3)... What is the current queue?”, but on a real-world scenario that implicit require the usage and maintenance of a data structure, like “On a sunny afternoon, an ice cream truck rolled into the park. Each children take their place at the end of the line while the vendor serves from the front. Leila Choi ran over and joined the line. The next kid is being served… What is the order of the remaining kids in line?”
 
-This extension allows us to examine whether LLMs can generalize structural reasoning beyond formal task descriptions with real-world scenarios, which is a critical ability for LLM deployment as assistants for practical applications and highlights an important future research direction. It also tests LLMs' capacity to reason with ambiguity and confounding information, which we specifically designed and included in the questions (e.g., “A and B both saw the ice cream truck. Only A joined the line because B has no money”, where B here is the confounding name). 
+This suite can easily be tested through calling the `natural` module. For example, 
+
+```
+python -m natural.queue.evaluation
+```
+
+This suite allows us to examine whether LLMs can generalize structural reasoning beyond formal task descriptions with real-world scenarios, which is a critical ability for LLM deployment as assistants for practical applications and highlights an important future research direction. It also tests LLMs' capacity to reason with ambiguity and confounding information, which we specifically designed and included in the questions (e.g., “A and B both saw the ice cream truck. Only A joined the line because B has no money”, where B here is the confounding name). 
 
 
 ## Evaluating New Models and Configuring API Parameters
