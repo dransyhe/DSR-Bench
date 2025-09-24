@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https://huggingface.co/collections/vitercik-lab/dsr-bench-6826381f6297ff1499134163">💻 Dataset </a> 
+    <a href="https://huggingface.co/collections/vitercik-lab/dsr-bench-6826381f6297ff1499134163">💻 Dataset </a> (Link disabled in anonymous repo for ICLR submission since HuggingFace datasets cannot be anonymized)
 </p>
 
 ## Table of Contents
