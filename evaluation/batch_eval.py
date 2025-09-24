@@ -242,6 +242,36 @@ def openai_write_query(client, Q, args, response_format):
                     f_jsonl.write(json.dumps(query_to_write) + "\n")
                 else:
                     f_jsonl.write(json.dumps(query_to_write))
+    elif "gpt-5" in args.model:
+        with open(filename, "w") as f_jsonl: 
+            for i, text in enumerate(inputs):
+                query_to_write = {
+                    "custom_id": str(args.type) + '_' + str(args.operation) + '_' + str(args.mode) + '_' + str(args.model) + '_' + str(args.prompt) + '_' + str(i),
+                    "method": "POST",
+                    "url": "/v1/chat/completions",
+                    "body": {
+                        "model": str(args.model),
+                        "messages": [
+                            {"role": "developer", "content": "You are a helpful assistant."},
+                            {"role": "user", "content": text},
+                        ],
+                        "max_completion_tokens": int(args.token),
+                        "reasoning_effort": "medium",
+                        "verbosity": "low",
+                        "response_format": {
+                            "type": "json_schema",
+                            "json_schema": {
+                                "name": "output_format", 
+                                "schema": to_strict_json_schema(response_format), # response_format.model_json_schema(),
+                                "strict": True 
+                            }
+                        },
+                    }
+                }
+                if i != len(inputs) - 1:
+                    f_jsonl.write(json.dumps(query_to_write) + "\n")
+                else:
+                    f_jsonl.write(json.dumps(query_to_write))
     else:
         with open(filename, "w") as f_jsonl: 
             for i, text in enumerate(inputs):

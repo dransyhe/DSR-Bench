@@ -40,7 +40,7 @@ def main():
                 pass
             elif "Nodes" in line: 
                 nodes = line.split(":")[-1].rstrip("\n")
-                Q_state = description + "You should create a random geometric graph given the following data points: \n" + \
+                Q_state = description + "You should create a random geometric graph given the following data points: \n" +\
                     nodes + "\n" 
                     
             elif "Threshold" in line:
@@ -48,7 +48,7 @@ def main():
                 Q_state += "The threshold for creating an edge is " + threshold + ". \n" 
             elif "From" in line:
                 source = line.split(":")[-1].rstrip("\n")
-                Q_state += "After the graph is created, perform a breath-first-search starting from node " + source + ". \n"
+                Q_state += "After the graph is created, perform a breath-first-search starting from node " + source + ". \n" +\
                 "If there are multiple neighbors to explore for a given node, prioritize the neighbor with the smallest edge weight. \n"
             elif "BFS" in line:
                 bfs = line.split(":")[-1].rstrip("\n")
@@ -74,7 +74,6 @@ def main():
             
             i += 1
     print(len(Q_list))
-    # 1/0
     
     graphSchema = GeomSchemaAnsOnly if args.prompt == "AnsOnly" else GeomSchema
     if args.batch:
@@ -97,9 +96,6 @@ def main():
             partial_res.append(0)
             continue 
         
-        print(repr(answer))
-        print(repr(truths[i]))
-        # answer = str_to_nested_float_list(answer)
         truths[i] = str_to_nested_float_list(truths[i])
         if str(answer) == str(truths[i]):
             res.append(1)

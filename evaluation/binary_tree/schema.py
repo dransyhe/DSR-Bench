@@ -54,8 +54,7 @@ def get_description(args):
                        "is its ordering rule: every key in a node’s left subtree is strictly less than the node’s key, \n"
                        "and every key in its right subtree is strictly greater. This invariant recurses down the tree, so starting \n"
                        "from the root you can locate, insert, or delete a key by repeatedly comparing and following the appropriate \n"
-                       "child link—just like playing a deterministic game of “higher or lower. \n"
-                       "The depth of a binary search tree is the number of nodes on the longest path from the root to a leaf node. \n")
+                       "child link—just like playing a deterministic game of “higher or lower. \n")
         if args.operation == "add":
             description += "To add a node to the binary search tree, start at the root and compare the value to be inserted with the value of the current node. \n" \
                 "If the value is less than the current node's value, move to the left child; if it is greater, move to the right child. \n" \
@@ -79,5 +78,5 @@ def get_description(args):
                     "and the left child is less than or equal to the parent node, while the right child is greater than the parent node. \n"
                 )
     if args.operation == "depth":
-        description += "Depth of a binary search tree is the distance from the root node to the deepest leaf node. \n"
+        description += "The depth of a binary search tree is the number of nodes on the longest path from the root to a leaf node. \n"
     return description

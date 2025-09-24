@@ -39,7 +39,7 @@ def main():
                 elif "None" not in right:
                     Q += f"Node {node}'s right child is Node {right}. "
                 i += 1
-            Q += "\n The root node has depth 0. What is the depth of the tree? \n"
+            Q += "\n The root node has depth 1. What is the depth of the tree? \n"
             
             if "deepseek-chat" in args.model:
                 if args.prompt == "AnsOnly":

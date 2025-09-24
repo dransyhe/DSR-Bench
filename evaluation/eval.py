@@ -18,12 +18,12 @@ from tenacity import (
 from llama_index.core.llms import ChatMessage
 from llama_index.llms.ollama import Ollama
 
-model_list = ["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "o1", "o1-mini", "o3-mini", "o4-mini", "gpt-4.1-2025-04-14", "o4-mini-2025-04-16",
+model_list = ["gpt-5-2025-08-07", "gpt-4.1-2025-04-14", "gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "o1", "o1-mini", "o3-mini", "o4-mini", "abla", "o4-mini-2025-04-16",
               "llama3.3", "llama3.2", 
               "deepseek-chat", "deepseek-reasoner",
-              "gemini-1.5-pro", "gemini-2.0-flash-001", "gemini-2.0-flash-lite-preview-02-05", "gemini-2.5-flash-preview-04-17",
+              "gemini-1.5-pro", "gemini-2.0-flash-001", "gemini-2.0-flash-lite-preview-02-05", "gemini-2.5-flash-preview-04-17", "gemini-2.5-pro",
               "claude-3-5-sonnet-20241022", "claude-3-5-haiku-20241022", "claude-3-opus-20240229", "claude-3-haiku-20240307", "claude-3-7-sonnet-20250219"]     
-prompt_list = ["none", "k-shot", "CoT", "0-CoT", "AnsOnly"]
+prompt_list = ["stepwise", "none", "k-shot", "CoT", "0-CoT", "AnsOnly"]
 
 def translate(q, q_state='', args=None):
     Q = q_state 
@@ -101,7 +101,27 @@ def predict(Q, args, response_format=None):
 
 
     for text in inputs:
-        if "claude-3-7" in args.model:
+        if "gpt-5" in args.model:
+            try:
+                response = client.beta.chat.completions.parse(
+                    model=args.model,
+                    messages=[
+                        {"role": "developer", "content": "You are a helpful assistant."},
+                        {"role": "user", "content": text},
+                    ],
+                    # temperature=args.T,
+                    max_completion_tokens=args.token,
+                    timeout=600,
+                    response_format=response_format,
+                    reasoning_effort="medium",
+                    verbosity="low" 
+                )
+                tokenizer = get_encoding("cl100k_base")
+                Answer_list.append(response.choices[0].message.content)
+            except Exception as e:
+                print(f"Error: {e}")
+                Answer_list.append(json.dumps("Error"))
+        elif "claude-3-7" in args.model:
             try:
                 response = client.chat.completions.create(
                     model=args.model,
@@ -112,12 +132,12 @@ def predict(Q, args, response_format=None):
                     temperature=1,
                     max_tokens=args.token,
                     stream=False, 
-                    timeout=30, 
+                    timeout=600, 
                     response_model=response_format if response_format else None,
-                    thinking={
-                        "type": "enabled",
-                        "budget_tokens": int(args.token * 4/5)
-                    },
+                    # thinking={
+                    #     "type": "enabled",
+                    #     "budget_tokens": int(args.token * 4/5)
+                    # },
                 )
                 Answer_list.append(json.dumps(response.model_dump(mode='json')))
             except Exception as e:
@@ -134,7 +154,7 @@ def predict(Q, args, response_format=None):
                     temperature=args.T,
                     max_tokens=args.token,
                     stream=False, 
-                    timeout=30, 
+                    timeout=600, 
                     response_model=response_format if response_format else None,
                 )
                 Answer_list.append(json.dumps(response.model_dump(mode='json')))
@@ -167,7 +187,7 @@ def predict(Q, args, response_format=None):
                         {"role": "user", "content": text},
                     ],
                     max_completion_tokens=args.token,
-                    timeout=60,
+                    timeout=600,
                     response_format=response_format,
                 )
                 Answer_list.append(response.choices[0].message.content) 
@@ -184,7 +204,7 @@ def predict(Q, args, response_format=None):
                     ],
                     temperature=args.T,
                     max_tokens=args.token,
-                    timeout=60,
+                    timeout=600,
                     response_format={'type': 'json_object'},
                 )
                 tokenizer = get_encoding("cl100k_base")
@@ -203,7 +223,7 @@ def predict(Q, args, response_format=None):
                     ],
                     temperature=args.T,
                     max_tokens=args.token,
-                    timeout=60,
+                    timeout=600,
                     response_model=response_format,
                 )
                 tokenizer = get_encoding("cl100k_base")
@@ -223,7 +243,7 @@ def predict(Q, args, response_format=None):
                     ],
                     temperature=args.T,
                     max_tokens=args.token,
-                    timeout=60,
+                    timeout=600,
                     response_format=response_format,
                 )
                 tokenizer = get_encoding("cl100k_base")

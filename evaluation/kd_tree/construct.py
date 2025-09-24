@@ -69,7 +69,7 @@ def main():
                 Q = f"Construct a KD-tree with the following points: {points}\n"
                 Q += f"If there's ever ties when sorting an axis, such as [56, 32] and [56, 12] when sortinhg by x-axis, please keep the original order in the given data."
                 Q += "After that, please answer the following question:\n" + \
-                    "Q: What is the pre-order traversal of the tree? Output in a nested list like the input. \n"
+                    "Q: What is the pre-order traversal of the tree? Output a list of nodes like the input. \n"
                 i += 1
                 # print(f"Q: {Q}")
                 Q = translate(Q, Q_state, args)
