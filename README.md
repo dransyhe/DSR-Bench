@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-    <a href="https://huggingface.co/collections/vitercik-lab/dsr-bench-6826381f6297ff1499134163">💻 Dataset </a> (Link disabled in anonymous repo for ICLR submission since HuggingFace datasets cannot be anonymized)
+  <a href="https://arxiv.org/pdf/2505.24069">📈 Paper: Can LLMs Reason Structurally? An Evaluation via the Lens of Data Structures</a><br>
+  <a href="https://huggingface.co/collections/vitercik-lab/dsr-bench-6826381f6297ff1499134163">🤗 HuggingFace Datasets</a>
 </p>
 
 ## Table of Contents
@@ -157,3 +158,18 @@ python -m evaluation.array.search --prompt CodeEnforce
 ## Evaluating New Models
 
 The current pipeline should already be set up to automate evaluation of new models from the OpenAI, Claude, Gemini, and DeepSeek families, as well as any open-sourced models that Ollama can run. If persistent issue remains, it would be helpful to look into `evaluation/eval.py` and check out whether modifications need to be make about client definition. 
+
+## Citation
+
+If you use DSR-Bench in your research, please cite:
+
+```bibtex
+@misc{he2025dsrbench,
+  title={Can LLMs Reason Structurally? An Evaluation via the Lens of Data Structures}, 
+  author={Yu He and Yingxi Li and Colin White and Ellen Vitercik},
+  year={2025},
+  eprint={2505.24069},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2505.24069}, 
+}
