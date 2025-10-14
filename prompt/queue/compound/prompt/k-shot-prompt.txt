@@ -1,0 +1,24 @@
+Q: What is the final queue, when performing the following operations:
+(enqueue, 21)
+(enqueue, 3)
+(dequeue)
+(dequeue)
+(enqueue, 48)
+A: The final queue is [48].
+
+Q: What is the final queue, when performing the following operations:
+(enqueue, 16)
+(enqueue, 0)
+(dequeue)
+(enqueue, 92)
+(enqueue, 31)
+A: The final queue is [0, 92, 31].
+
+Q: What is the final queue, when performing the following operations:
+(enqueue, 21)
+(dequeue)
+(enqueue, 82)
+(enqueue, 14)
+(enqueue, 43)
+A: The final queue is [82, 14, 43].
+

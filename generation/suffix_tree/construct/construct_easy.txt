@@ -1,0 +1,90 @@
+SuffixTree 0
+umcecatx$
+['$', 'atx$', 'c', 'atx$', 'ecatx$', 'ecatx$', 'mcecatx$', 'tx$', 'umcecatx$', 'x$']
+SuffixTree 1
+jxvihzbuc$
+['$', 'buc$', 'c$', 'hzbuc$', 'ihzbuc$', 'jxvihzbuc$', 'uc$', 'vihzbuc$', 'xvihzbuc$', 'zbuc$']
+SuffixTree 2
+nckuxldm$
+['$', 'ckuxldm$', 'dm$', 'kuxldm$', 'ldm$', 'm$', 'nckuxldm$', 'uxldm$', 'xldm$']
+SuffixTree 3
+gflpuggxlo$
+['$', 'flpuggxlo$', 'g', 'flpuggxlo$', 'gxlo$', 'xlo$', 'l', 'o$', 'puggxlo$', 'o$', 'puggxlo$', 'uggxlo$', 'xlo$']
+SuffixTree 4
+yyfok$
+['$', 'fok$', 'k$', 'ok$', 'y', 'fok$', 'yfok$']
+SuffixTree 5
+xknbuugp$
+['$', 'buugp$', 'gp$', 'knbuugp$', 'nbuugp$', 'p$', 'u', 'gp$', 'ugp$', 'xknbuugp$']
+SuffixTree 6
+rmsaojug$
+['$', 'aojug$', 'g$', 'jug$', 'msaojug$', 'ojug$', 'rmsaojug$', 'saojug$', 'ug$']
+SuffixTree 7
+hkkqn$
+['$', 'hkkqn$', 'k', 'kqn$', 'qn$', 'n$', 'qn$']
+SuffixTree 8
+hwvxmvkngw$
+['$', 'gw$', 'hwvxmvkngw$', 'kngw$', 'mvkngw$', 'ngw$', 'v', 'kngw$', 'xmvkngw$', 'w', '$', 'vxmvkngw$', 'xmvkngw$']
+SuffixTree 9
+jdbmsrsbx$
+['$', 'b', 'msrsbx$', 'x$', 'dbmsrsbx$', 'jdbmsrsbx$', 'msrsbx$', 'rsbx$', 's', 'bx$', 'rsbx$', 'x$']
+SuffixTree 10
+gotgfv$
+['$', 'fv$', 'g', 'fv$', 'otgfv$', 'otgfv$', 'tgfv$', 'v$']
+SuffixTree 11
+zcubtgobr$
+['$', 'b', 'r$', 'tgobr$', 'cubtgobr$', 'gobr$', 'obr$', 'r$', 'tgobr$', 'ubtgobr$', 'zcubtgobr$']
+SuffixTree 12
+uskgmx$
+['$', 'gmx$', 'kgmx$', 'mx$', 'skgmx$', 'uskgmx$', 'x$']
+SuffixTree 13
+mloxa$
+['$', 'a$', 'loxa$', 'mloxa$', 'oxa$', 'xa$']
+SuffixTree 14
+uuadxvon$
+['$', 'adxvon$', 'dxvon$', 'n$', 'on$', 'u', 'adxvon$', 'uadxvon$', 'von$', 'xvon$']
+SuffixTree 15
+jcraugojm$
+['$', 'augojm$', 'craugojm$', 'gojm$', 'j', 'craugojm$', 'm$', 'm$', 'ojm$', 'raugojm$', 'ugojm$']
+SuffixTree 16
+ojllev$
+['$', 'ev$', 'jllev$', 'l', 'ev$', 'lev$', 'ojllev$', 'v$']
+SuffixTree 17
+vdraxb$
+['$', 'axb$', 'b$', 'draxb$', 'raxb$', 'vdraxb$', 'xb$']
+SuffixTree 18
+gyarpdkxmg$
+['$', 'arpdkxmg$', 'dkxmg$', 'g', '$', 'yarpdkxmg$', 'kxmg$', 'mg$', 'pdkxmg$', 'rpdkxmg$', 'xmg$', 'yarpdkxmg$']
+SuffixTree 19
+jphtek$
+['$', 'ek$', 'htek$', 'jphtek$', 'k$', 'phtek$', 'tek$']
+SuffixTree 20
+zbmfefzel$
+['$', 'bmfefzel$', 'e', 'fzel$', 'l$', 'f', 'efzel$', 'zel$', 'l$', 'mfefzel$', 'z', 'bmfefzel$', 'el$']
+SuffixTree 21
+frabrmnp$
+['$', 'abrmnp$', 'brmnp$', 'frabrmnp$', 'mnp$', 'np$', 'p$', 'r', 'abrmnp$', 'mnp$']
+SuffixTree 22
+dwsmotm$
+['$', 'dwsmotm$', 'm', '$', 'otm$', 'otm$', 'smotm$', 'tm$', 'wsmotm$']
+SuffixTree 23
+trwosp$
+['$', 'osp$', 'p$', 'rwosp$', 'sp$', 'trwosp$', 'wosp$']
+SuffixTree 24
+gsnhjuzzv$
+['$', 'gsnhjuzzv$', 'hjuzzv$', 'juzzv$', 'nhjuzzv$', 'snhjuzzv$', 'uzzv$', 'v$', 'z', 'v$', 'zv$']
+SuffixTree 25
+ponfl$
+['$', 'fl$', 'l$', 'nfl$', 'onfl$', 'ponfl$']
+SuffixTree 26
+eojcdqwi$
+['$', 'cdqwi$', 'dqwi$', 'eojcdqwi$', 'i$', 'jcdqwi$', 'ojcdqwi$', 'qwi$', 'wi$']
+SuffixTree 27
+orcvlowtvd$
+['$', 'cvlowtvd$', 'd$', 'lowtvd$', 'o', 'rcvlowtvd$', 'wtvd$', 'rcvlowtvd$', 'tvd$', 'v', 'd$', 'lowtvd$', 'wtvd$']
+SuffixTree 28
+vdnnxyzy$
+['$', 'dnnxyzy$', 'n', 'nxyzy$', 'xyzy$', 'vdnnxyzy$', 'xyzy$', 'y', '$', 'zy$', 'zy$']
+SuffixTree 29
+eyrloyg$
+['$', 'eyrloyg$', 'g$', 'loyg$', 'oyg$', 'rloyg$', 'y', 'g$', 'rloyg$']

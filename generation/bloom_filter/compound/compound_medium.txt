@@ -1,0 +1,506 @@
+CountingBloomFilter 0 (m: 50, k: 4)
+insert 36
+delete 36
+insert 53
+insert 57
+delete 53
+delete 57
+insert 31
+insert 26
+insert 15
+delete 15
+insert 39
+insert 91
+delete 39
+delete 26
+delete 31
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 1 (m: 50, k: 4)
+insert 39
+insert 59
+insert 89
+delete 89
+delete 39
+delete 59
+insert 61
+insert 38
+delete 38
+insert 90
+insert 59
+delete 61
+delete 90
+delete 59
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 2 (m: 50, k: 4)
+insert 51
+insert 59
+delete 59
+insert 80
+insert 87
+delete 87
+insert 66
+insert 83
+insert 38
+delete 38
+delete 83
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+CountingBloomFilter 3 (m: 50, k: 4)
+insert 73
+insert 9
+delete 9
+insert 52
+insert 54
+delete 54
+insert 18
+insert 70
+insert 43
+delete 18
+delete 52
+insert 59
+delete 43
+[1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 4 (m: 50, k: 4)
+insert 68
+insert 66
+delete 68
+delete 66
+insert 60
+delete 60
+insert 45
+insert 61
+insert 63
+insert 91
+insert 86
+insert 7
+insert 72
+[0, 0, 0, 0, 0, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 1, 0, 0, 0, 1, 1, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 5 (m: 50, k: 4)
+insert 63
+delete 63
+insert 55
+insert 25
+delete 55
+insert 45
+insert 61
+insert 62
+delete 61
+insert 36
+insert 69
+insert 12
+insert 72
+insert 36
+insert 75
+insert 30
+insert 66
+[0, 0, 0, 1, 1, 2, 2, 1, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 2, 2, 3, 2, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 6 (m: 50, k: 4)
+insert 31
+delete 31
+insert 3
+insert 91
+insert 25
+insert 8
+insert 92
+insert 84
+delete 25
+insert 0
+insert 16
+insert 93
+insert 38
+delete 93
+[1, 2, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 1, 0, 0, 0, 0, 0, 0, 1, 1]
+CountingBloomFilter 7 (m: 50, k: 4)
+insert 33
+insert 81
+delete 81
+insert 91
+delete 33
+delete 91
+insert 66
+insert 58
+insert 53
+insert 45
+delete 58
+delete 66
+delete 53
+delete 45
+insert 86
+insert 4
+insert 76
+insert 60
+[0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 8 (m: 50, k: 4)
+insert 58
+insert 95
+delete 95
+insert 65
+delete 58
+delete 65
+insert 40
+insert 80
+insert 46
+insert 2
+insert 67
+[1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 9 (m: 50, k: 4)
+insert 22
+delete 22
+insert 99
+delete 99
+insert 9
+insert 18
+delete 9
+insert 56
+insert 8
+delete 18
+delete 56
+insert 72
+insert 33
+insert 74
+insert 63
+insert 10
+insert 2
+insert 45
+delete 74
+insert 59
+[2, 2, 2, 2, 0, 1, 2, 2, 2, 1, 0, 0, 0, 0, 0, 1, 1, 2, 2, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 10 (m: 50, k: 4)
+insert 47
+delete 47
+insert 91
+insert 25
+delete 91
+insert 59
+insert 9
+delete 59
+delete 25
+delete 9
+insert 13
+delete 13
+insert 42
+insert 71
+delete 42
+insert 31
+insert 62
+insert 45
+insert 78
+[0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 11 (m: 50, k: 4)
+insert 57
+insert 90
+insert 56
+insert 51
+insert 25
+insert 13
+insert 88
+insert 95
+delete 56
+insert 74
+insert 65
+insert 49
+insert 4
+insert 93
+insert 66
+delete 13
+insert 4
+insert 6
+insert 48
+[1, 1, 2, 3, 4, 4, 2, 2, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 3, 3, 4, 4, 2, 1, 0, 0, 0, 1, 2, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 0, 0, 1, 1]
+CountingBloomFilter 12 (m: 50, k: 4)
+insert 44
+insert 33
+insert 49
+insert 68
+insert 96
+delete 33
+insert 48
+delete 68
+insert 5
+insert 66
+delete 96
+insert 27
+insert 81
+insert 58
+[1, 1, 1, 1, 1, 2, 2, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+CountingBloomFilter 13 (m: 50, k: 4)
+insert 76
+delete 76
+insert 63
+delete 63
+insert 17
+insert 22
+insert 87
+insert 75
+insert 98
+delete 87
+insert 37
+delete 98
+delete 22
+insert 21
+insert 75
+insert 42
+insert 90
+[1, 1, 1, 0, 0, 0, 0, 0, 2, 2, 2, 2, 1, 1, 1, 2, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+CountingBloomFilter 14 (m: 50, k: 4)
+insert 16
+delete 16
+insert 95
+insert 20
+insert 83
+insert 30
+delete 95
+insert 45
+insert 37
+insert 8
+insert 66
+insert 40
+insert 96
+[1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+CountingBloomFilter 15 (m: 50, k: 4)
+insert 3
+insert 23
+insert 43
+insert 55
+insert 38
+insert 7
+delete 38
+insert 7
+delete 55
+insert 6
+insert 25
+insert 9
+delete 7
+insert 6
+insert 32
+insert 25
+[0, 2, 2, 4, 6, 5, 5, 4, 2, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 16 (m: 50, k: 4)
+insert 41
+delete 41
+insert 45
+insert 82
+delete 45
+delete 82
+insert 19
+insert 8
+insert 64
+insert 80
+delete 8
+delete 19
+insert 18
+delete 64
+insert 67
+insert 99
+delete 99
+insert 40
+insert 81
+insert 53
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 2, 2, 2, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0]
+CountingBloomFilter 17 (m: 50, k: 4)
+insert 92
+insert 65
+insert 65
+insert 34
+insert 62
+insert 74
+delete 65
+insert 81
+delete 34
+delete 65
+delete 74
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 18 (m: 50, k: 4)
+insert 34
+insert 62
+insert 23
+delete 34
+delete 23
+insert 38
+insert 58
+insert 14
+insert 44
+delete 38
+insert 37
+delete 37
+insert 49
+insert 87
+[1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 2, 2, 1, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1]
+CountingBloomFilter 19 (m: 50, k: 4)
+insert 75
+insert 3
+insert 40
+insert 56
+delete 75
+delete 40
+insert 62
+insert 35
+delete 3
+delete 62
+insert 30
+insert 78
+insert 74
+insert 82
+[1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1]
+CountingBloomFilter 20 (m: 50, k: 4)
+insert 66
+insert 66
+delete 66
+insert 79
+delete 66
+insert 19
+insert 59
+delete 79
+delete 59
+delete 19
+insert 98
+insert 8
+insert 10
+delete 98
+insert 10
+insert 28
+insert 29
+[0, 0, 0, 0, 0, 0, 2, 3, 3, 3, 1, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 21 (m: 50, k: 4)
+insert 10
+insert 71
+insert 56
+delete 10
+delete 56
+insert 97
+insert 4
+insert 100
+insert 41
+delete 71
+delete 41
+insert 77
+[0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 22 (m: 50, k: 4)
+insert 9
+insert 51
+delete 51
+insert 31
+insert 15
+insert 43
+insert 52
+insert 64
+insert 15
+insert 88
+insert 84
+insert 83
+insert 40
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 0, 0, 0, 0, 0, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 2, 2, 2, 1, 1, 2, 2, 2, 1, 0, 0, 0]
+CountingBloomFilter 23 (m: 50, k: 4)
+insert 95
+delete 95
+insert 1
+insert 77
+delete 77
+delete 1
+insert 42
+delete 42
+insert 25
+delete 25
+insert 96
+delete 96
+insert 69
+insert 38
+insert 15
+delete 15
+insert 87
+insert 58
+insert 14
+insert 53
+[1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 0, 1]
+CountingBloomFilter 24 (m: 50, k: 4)
+insert 56
+insert 80
+insert 72
+insert 81
+insert 14
+insert 61
+insert 7
+delete 14
+insert 83
+delete 56
+insert 54
+insert 92
+delete 72
+insert 37
+delete 80
+delete 54
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 25 (m: 50, k: 4)
+insert 66
+delete 66
+insert 99
+delete 99
+insert 62
+insert 71
+delete 71
+insert 44
+insert 3
+insert 51
+insert 97
+delete 62
+delete 44
+insert 24
+[0, 1, 2, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+CountingBloomFilter 26 (m: 50, k: 4)
+insert 77
+delete 77
+insert 17
+delete 17
+insert 76
+insert 59
+insert 52
+insert 91
+insert 32
+delete 59
+insert 5
+insert 77
+insert 16
+insert 53
+[0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 2, 2, 2, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 1, 0, 0]
+CountingBloomFilter 27 (m: 50, k: 4)
+insert 81
+delete 81
+insert 18
+delete 18
+insert 11
+delete 11
+insert 30
+insert 23
+insert 98
+delete 30
+insert 3
+delete 23
+[0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+CountingBloomFilter 28 (m: 50, k: 4)
+insert 88
+insert 73
+insert 8
+delete 73
+insert 32
+insert 15
+insert 34
+delete 32
+insert 66
+insert 7
+delete 15
+insert 48
+insert 18
+[0, 0, 0, 0, 0, 1, 2, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 2, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+CountingBloomFilter 29 (m: 50, k: 4)
+insert 35
+insert 62
+insert 92
+insert 19
+delete 92
+insert 67
+delete 67
+insert 82
+delete 82
+insert 2
+insert 53
+delete 19
+[1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0]

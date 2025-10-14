@@ -1,0 +1,286 @@
+DAWG 0
+insert ash
+insert asdtov
+insert isy
+insert dyhgsh
+insert acanvw
+insert asdtoj
+insert asdth
+insert obworg
+insert isytb
+delete isy
+[['', 'F'], ['a', 'F'], ['d', 'F'], ['i', 'F'], ['o', 'F'], ['ac', 'F'], ['as', 'F'], ['dy', 'F'], ['is', 'F'], ['ob', 'F'], ['aca', 'F'], ['asd', 'F'], ['ash', 'T'], ['dyh', 'F'], ['isy', 'F'], ['obw', 'F'], ['acan', 'F'], ['asdt', 'F'], ['dyhg', 'F'], ['isyt', 'F'], ['obwo', 'F'], ['acanv', 'F'], ['asdto', 'F'], ['dyhgs', 'F'], ['obwor', 'F']]
+DAWG 1
+insert rvmd
+insert bybi
+insert rvmuel
+insert bylg
+insert zbdki
+[['', 'F'], ['b', 'F'], ['r', 'F'], ['z', 'F'], ['by', 'F'], ['rv', 'F'], ['zb', 'F'], ['byb', 'F'], ['byl', 'F'], ['rvm', 'F'], ['zbd', 'F'], ['bybi', 'T'], ['rvmu', 'F'], ['rvmue', 'F']]
+DAWG 2
+insert hztrl
+insert gin
+insert gti
+insert gtf
+delete gti
+insert bcd
+[['', 'F'], ['b', 'F'], ['g', 'F'], ['h', 'F'], ['bc', 'F'], ['gi', 'F'], ['gt', 'F'], ['hz', 'F'], ['bcd', 'T'], ['hzt', 'F'], ['hztr', 'F']]
+DAWG 3
+insert vbepft
+insert vbepftv
+insert veigp
+insert ngxffa
+insert nmnrj
+insert nmhp
+[['', 'F'], ['n', 'F'], ['v', 'F'], ['ng', 'F'], ['nm', 'F'], ['vb', 'F'], ['ve', 'F'], ['ngx', 'F'], ['nmh', 'F'], ['nmn', 'F'], ['vbe', 'F'], ['vei', 'F'], ['ngxf', 'F'], ['nmhp', 'T'], ['nmnr', 'F'], ['vbep', 'F'], ['ngxff', 'F'], ['vbepf', 'F'], ['vbepft', 'T']]
+DAWG 4
+insert gxlyls
+delete gxlyls
+insert ldhoaq
+delete ldhoaq
+insert vweot
+delete vweot
+[['', 'F']]
+DAWG 5
+insert viqprr
+insert viqpb
+insert kom
+insert ihcsc
+insert koi
+delete ihcsc
+delete viqprr
+insert komb
+[['', 'F'], ['k', 'F'], ['v', 'F'], ['ko', 'F'], ['vi', 'F'], ['koi', 'T'], ['kom', 'T'], ['viq', 'F'], ['viqp', 'F']]
+DAWG 6
+insert fpyz
+insert whsaac
+delete whsaac
+delete fpyz
+insert divus
+insert divo
+insert zuv
+[['', 'F'], ['d', 'F'], ['z', 'F'], ['di', 'F'], ['zu', 'F'], ['div', 'F'], ['zuv', 'T'], ['divu', 'F']]
+DAWG 7
+insert ozlq
+delete ozlq
+insert axi
+delete axi
+insert ncq
+[['', 'F'], ['n', 'F'], ['nc', 'F'], ['ncq', 'T']]
+DAWG 8
+insert vcuhth
+insert vzq
+insert rij
+insert vzqqj
+delete vzq
+insert oziz
+insert vubro
+[['', 'F'], ['o', 'F'], ['r', 'F'], ['v', 'F'], ['oz', 'F'], ['ri', 'F'], ['vc', 'F'], ['vu', 'F'], ['vz', 'F'], ['ozi', 'F'], ['rij', 'T'], ['vcu', 'F'], ['vub', 'F'], ['vzq', 'F'], ['vcuh', 'F'], ['vubr', 'F'], ['vcuht', 'F']]
+DAWG 9
+insert teger
+insert tegez
+insert tegei
+delete tegez
+insert pgjj
+delete tegei
+insert teuhg
+[['', 'F'], ['p', 'F'], ['t', 'F'], ['pg', 'F'], ['te', 'F'], ['pgj', 'F'], ['teg', 'F'], ['teu', 'F'], ['pgjj', 'T'], ['tege', 'F'], ['teuh', 'F']]
+DAWG 10
+insert faz
+insert fazzs
+delete faz
+insert fhqdqe
+insert kzg
+insert mekpkk
+[['', 'F'], ['f', 'F'], ['k', 'F'], ['m', 'F'], ['fa', 'F'], ['fh', 'F'], ['kz', 'F'], ['me', 'F'], ['faz', 'F'], ['fhq', 'F'], ['kzg', 'T'], ['mek', 'F'], ['fazz', 'F'], ['fhqd', 'F'], ['mekp', 'F'], ['fhqdq', 'F'], ['mekpk', 'F']]
+DAWG 11
+insert tihkf
+delete tihkf
+insert aiadpg
+insert aiadpgj
+insert aiar
+delete aiadpg
+insert pdx
+insert iocxe
+delete aiadpgj
+[['', 'F'], ['a', 'F'], ['i', 'F'], ['p', 'F'], ['ai', 'F'], ['io', 'F'], ['pd', 'F'], ['aia', 'F'], ['ioc', 'F'], ['pdx', 'T'], ['iocx', 'F']]
+DAWG 12
+insert kxxc
+delete kxxc
+insert nzd
+delete nzd
+insert qgvt
+insert qutbrq
+delete qgvt
+insert abia
+[['', 'F'], ['a', 'F'], ['q', 'F'], ['ab', 'F'], ['qu', 'F'], ['abi', 'F'], ['qut', 'F'], ['abia', 'T'], ['qutb', 'F'], ['qutbr', 'F']]
+DAWG 13
+insert utm
+insert nnekhi
+insert uhs
+insert utc
+insert uhon
+insert idl
+delete uhon
+[['', 'F'], ['i', 'F'], ['n', 'F'], ['u', 'F'], ['id', 'F'], ['nn', 'F'], ['uh', 'F'], ['ut', 'F'], ['idl', 'T'], ['nne', 'F'], ['nnek', 'F'], ['nnekh', 'F']]
+DAWG 14
+insert bxofte
+insert bypao
+insert izffyx
+insert qvnko
+delete izffyx
+delete bypao
+delete qvnko
+insert azd
+delete bxofte
+[['', 'F'], ['a', 'F'], ['az', 'F'], ['azd', 'T']]
+DAWG 15
+insert kfa
+delete kfa
+insert gtzpi
+insert gtp
+delete gtzpi
+delete gtp
+[['', 'F']]
+DAWG 16
+insert rfujsx
+insert rzrg
+delete rzrg
+insert rfutp
+delete rfutp
+insert emlu
+delete emlu
+insert lkm
+insert riecp
+[['', 'F'], ['l', 'F'], ['r', 'F'], ['lk', 'F'], ['rf', 'F'], ['ri', 'F'], ['lkm', 'T'], ['rfu', 'F'], ['rie', 'F'], ['rfuj', 'F'], ['riec', 'F'], ['rfujs', 'F']]
+DAWG 17
+insert envx
+insert sfemp
+delete sfemp
+insert virlm
+insert encb
+insert vvk
+insert virld
+insert qig
+[['', 'F'], ['e', 'F'], ['q', 'F'], ['v', 'F'], ['en', 'F'], ['qi', 'F'], ['vi', 'F'], ['vv', 'F'], ['enc', 'F'], ['env', 'F'], ['qig', 'T'], ['vir', 'F'], ['virl', 'F']]
+DAWG 18
+insert bhtn
+delete bhtn
+insert xbm
+delete xbm
+insert xovd
+delete xovd
+insert zaylj
+insert zayh
+delete zayh
+delete zaylj
+[['', 'F']]
+DAWG 19
+insert dhdd
+insert avvlk
+delete dhdd
+insert avvlko
+insert avvlko
+insert bif
+insert aluaza
+insert bifwv
+delete bif
+[['', 'F'], ['a', 'F'], ['b', 'F'], ['al', 'F'], ['av', 'F'], ['bi', 'F'], ['alu', 'F'], ['avv', 'F'], ['bif', 'F'], ['alua', 'F'], ['avvl', 'F'], ['bifw', 'F'], ['aluaz', 'F'], ['avvlk', 'T'], ['bifwv', 'T']]
+DAWG 20
+insert eze
+insert qbct
+insert ezesp
+delete qbct
+insert ezespi
+delete ezesp
+insert ezijvu
+insert jmq
+insert ezitsb
+insert ezkfu
+[['', 'F'], ['e', 'F'], ['j', 'F'], ['ez', 'F'], ['jm', 'F'], ['eze', 'T'], ['ezi', 'F'], ['ezk', 'F'], ['jmq', 'T'], ['ezes', 'F'], ['ezij', 'F'], ['ezit', 'F'], ['ezkf', 'F'], ['ezesp', 'F'], ['ezits', 'F']]
+DAWG 21
+insert wevcd
+delete wevcd
+insert pfzmj
+insert pdehuy
+insert adj
+insert punk
+insert punkpa
+delete pfzmj
+[['', 'F'], ['a', 'F'], ['p', 'F'], ['ad', 'F'], ['pd', 'F'], ['pu', 'F'], ['adj', 'T'], ['pde', 'F'], ['pun', 'F'], ['pdeh', 'F'], ['punk', 'T'], ['pdehu', 'F'], ['punkp', 'F']]
+DAWG 22
+insert txiydo
+insert vkmz
+delete txiydo
+insert vkyyw
+insert vqlm
+insert vqwekm
+[['', 'F'], ['v', 'F'], ['vk', 'F'], ['vq', 'F'], ['vkm', 'F'], ['vky', 'F'], ['vql', 'F'], ['vqw', 'F'], ['vkmz', 'T'], ['vkyy', 'F'], ['vqwe', 'F']]
+DAWG 23
+insert pyrtsq
+insert pywcsy
+delete pyrtsq
+insert pywcx
+insert qpcf
+[['', 'F'], ['p', 'F'], ['q', 'F'], ['py', 'F'], ['qp', 'F'], ['pyw', 'F'], ['qpc', 'F'], ['pywc', 'F'], ['qpcf', 'T'], ['pywcs', 'F']]
+DAWG 24
+insert fwkbg
+delete fwkbg
+insert wiqszt
+delete wiqszt
+insert ealy
+insert ealyv
+insert eip
+delete eip
+insert phaqba
+[['', 'F'], ['e', 'F'], ['p', 'F'], ['ea', 'F'], ['ph', 'F'], ['eal', 'F'], ['pha', 'F'], ['ealy', 'T'], ['phaq', 'F'], ['ealyv', 'T'], ['phaqb', 'F']]
+DAWG 25
+insert muuh
+delete muuh
+insert kpdf
+delete kpdf
+insert napmjd
+delete napmjd
+insert pvvy
+delete pvvy
+insert szw
+insert ymwph
+[['', 'F'], ['s', 'F'], ['y', 'F'], ['sz', 'F'], ['ym', 'F'], ['szw', 'T'], ['ymw', 'F'], ['ymwp', 'F']]
+DAWG 26
+insert uurhd
+insert wwv
+insert uurhdc
+delete uurhdc
+insert uurq
+delete uurq
+delete uurhd
+insert wvvg
+delete wvvg
+insert suy
+[['', 'F'], ['s', 'F'], ['w', 'F'], ['su', 'F'], ['ww', 'F'], ['suy', 'T']]
+DAWG 27
+insert sxfy
+insert sxnowp
+delete sxnowp
+delete sxfy
+insert suw
+insert ojrlfg
+insert ofhre
+[['', 'F'], ['o', 'F'], ['s', 'F'], ['of', 'F'], ['oj', 'F'], ['su', 'F'], ['ofh', 'F'], ['ojr', 'F'], ['suw', 'T'], ['ofhr', 'F'], ['ojrl', 'F'], ['ojrlf', 'F']]
+DAWG 28
+insert eqlbxp
+insert eqlbma
+delete eqlbma
+delete eqlbxp
+insert yorkz
+[['', 'F'], ['y', 'F'], ['yo', 'F'], ['yor', 'F'], ['york', 'F'], ['yorkz', 'T']]
+DAWG 29
+insert vlvzm
+delete vlvzm
+insert lqijzv
+insert fsmt
+insert gmv
+insert gxu
+insert hfoyj
+insert fsx
+[['', 'F'], ['f', 'F'], ['g', 'F'], ['h', 'F'], ['l', 'F'], ['fs', 'F'], ['gm', 'F'], ['gx', 'F'], ['hf', 'F'], ['lq', 'F'], ['fsm', 'F'], ['fsx', 'T'], ['hfo', 'F'], ['lqi', 'F'], ['hfoy', 'F'], ['lqij', 'F']]

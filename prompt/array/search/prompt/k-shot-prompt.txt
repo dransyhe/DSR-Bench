@@ -1,0 +1,15 @@
+Given an array [59, 30, 32, 79, 82], indexed from 0.
+Q: What is the index of the first occurrence of 30?
+A: The index of the first occurrence of 30 is 1.
+The final answer is 1.
+
+Given an array [77, 58, 38, 31, 89], indexed from 0.
+Q: What is the index of the first occurrence of 31?
+A: The index of the first occurrence of 31 is 3.
+The final answer is 3.
+
+Given an array [4, 12, 35, 28, 9], indexed from 0.
+Q: What is the index of the first occurrence of 9?
+A: The index of the first occurrence of 9 is 4.
+The final answer is 4.
+

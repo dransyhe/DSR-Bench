@@ -1,0 +1,29 @@
+Q: The root node is Node 10. Node 10's left child is Node 5, and its right child is Node 15. Node 5's left child is Node 3, and its right child is Node 7.  
+You would now like to remove a node with value 5 from this binary search tree. Removal should preserve 
+the validity of a binary search tree. After the removal, return the answer the following questions.  
+What is the pre-order traversal of the current tree?
+What is the post-order traversal of current tree?
+A: 
+First, find node with value 5. 
+Start at the root node, which is 10. 5 is smaller than 10. Visit the left subtree of 10.
+The left child of 10 is 5. The node is found to be deleted. 
+We find its in-order successor by visiting its right subtree. The right child of 5 is 7. 7 has no children, so it is the in-order successor. 
+Replace 5 with 7, and delete the original node with value 7. 
+1. Then, perform pre-order traversal on the current tree. 
+Start at the root node, which is 10. Visit 10. The list so far is: [10].
+Next, visit the left subtree of 10. The left child of 10 is 7. Visit 7. The list now is: [10, 7].
+Next, visit the left subtree of 7. The left child of 7 is 3. Visit 3. The list now is: [10, 7, 3]. 
+Next, since 3 has no children, return to 10.  
+Next, visit the right subtree of 10. The right child of 10 is 15. Visit 15. The list now is: [10, 7, 3, 15].
+Next, since 15 has no children, the traversal is complete.
+The final pre-order traversal is: [10, 7, 3, 15].
+2. Then, perform post-order traversal on the current tree. 
+Start at the root node, which is 10. 
+Next, visit the left subtree of 10. The left child of 10 is 7. 
+Next, visit the left subtree of 7. The left child of 7 is 3. 
+Next, since 3 has no children, the list now is: [3]. 
+Go back to node 7. There is no right subtree to visit. The list now is: [3, 7]. 
+Go back to node 10.  
+Next, visit the right subtree of 10. The right child of 10 is 15. Since 15 has no children, the list now is: [3, 7, 15].
+Go back to node 10. Both of its subtrees are visited. The list now is: [3, 7, 15, 10].
+The final pre-order traversal is: [3, 7, 15, 10].

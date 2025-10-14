@@ -1,0 +1,23 @@
+Q: What is the state of the heap after the following operations:  
+(insert, 42)  
+(insert, 21)  
+(insert, 64)  
+(delete)  
+(insert, 14)  
+A: The final answer is [14, 64, 42].  
+
+Q: What is the state of the heap after the following operations:  
+(insert, 10)  
+(insert, 75)  
+(insert, 5)  
+(insert, 20)  
+(delete)  
+A: The final answer is [10, 20, 75].  
+
+Q: What is the state of the heap after the following operations:  
+(insert, 18)  
+(insert, 33)
+(delete)  
+(delete)    
+(insert, 12)  
+A: The final answer is [12].

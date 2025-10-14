@@ -1,0 +1,26 @@
+Q: You are given an empty Directed Acyclic Word Graph (DAWG), what is its final state after the following operations?
+insert dzso
+insert gyr
+insert gqqvvl
+delete gqqvvl
+insert dar
+A:
+After inserting "dzso", the bfs traversal of the dawg is: [['', 'F'], ['d', 'F'], ['dz', 'F'], ['dzs', 'F'], ['dzso', 'T']].
+This is done by extending an edge (and node) for each character in "dzso" and mark the terminal node as 'T'. 
+To insert "gyr", since it does not share any prefix starting from the root, we add an edge (and node) for each character in "gyr" and mark the terminal node as 'T'. 
+The bfs traversal becomes [['', 'F'], ['d', 'F'], ['g', 'F'], ['dz', 'F'], ['gy', 'F'], ['dzs', 'F'], ['gyr', 'T'], ['dzso', 'T']] by visiting edges in lexicographical order. 
+To insert "gqqvvl", we start from the root and visit the edge with the shared prefix 'g'. 
+Then, there is no shared prefix among the outgoing edges. We start adding edges and nodes for the rest of the string.
+The bfs traversal becomes [['', 'F'], ['d', 'F'], ['g', 'F'], ['dz', 'F'], ['gq', 'F'], ['gy', 'F'], ['dzs', 'F'], ['gqq', 'F'], ['gyr', 'T'], ['dzso', 'T'], ['gqqv', 'F'], ['gqqvv', 'F'], ['gqqvvl', 'T']]. 
+To delete "gqqvvl", we follow the edges to traverse the string "gqqvvl", and unmark the terminal node as 'F' so it is no longer the end of the word. 
+We then traverse the path backwards, deleting nodes (and their incoming edges) if a node is marked as 'F' and has no outgoing edges. 
+The bfs traversal becomes [['', 'F'], ['d', 'F'], ['g', 'F'], ['dz', 'F'], ['gy', 'F'], ['dzs', 'F'], ['gyr', 'T'], ['dzso', 'T']].
+To insert "dar", we start from the root and visit the edge with the shared prefix 'd'. 
+Then, there is no shared prefix among the outgoing edges. We start adding edges and nodes for the rest of the string.
+The bfs traversal becomes [['', 'F'], ['d', 'F'], ['g', 'F'], ['da', 'F'], ['dz', 'F'], ['gy', 'F'], ['dar', 'T'], ['dzs', 'F'], ['gyr', 'T'], ['dzso', 'T']].
+Now we have finished all the operations, we need to minimize the DAWG by merging nodes with the same suffix-subtrees recursively.
+We can merge the three terminal nodes because they are all labelled as 'T' and have no children, leading to a new terminal node. 
+Then we observe that two incoming edges of this new terminal node share the same label 'r'. 
+Therefore the two parent nodes along these two edges can be merged, because their suffix-subtrees are both 'r'. 
+We backtrack to the root and notice there are not more possible merges.
+The bfs traversal of the final DAWG is: [['', 'F'], ['d', 'F'], ['g', 'F'], ['da', 'F'], ['dz', 'F'], ['dar', 'T'], ['dzs', 'F']].

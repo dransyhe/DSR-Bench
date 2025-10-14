@@ -1,0 +1,847 @@
+insert Jackson White 08:46
+insert Maria Young 10:19
+insert Jackson Moore 14:13
+insert Maria Lewis 12:31
+insert Fatima Brown 15:33
+delete Maria Young
+insert Mia Wang 15:30
+insert Oliver Lee 13:29
+insert Layla Miller 12:58
+insert Fatima Ali 15:51
+delete Maria Lewis
+delete Jackson White
+insert Layla Garcia 08:44
+delete Fatima Ali
+insert Hassan Garcia 12:12
+insert Layla Hall 10:31
+delete Hassan Garcia
+insert Layla Thompson 10:40
+delete Jackson Moore
+insert Hiroshi Martinez 16:45
+insert Aisha Kumar 14:10
+delete Layla Garcia
+insert Mason Fernandez 12:04
+[('Mia Wang', '15:30'), ('Oliver Lee', '13:29'), ('Layla Miller', '12:58'), ('Layla Hall', '10:31'), ('Layla Thompson', '10:40'), ('Mason Fernandez', '12:04'), ('Aisha Kumar', '14:10'), ('Fatima Brown', '15:33'), ('Hiroshi Martinez', '16:45')]
+
+insert Isabella Ali 10:09
+delete Isabella Ali
+insert Elijah Young 08:05
+delete Elijah Young
+insert Evelyn Moore 11:52
+delete Evelyn Moore
+insert Valentina Chen 09:31
+insert Layla Martinez 16:03
+insert Noah Anderson 15:00
+insert Isabella Lopez 10:35
+insert Layla Martin 16:50
+insert Isabella Smith 12:08
+insert Caden Johnson 11:20
+insert Emma Miller 16:14
+delete Isabella Lopez
+insert Aisha Hernandez 10:12
+insert Valentina Patel 16:35
+delete Isabella Smith
+insert Ling Gonzalez 13:13
+insert Mateo Brown 15:31
+insert Emma Moore 10:10
+insert Mei Yamamoto 12:31
+insert Evelyn Martinez 10:59
+insert Evelyn Rodriguez 10:46
+insert Hassan White 15:33
+insert Noah Martin 12:25
+insert Mei Martinez 13:00
+[('Valentina Chen', '09:31'), ('Layla Martinez', '16:03'), ('Noah Anderson', '15:00'), ('Caden Johnson', '11:20'), ('Aisha Hernandez', '10:12'), ('Emma Moore', '10:10'), ('Evelyn Martinez', '10:59'), ('Evelyn Rodriguez', '10:46'), ('Ling Gonzalez', '13:13'), ('Mei Yamamoto', '12:31'), ('Noah Martin', '12:25'), ('Mei Martinez', '13:00'), ('Mateo Brown', '15:31'), ('Hassan White', '15:33'), ('Layla Martin', '16:50'), ('Emma Miller', '16:14'), ('Valentina Patel', '16:35')]
+
+insert Logan Young 09:38
+delete Logan Young
+insert Ethan Rodriguez 11:30
+insert Haruto Hernandez 13:48
+insert Elijah Kobayashi 13:59
+insert Elijah Singh 12:29
+insert Aria Perez 11:42
+delete Aria Perez
+insert Ali Johnson 10:38
+insert Ella Martin 16:21
+insert Oliver Wilson 14:07
+insert Aiden Allen 13:51
+delete Aiden Allen
+insert Jackson Smith 09:02
+insert Liam Perez 10:44
+insert Sophia Thompson 13:24
+insert Ali Allen 15:18
+insert Diego Garcia 11:54
+delete Ali Allen
+delete Ella Martin
+insert Sophia White 10:17
+delete Elijah Singh
+insert Harper Wilson 09:33
+insert Sakura Nguyen 08:23
+delete Ali Johnson
+delete Sophia Thompson
+insert Caden Jones 14:30
+insert Mateo Wilson 15:26
+delete Oliver Wilson
+insert Diego Thompson 12:26
+[('Ethan Rodriguez', '11:30'), ('Liam Perez', '10:44'), ('Jackson Smith', '09:02'), ('Sakura Nguyen', '08:23'), ('Sophia White', '10:17'), ('Harper Wilson', '09:33'), ('Haruto Hernandez', '13:48'), ('Diego Garcia', '11:54'), ('Diego Thompson', '12:26'), ('Elijah Kobayashi', '13:59'), ('Caden Jones', '14:30'), ('Mateo Wilson', '15:26')]
+
+insert Mia Rodriguez 16:26
+insert Yuki Garcia 14:13
+insert Ali Lopez 16:52
+insert Haruto Kobayashi 11:35
+insert Jackson Fernandez 14:44
+insert Sofia White 16:32
+insert Carlos Thompson 15:48
+delete Ali Lopez
+delete Yuki Garcia
+insert Hassan Lee 15:45
+insert Mia Smith 08:27
+insert Oliver Yamamoto 08:38
+insert Haruto Anderson 16:22
+insert Aisha Thomas 12:01
+delete Sofia White
+insert Ella Clark 14:24
+insert Fatima Anderson 14:10
+insert Elijah Brown 09:14
+insert Mason Walker 16:56
+insert Emma Ali 16:59
+insert Caden Moore 11:42
+delete Fatima Anderson
+delete Mia Smith
+insert Valentina White 09:50
+delete Mia Rodriguez
+insert Amelia Davis 10:54
+insert Yuki Fernandez 13:49
+insert Fatima Allen 16:18
+delete Mason Walker
+delete Hassan Lee
+[('Emma Ali', '16:59'), ('Jackson Fernandez', '14:44'), ('Haruto Kobayashi', '11:35'), ('Oliver Yamamoto', '08:38'), ('Elijah Brown', '09:14'), ('Valentina White', '09:50'), ('Amelia Davis', '10:54'), ('Aisha Thomas', '12:01'), ('Caden Moore', '11:42'), ('Ella Clark', '14:24'), ('Yuki Fernandez', '13:49'), ('Carlos Thompson', '15:48'), ('Haruto Anderson', '16:22'), ('Fatima Allen', '16:18')]
+
+insert Mateo Perez 10:34
+delete Mateo Perez
+insert Mia Allen 14:36
+insert Liam Chen 14:09
+delete Mia Allen
+insert Ella Walker 11:13
+delete Ella Walker
+delete Liam Chen
+insert Elijah Lewis 10:36
+insert Elijah Thomas 08:16
+delete Elijah Thomas
+insert Ali Wang 13:52
+delete Ali Wang
+delete Elijah Lewis
+insert Oliver Lewis 10:44
+insert Amelia Sanchez 16:09
+insert Jackson Lewis 11:38
+insert Fatima Hall 09:13
+insert Haruto Moore 08:32
+delete Amelia Sanchez
+insert Lucas Walker 14:52
+insert Layla Smith 09:20
+delete Haruto Moore
+insert Aria Jones 08:14
+delete Jackson Lewis
+[('Oliver Lewis', '10:44'), ('Fatima Hall', '09:13'), ('Aria Jones', '08:14'), ('Layla Smith', '09:20'), ('Lucas Walker', '14:52')]
+
+insert Aiden Thomas 13:05
+delete Aiden Thomas
+insert Ella Moore 13:05
+delete Ella Moore
+insert Mason Clark 11:37
+insert Noah Wang 08:18
+insert Maria Anderson 09:03
+delete Mason Clark
+delete Noah Wang
+delete Maria Anderson
+insert Caden Anderson 15:10
+insert Sakura Moore 13:40
+delete Caden Anderson
+insert Mei Perez 12:07
+insert Mason Garcia 16:12
+insert Sophia Lewis 14:17
+delete Mei Perez
+insert Caden Ali 10:50
+insert Sophia Jackson 10:49
+delete Caden Ali
+delete Sophia Jackson
+insert Logan Lopez 12:09
+[('Sakura Moore', '13:40'), ('Logan Lopez', '12:09'), ('Mason Garcia', '16:12'), ('Sophia Lewis', '14:17')]
+
+insert Hiroshi Kumar 13:37
+delete Hiroshi Kumar
+insert Noah Walker 10:17
+delete Noah Walker
+insert Noah Thompson 15:12
+delete Noah Thompson
+insert Lucas Jones 10:48
+insert Noah Yamamoto 10:46
+insert Evelyn Gonzalez 15:10
+insert Noah Young 13:30
+insert Emma Yamamoto 15:20
+insert Caden Martin 10:30
+insert Layla Ali 09:51
+insert Oliver Anderson 15:59
+insert Ali Lee 10:10
+delete Lucas Jones
+insert Layla Fernandez 14:30
+delete Oliver Anderson
+insert Liam Sanchez 08:12
+insert Sakura Jones 15:36
+insert Mateo Kobayashi 16:55
+delete Caden Martin
+insert Sofia Thomas 16:58
+[('Noah Young', '13:30'), ('Noah Yamamoto', '10:46'), ('Layla Ali', '09:51'), ('Liam Sanchez', '08:12'), ('Ali Lee', '10:10'), ('Evelyn Gonzalez', '15:10'), ('Layla Fernandez', '14:30'), ('Emma Yamamoto', '15:20'), ('Sakura Jones', '15:36'), ('Mateo Kobayashi', '16:55'), ('Sofia Thomas', '16:58')]
+
+insert Mason Hall 08:03
+delete Mason Hall
+insert Mateo Rodriguez 10:20
+delete Mateo Rodriguez
+insert Ethan Lewis 16:47
+delete Ethan Lewis
+insert Amelia Rodriguez 08:31
+insert Sakura Johnson 11:47
+insert Chloe Lee 16:37
+insert Jackson Johnson 11:33
+insert Diego Walker 09:20
+insert Lucas Chen 14:03
+insert Aiden Anderson 10:59
+insert Oliver Thompson 16:29
+insert Harper Garcia 09:57
+delete Diego Walker
+insert Maria Williams 14:06
+insert Grayson Gonzalez 10:58
+delete Jackson Johnson
+delete Oliver Thompson
+insert Sakura Ali 16:46
+delete Harper Garcia
+insert Aisha Thompson 11:27
+delete Sakura Johnson
+delete Maria Williams
+insert Mei Johnson 11:37
+insert Mason Garcia 13:40
+insert Haruto Singh 08:12
+[('Amelia Rodriguez', '08:31'), ('Haruto Singh', '08:12'), ('Lucas Chen', '14:03'), ('Aiden Anderson', '10:59'), ('Grayson Gonzalez', '10:58'), ('Aisha Thompson', '11:27'), ('Mei Johnson', '11:37'), ('Mason Garcia', '13:40'), ('Chloe Lee', '16:37'), ('Sakura Ali', '16:46')]
+
+insert Isabella Young 16:30
+delete Isabella Young
+insert Aiden Taylor 16:25
+insert Ling Martin 12:04
+insert Elijah Garcia 13:51
+insert Noah Lopez 10:46
+delete Elijah Garcia
+insert Aisha Smith 08:55
+delete Aisha Smith
+insert Mateo Singh 15:26
+insert Chloe Lee 08:42
+delete Chloe Lee
+delete Ling Martin
+insert Valentina Chen 12:22
+insert Noah Hassan 12:55
+insert Ali Brown 10:38
+insert Chloe Clark 14:54
+delete Noah Lopez
+insert Mateo Smith 08:37
+insert Sakura Chen 15:34
+insert Oliver Jones 09:15
+insert Noah Hernandez 12:07
+insert Carlos Chen 11:37
+[('Aiden Taylor', '16:25'), ('Mateo Singh', '15:26'), ('Valentina Chen', '12:22'), ('Ali Brown', '10:38'), ('Mateo Smith', '08:37'), ('Oliver Jones', '09:15'), ('Noah Hernandez', '12:07'), ('Carlos Chen', '11:37'), ('Noah Hassan', '12:55'), ('Chloe Clark', '14:54'), ('Sakura Chen', '15:34')]
+
+insert Noah Chen 15:55
+insert Caden Rodriguez 11:13
+delete Caden Rodriguez
+insert Aria Fernandez 14:28
+insert Maria Johnson 13:35
+delete Noah Chen
+insert Yuki Gonzalez 13:52
+delete Yuki Gonzalez
+insert Mason Singh 16:06
+delete Aria Fernandez
+delete Mason Singh
+insert Fatima Lopez 15:29
+insert Caden White 15:27
+delete Caden White
+delete Fatima Lopez
+delete Maria Johnson
+insert Isabella Smith 15:38
+insert Chloe Ali 09:09
+insert Fatima Taylor 09:17
+insert Ethan Jones 14:44
+insert Liam Brown 08:00
+delete Liam Brown
+delete Chloe Ali
+insert Logan Taylor 08:44
+insert Carlos Lee 12:23
+insert Ali Davis 12:29
+insert Ethan Lopez 10:56
+delete Ethan Lopez
+insert Ling Wilson 14:17
+[('Isabella Smith', '15:38'), ('Fatima Taylor', '09:17'), ('Logan Taylor', '08:44'), ('Ethan Jones', '14:44'), ('Carlos Lee', '12:23'), ('Ali Davis', '12:29'), ('Ling Wilson', '14:17')]
+
+insert Elijah Taylor 14:41
+insert Ella Anderson 14:38
+insert Mei White 10:18
+insert Mia Moore 10:30
+delete Elijah Taylor
+delete Mia Moore
+delete Ella Anderson
+insert Caden Yamamoto 11:34
+insert Emma Thompson 11:37
+insert Liam Williams 12:18
+insert Aiden Brown 14:14
+insert Grayson Martinez 08:19
+insert Chloe Lee 15:30
+insert Caden Jones 11:44
+insert Liam Lee 15:46
+insert Mason Hassan 11:35
+delete Mei White
+insert Amelia Thomas 11:47
+insert Noah White 11:44
+delete Caden Jones
+insert Ethan Perez 14:30
+delete Chloe Lee
+delete Grayson Martinez
+delete Ethan Perez
+delete Mason Hassan
+insert Valentina Martinez 16:30
+insert Logan Hassan 16:19
+[('Caden Yamamoto', '11:34'), ('Emma Thompson', '11:37'), ('Liam Williams', '12:18'), ('Amelia Thomas', '11:47'), ('Noah White', '11:44'), ('Aiden Brown', '14:14'), ('Liam Lee', '15:46'), ('Valentina Martinez', '16:30'), ('Logan Hassan', '16:19')]
+
+insert Chloe Nguyen 14:44
+insert Aiden Lopez 08:36
+delete Chloe Nguyen
+insert Aiden Anderson 08:53
+insert Lucas Lee 16:51
+insert Layla Hernandez 08:39
+insert Chloe Wang 08:25
+delete Aiden Anderson
+insert Yuki Jackson 11:22
+insert Lucas Yamamoto 11:36
+insert Ethan Fernandez 11:44
+insert Hassan Singh 14:58
+delete Layla Hernandez
+insert Ali Wang 10:57
+delete Lucas Yamamoto
+insert Emma Fernandez 10:45
+insert Chloe Brown 08:21
+delete Emma Fernandez
+insert Caden Fernandez 12:36
+insert Liam Kumar 15:58
+delete Aiden Lopez
+insert Ling Jackson 14:35
+insert Oliver Hall 10:47
+insert Elijah Martin 16:37
+delete Yuki Jackson
+insert Aiden Yamamoto 16:27
+[('Ali Wang', '10:57'), ('Chloe Wang', '08:25'), ('Chloe Brown', '08:21'), ('Oliver Hall', '10:47'), ('Lucas Lee', '16:51'), ('Ethan Fernandez', '11:44'), ('Hassan Singh', '14:58'), ('Caden Fernandez', '12:36'), ('Ling Jackson', '14:35'), ('Liam Kumar', '15:58'), ('Elijah Martin', '16:37'), ('Aiden Yamamoto', '16:27')]
+
+insert Fatima Thomas 08:55
+insert Valentina Miller 08:30
+delete Valentina Miller
+insert Logan Kobayashi 15:32
+delete Fatima Thomas
+insert Aiden Johnson 16:34
+delete Aiden Johnson
+insert Liam Wang 10:53
+delete Liam Wang
+insert Sofia Ali 14:20
+delete Logan Kobayashi
+delete Sofia Ali
+insert Ava Fernandez 12:13
+insert Yuki Clark 08:13
+delete Ava Fernandez
+insert Sofia Thompson 12:48
+insert Diego Johnson 12:16
+insert Yuki Sanchez 15:28
+insert Evelyn Jones 15:54
+insert Carlos Thomas 14:07
+insert Evelyn Kobayashi 10:04
+insert Liam Jones 11:22
+insert Jackson Williams 09:10
+insert Emma Patel 09:15
+insert Harper Lopez 16:31
+delete Harper Lopez
+insert Lucas Perez 12:30
+[('Yuki Clark', '08:13'), ('Sofia Thompson', '12:48'), ('Diego Johnson', '12:16'), ('Evelyn Kobayashi', '10:04'), ('Jackson Williams', '09:10'), ('Emma Patel', '09:15'), ('Liam Jones', '11:22'), ('Lucas Perez', '12:30'), ('Yuki Sanchez', '15:28'), ('Carlos Thomas', '14:07'), ('Evelyn Jones', '15:54')]
+
+insert Fatima Jones 12:50
+insert Lucas Johnson 11:37
+insert Amelia Lopez 14:42
+delete Amelia Lopez
+insert Mateo Thompson 12:54
+insert Logan Moore 13:20
+insert Oliver Jackson 10:20
+delete Oliver Jackson
+insert Diego Taylor 13:52
+insert Ali Davis 13:03
+delete Lucas Johnson
+insert Haruto Thomas 12:47
+delete Ali Davis
+insert Ella Sanchez 10:09
+delete Ella Sanchez
+insert Diego Lopez 16:12
+delete Diego Lopez
+insert Aisha Wilson 13:58
+insert Fatima Wilson 13:14
+insert Mei Brown 10:15
+insert Sofia Chen 10:59
+insert Aiden Wang 13:32
+insert Ella Martin 08:58
+insert Aria Chen 08:59
+delete Diego Taylor
+insert Hiroshi Lee 15:50
+insert Maria Yamamoto 12:12
+insert Sophia Hernandez 12:40
+[('Fatima Jones', '12:50'), ('Haruto Thomas', '12:47'), ('Mei Brown', '10:15'), ('Ella Martin', '08:58'), ('Aria Chen', '08:59'), ('Sofia Chen', '10:59'), ('Maria Yamamoto', '12:12'), ('Sophia Hernandez', '12:40'), ('Mateo Thompson', '12:54'), ('Logan Moore', '13:20'), ('Fatima Wilson', '13:14'), ('Aisha Wilson', '13:58'), ('Aiden Wang', '13:32'), ('Hiroshi Lee', '15:50')]
+
+insert Layla Martinez 12:41
+delete Layla Martinez
+insert Ali Moore 12:17
+insert Fatima Miller 11:36
+insert Mateo Anderson 09:52
+insert Ethan Thompson 10:20
+insert Emma Hassan 16:05
+delete Ali Moore
+insert Layla Perez 10:34
+delete Mateo Anderson
+delete Layla Perez
+insert Jackson Walker 13:21
+insert Mateo Wang 08:49
+insert Liam Hernandez 15:50
+insert Elijah Gonzalez 13:43
+delete Jackson Walker
+delete Elijah Gonzalez
+delete Ethan Thompson
+insert Harper Johnson 11:36
+insert Fatima Hall 12:46
+delete Fatima Hall
+insert Mateo Ali 08:26
+delete Mateo Wang
+insert Ella Johnson 13:20
+insert Ling Miller 14:36
+insert Ethan Thomas 09:54
+delete Mateo Ali
+[('Emma Hassan', '16:05'), ('Fatima Miller', '11:36'), ('Ethan Thomas', '09:54'), ('Liam Hernandez', '15:50'), ('Harper Johnson', '11:36'), ('Ella Johnson', '13:20'), ('Ling Miller', '14:36')]
+
+insert Layla Sanchez 15:13
+insert Liam Chen 12:47
+delete Layla Sanchez
+insert Jackson Moore 15:47
+insert Logan Taylor 14:14
+insert Valentina Smith 10:16
+delete Valentina Smith
+insert Valentina Hernandez 12:17
+insert Maria Miller 16:00
+insert Ethan Taylor 08:44
+insert Chloe Johnson 16:58
+delete Liam Chen
+insert Oliver Kumar 15:45
+insert Ling Smith 12:30
+insert Noah Williams 08:29
+insert Maria Hernandez 12:14
+delete Oliver Kumar
+delete Jackson Moore
+delete Maria Miller
+delete Logan Taylor
+insert Evelyn Johnson 15:34
+delete Evelyn Johnson
+insert Aria Martin 14:48
+insert Caden Wang 14:22
+delete Caden Wang
+insert Hassan Lopez 10:01
+delete Aria Martin
+delete Chloe Johnson
+insert Chloe Hassan 08:11
+delete Hassan Lopez
+[('Valentina Hernandez', '12:17'), ('Ethan Taylor', '08:44'), ('Noah Williams', '08:29'), ('Chloe Hassan', '08:11'), ('Maria Hernandez', '12:14'), ('Ling Smith', '12:30')]
+
+insert Sofia Johnson 16:33
+insert Evelyn Nguyen 10:15
+insert Carlos Young 08:13
+delete Evelyn Nguyen
+insert Hiroshi Williams 14:50
+insert Fatima Lopez 11:22
+insert Sophia White 11:32
+insert Noah Walker 09:50
+insert Ali Kobayashi 08:48
+insert Logan Kumar 10:24
+insert Evelyn Hassan 10:38
+insert Ella Lewis 15:25
+insert Noah Hernandez 08:14
+insert Ava Garcia 08:34
+insert Amelia Moore 12:01
+insert Sofia Jackson 11:22
+insert Ella Moore 12:46
+insert Ling Young 16:57
+insert Harper Lee 16:13
+insert Hassan Walker 16:06
+insert Isabella Hassan 15:44
+delete Evelyn Hassan
+delete Fatima Lopez
+insert Mateo Chen 09:48
+insert Isabella Johnson 16:42
+insert Hiroshi White 13:47
+insert Sofia Lee 10:07
+insert Carlos Kobayashi 13:26
+insert Ethan Miller 15:45
+insert Maria Martin 10:05
+[('Sofia Johnson', '16:33'), ('Carlos Young', '08:13'), ('Hiroshi Williams', '14:50'), ('Sofia Jackson', '11:22'), ('Noah Walker', '09:50'), ('Ali Kobayashi', '08:48'), ('Noah Hernandez', '08:14'), ('Ava Garcia', '08:34'), ('Mateo Chen', '09:48'), ('Logan Kumar', '10:24'), ('Sofia Lee', '10:07'), ('Maria Martin', '10:05'), ('Sophia White', '11:32'), ('Amelia Moore', '12:01'), ('Ella Moore', '12:46'), ('Hiroshi White', '13:47'), ('Carlos Kobayashi', '13:26'), ('Ella Lewis', '15:25'), ('Harper Lee', '16:13'), ('Hassan Walker', '16:06'), ('Isabella Hassan', '15:44'), ('Ethan Miller', '15:45'), ('Ling Young', '16:57'), ('Isabella Johnson', '16:42')]
+
+insert Logan Yamamoto 12:31
+insert Harper Yamamoto 10:33
+insert Elijah White 12:31
+insert Jackson Jackson 16:33
+insert Sophia Lopez 08:50
+insert Maria Thomas 10:55
+delete Maria Thomas
+insert Jackson Rodriguez 14:02
+insert Maria Wilson 13:50
+insert Yuki White 15:08
+delete Logan Yamamoto
+insert Carlos Sanchez 15:40
+delete Jackson Jackson
+insert Valentina Ali 14:23
+insert Layla Williams 16:53
+insert Valentina Lewis 14:05
+insert Jackson Miller 11:32
+insert Layla Perez 08:38
+delete Valentina Lewis
+insert Lucas Sanchez 15:14
+delete Jackson Rodriguez
+delete Layla Williams
+insert Isabella Lee 11:11
+delete Harper Yamamoto
+insert Carlos Johnson 14:08
+insert Fatima Patel 16:18
+delete Valentina Ali
+delete Isabella Lee
+insert Amelia Perez 11:42
+insert Chloe Garcia 11:38
+[('Maria Wilson', '13:50'), ('Jackson Miller', '11:32'), ('Sophia Lopez', '08:50'), ('Layla Perez', '08:38'), ('Elijah White', '12:31'), ('Amelia Perez', '11:42'), ('Chloe Garcia', '11:38'), ('Yuki White', '15:08'), ('Carlos Johnson', '14:08'), ('Carlos Sanchez', '15:40'), ('Lucas Sanchez', '15:14'), ('Fatima Patel', '16:18')]
+
+insert Haruto Clark 13:01
+insert Mason Perez 14:20
+insert Ling Thomas 13:04
+insert Hassan Walker 15:17
+insert Maria Davis 13:05
+insert Hiroshi Jones 15:11
+insert Valentina Hernandez 11:15
+insert Hassan Brown 08:35
+insert Maria Wilson 09:54
+insert Carlos Walker 12:23
+insert Oliver Brown 11:57
+insert Harper Thompson 15:31
+insert Hassan Jackson 14:41
+insert Valentina Gonzalez 12:56
+delete Hiroshi Jones
+insert Ella Patel 10:03
+insert Amelia Lewis 08:27
+insert Sakura Jackson 14:25
+insert Aria Chen 14:50
+insert Oliver Lewis 14:39
+delete Aria Chen
+insert Carlos Taylor 14:37
+insert Amelia Garcia 15:45
+delete Carlos Walker
+insert Aria Moore 16:52
+insert Sophia Clark 09:12
+insert Logan Johnson 14:51
+[('Haruto Clark', '13:01'), ('Valentina Hernandez', '11:15'), ('Hassan Brown', '08:35'), ('Amelia Lewis', '08:27'), ('Maria Wilson', '09:54'), ('Sophia Clark', '09:12'), ('Ella Patel', '10:03'), ('Valentina Gonzalez', '12:56'), ('Oliver Brown', '11:57'), ('Mason Perez', '14:20'), ('Ling Thomas', '13:04'), ('Maria Davis', '13:05'), ('Hassan Walker', '15:17'), ('Hassan Jackson', '14:41'), ('Sakura Jackson', '14:25'), ('Oliver Lewis', '14:39'), ('Carlos Taylor', '14:37'), ('Logan Johnson', '14:51'), ('Harper Thompson', '15:31'), ('Amelia Garcia', '15:45'), ('Aria Moore', '16:52')]
+
+insert Carlos White 08:47
+insert Chloe Martinez 08:06
+insert Ling Lee 13:44
+insert Lucas Gonzalez 13:30
+delete Ling Lee
+insert Fatima Nguyen 16:32
+insert Amelia Allen 15:49
+insert Chloe Lee 13:43
+insert Hiroshi Clark 14:06
+insert Maria Singh 12:27
+insert Layla Jackson 15:02
+insert Sophia Lewis 11:41
+delete Lucas Gonzalez
+delete Hiroshi Clark
+insert Liam Thompson 11:39
+delete Maria Singh
+insert Ling Garcia 16:48
+insert Sofia Perez 10:09
+delete Sophia Lewis
+insert Sofia Garcia 13:58
+insert Liam Fernandez 09:13
+delete Sofia Garcia
+insert Grayson White 08:37
+insert Harper Allen 09:21
+insert Ethan Fernandez 11:09
+[('Carlos White', '08:47'), ('Chloe Martinez', '08:06'), ('Grayson White', '08:37'), ('Chloe Lee', '13:43'), ('Liam Thompson', '11:39'), ('Sofia Perez', '10:09'), ('Liam Fernandez', '09:13'), ('Harper Allen', '09:21'), ('Ethan Fernandez', '11:09'), ('Fatima Nguyen', '16:32'), ('Amelia Allen', '15:49'), ('Layla Jackson', '15:02'), ('Ling Garcia', '16:48')]
+
+insert Ethan Brown 14:11
+insert Haruto Moore 14:39
+insert Amelia Walker 15:41
+insert Emma Jones 09:51
+delete Amelia Walker
+insert Harper Wang 15:11
+insert Amelia White 09:54
+insert Isabella Gonzalez 10:45
+insert Logan Chen 14:04
+delete Emma Jones
+insert Harper Young 15:11
+delete Harper Young
+insert Hassan Patel 16:30
+insert Aiden Perez 15:37
+insert Ali Davis 11:10
+insert Harper Walker 13:04
+delete Ali Davis
+insert Aria Allen 11:02
+insert Ava Ali 11:40
+insert Mia Taylor 10:39
+delete Amelia White
+delete Harper Wang
+delete Hassan Patel
+insert Elijah Garcia 09:48
+[('Ethan Brown', '14:11'), ('Isabella Gonzalez', '10:45'), ('Mia Taylor', '10:39'), ('Elijah Garcia', '09:48'), ('Logan Chen', '14:04'), ('Harper Walker', '13:04'), ('Aria Allen', '11:02'), ('Ava Ali', '11:40'), ('Haruto Moore', '14:39'), ('Aiden Perez', '15:37')]
+
+insert Layla Perez 16:01
+insert Sofia Martinez 09:56
+insert Liam Kobayashi 13:36
+insert Elijah Sanchez 14:37
+delete Sofia Martinez
+insert Haruto Anderson 16:46
+insert Harper Brown 08:06
+insert Mateo Lopez 13:38
+insert Layla Sanchez 10:11
+insert Sakura Wang 09:29
+insert Liam Miller 12:27
+insert Sakura Sanchez 16:52
+delete Haruto Anderson
+insert Noah Lopez 12:36
+insert Noah Ali 12:37
+insert Sakura Lopez 10:56
+insert Oliver Miller 14:59
+delete Harper Brown
+insert Maria Williams 09:35
+insert Ella Kobayashi 10:26
+insert Hassan Clark 13:05
+insert Mason Anderson 11:55
+insert Ethan Gonzalez 12:28
+delete Ethan Gonzalez
+insert Ling Moore 15:02
+insert Haruto Anderson 10:04
+insert Sophia Rodriguez 12:56
+[('Layla Perez', '16:01'), ('Liam Kobayashi', '13:36'), ('Layla Sanchez', '10:11'), ('Sakura Wang', '09:29'), ('Maria Williams', '09:35'), ('Haruto Anderson', '10:04'), ('Liam Miller', '12:27'), ('Sakura Lopez', '10:56'), ('Ella Kobayashi', '10:26'), ('Mason Anderson', '11:55'), ('Noah Lopez', '12:36'), ('Noah Ali', '12:37'), ('Hassan Clark', '13:05'), ('Sophia Rodriguez', '12:56'), ('Elijah Sanchez', '14:37'), ('Mateo Lopez', '13:38'), ('Oliver Miller', '14:59'), ('Ling Moore', '15:02'), ('Sakura Sanchez', '16:52')]
+
+insert Ava Clark 11:39
+delete Ava Clark
+insert Sophia Hassan 13:45
+delete Sophia Hassan
+insert Sofia Moore 12:19
+insert Mason White 12:44
+delete Sofia Moore
+insert Mateo Moore 14:31
+insert Ella Wang 11:30
+insert Amelia Hernandez 14:33
+delete Ella Wang
+insert Chloe Jones 14:23
+delete Amelia Hernandez
+insert Yuki Williams 08:15
+insert Emma Garcia 08:19
+delete Emma Garcia
+insert Mateo Lee 08:01
+insert Aiden Rodriguez 11:44
+insert Sofia Thompson 11:24
+insert Ava Jones 16:53
+insert Ling Davis 16:22
+delete Sofia Thompson
+insert Aisha Patel 08:13
+insert Grayson Lewis 12:20
+insert Layla Martin 09:01
+insert Noah Allen 14:27
+[('Mason White', '12:44'), ('Yuki Williams', '08:15'), ('Mateo Lee', '08:01'), ('Aisha Patel', '08:13'), ('Aiden Rodriguez', '11:44'), ('Layla Martin', '09:01'), ('Grayson Lewis', '12:20'), ('Mateo Moore', '14:31'), ('Chloe Jones', '14:23'), ('Noah Allen', '14:27'), ('Ava Jones', '16:53'), ('Ling Davis', '16:22')]
+
+insert Logan Singh 11:34
+insert Isabella Hassan 14:02
+insert Ethan Nguyen 09:33
+insert Maria Rodriguez 09:28
+delete Isabella Hassan
+insert Emma Garcia 11:57
+insert Sofia Jones 16:47
+insert Hassan Walker 14:19
+insert Maria Ali 16:12
+insert Oliver Martinez 08:48
+insert Ava Miller 13:22
+insert Lucas Wilson 16:57
+delete Maria Ali
+insert Carlos Patel 15:31
+insert Oliver Yamamoto 11:22
+insert Elijah Hernandez 11:02
+insert Hassan Lewis 09:56
+insert Harper Jackson 12:02
+insert Aisha Young 16:51
+insert Mason Lewis 11:45
+insert Sofia Sanchez 13:01
+insert Ling Ali 16:14
+insert Evelyn Davis 08:49
+[('Logan Singh', '11:34'), ('Ethan Nguyen', '09:33'), ('Maria Rodriguez', '09:28'), ('Oliver Martinez', '08:48'), ('Evelyn Davis', '08:49'), ('Oliver Yamamoto', '11:22'), ('Elijah Hernandez', '11:02'), ('Hassan Lewis', '09:56'), ('Emma Garcia', '11:57'), ('Mason Lewis', '11:45'), ('Sofia Jones', '16:47'), ('Hassan Walker', '14:19'), ('Ava Miller', '13:22'), ('Harper Jackson', '12:02'), ('Sofia Sanchez', '13:01'), ('Carlos Patel', '15:31'), ('Ling Ali', '16:14'), ('Lucas Wilson', '16:57'), ('Aisha Young', '16:51')]
+
+insert Chloe Yamamoto 15:45
+insert Mateo Hassan 13:03
+delete Mateo Hassan
+delete Chloe Yamamoto
+insert Isabella Williams 13:47
+insert Caden Thompson 16:38
+insert Chloe Chen 13:07
+insert Ella Singh 09:05
+delete Caden Thompson
+insert Haruto Ali 11:17
+insert Caden Fernandez 16:57
+insert Valentina Thompson 08:44
+delete Isabella Williams
+insert Sofia Anderson 10:30
+delete Valentina Thompson
+insert Mia Gonzalez 16:53
+delete Sofia Anderson
+delete Ella Singh
+delete Mia Gonzalez
+insert Chloe Lee 09:44
+delete Haruto Ali
+insert Lucas Fernandez 13:21
+insert Aiden Hernandez 09:14
+insert Hiroshi Fernandez 15:09
+insert Haruto Miller 15:03
+[('Caden Fernandez', '16:57'), ('Chloe Chen', '13:07'), ('Chloe Lee', '09:44'), ('Aiden Hernandez', '09:14'), ('Lucas Fernandez', '13:21'), ('Hiroshi Fernandez', '15:09'), ('Haruto Miller', '15:03')]
+
+insert Aria Gonzalez 16:40
+delete Aria Gonzalez
+insert Amelia Fernandez 15:18
+insert Ali Chen 10:53
+insert Aria Chen 14:45
+delete Ali Chen
+delete Aria Chen
+delete Amelia Fernandez
+insert Ava Young 08:44
+insert Isabella Allen 13:13
+insert Mateo Martin 08:25
+insert Carlos Hernandez 08:19
+insert Evelyn Davis 16:49
+insert Evelyn Wang 15:50
+delete Isabella Allen
+insert Valentina Miller 15:10
+insert Isabella Martinez 13:22
+insert Logan Smith 14:51
+insert Logan Yamamoto 10:36
+insert Hassan Hall 12:10
+insert Noah Ali 16:13
+insert Haruto Moore 11:45
+insert Ava Anderson 10:49
+insert Sakura Young 15:37
+insert Ethan Wilson 13:01
+[('Ava Young', '08:44'), ('Mateo Martin', '08:25'), ('Carlos Hernandez', '08:19'), ('Evelyn Davis', '16:49'), ('Evelyn Wang', '15:50'), ('Valentina Miller', '15:10'), ('Isabella Martinez', '13:22'), ('Logan Yamamoto', '10:36'), ('Hassan Hall', '12:10'), ('Haruto Moore', '11:45'), ('Ava Anderson', '10:49'), ('Ethan Wilson', '13:01'), ('Logan Smith', '14:51'), ('Sakura Young', '15:37'), ('Noah Ali', '16:13')]
+
+insert Haruto Walker 11:17
+insert Liam Garcia 09:39
+insert Diego Walker 13:23
+insert Isabella Yamamoto 10:05
+insert Chloe Clark 10:21
+insert Liam Sanchez 13:17
+insert Maria Sanchez 15:31
+delete Liam Garcia
+insert Ava Taylor 08:05
+insert Emma Lee 16:23
+delete Liam Sanchez
+delete Maria Sanchez
+insert Lucas Wang 09:30
+insert Jackson Chen 09:34
+insert Mia Lopez 11:08
+insert Fatima Martinez 11:22
+insert Layla Brown 09:04
+insert Elijah Chen 11:00
+insert Mason Jackson 11:32
+insert Aiden Wilson 14:35
+delete Haruto Walker
+insert Fatima Walker 14:03
+insert Valentina Ali 12:10
+insert Jackson Allen 12:53
+[('Fatima Martinez', '11:22'), ('Isabella Yamamoto', '10:05'), ('Ava Taylor', '08:05'), ('Lucas Wang', '09:30'), ('Layla Brown', '09:04'), ('Jackson Chen', '09:34'), ('Chloe Clark', '10:21'), ('Mia Lopez', '11:08'), ('Elijah Chen', '11:00'), ('Diego Walker', '13:23'), ('Mason Jackson', '11:32'), ('Valentina Ali', '12:10'), ('Jackson Allen', '12:53'), ('Emma Lee', '16:23'), ('Aiden Wilson', '14:35'), ('Fatima Walker', '14:03')]
+
+insert Aisha Thomas 14:23
+delete Aisha Thomas
+insert Grayson Hassan 13:05
+insert Valentina Anderson 11:13
+insert Ling Kobayashi 11:28
+insert Oliver Fernandez 15:56
+delete Oliver Fernandez
+delete Ling Kobayashi
+insert Chloe Garcia 13:28
+delete Valentina Anderson
+insert Aiden Gonzalez 14:35
+insert Ella Hall 12:17
+insert Evelyn Hassan 13:48
+insert Haruto Anderson 15:53
+insert Grayson Ali 09:22
+insert Aiden Walker 11:13
+insert Mason White 09:39
+delete Aiden Gonzalez
+insert Diego Thomas 13:52
+insert Amelia Rodriguez 16:14
+delete Amelia Rodriguez
+[('Grayson Hassan', '13:05'), ('Ella Hall', '12:17'), ('Grayson Ali', '09:22'), ('Aiden Walker', '11:13'), ('Mason White', '09:39'), ('Chloe Garcia', '13:28'), ('Haruto Anderson', '15:53'), ('Evelyn Hassan', '13:48'), ('Diego Thomas', '13:52')]
+
+insert Grayson Wang 08:25
+delete Grayson Wang
+insert Mia Garcia 12:07
+delete Mia Garcia
+insert Oliver Ali 12:49
+delete Oliver Ali
+insert Sofia Allen 14:05
+insert Aiden Lopez 09:31
+insert Emma Taylor 15:31
+insert Maria Jackson 14:55
+insert Ali Wilson 10:26
+insert Emma Gonzalez 09:21
+delete Emma Gonzalez
+delete Sofia Allen
+insert Ling Kumar 09:49
+delete Ling Kumar
+insert Harper White 10:40
+insert Isabella Sanchez 10:02
+delete Maria Jackson
+insert Aiden Thomas 09:29
+insert Ling Allen 14:55
+insert Layla Perez 08:09
+delete Aiden Thomas
+insert Hiroshi Lee 15:30
+insert Mason Johnson 13:14
+[('Emma Taylor', '15:31'), ('Aiden Lopez', '09:31'), ('Layla Perez', '08:09'), ('Ali Wilson', '10:26'), ('Isabella Sanchez', '10:02'), ('Harper White', '10:40'), ('Ling Allen', '14:55'), ('Mason Johnson', '13:14'), ('Hiroshi Lee', '15:30')]
+
+insert Sophia Hall 16:20
+delete Sophia Hall
+insert Oliver Davis 14:42
+insert Hassan Wilson 16:19
+insert Aiden Lewis 16:08
+insert Layla Allen 16:01
+insert Evelyn Sanchez 08:37
+insert Hiroshi Singh 14:21
+insert Valentina Miller 09:14
+insert Oliver Smith 15:53
+insert Aisha Singh 09:23
+delete Oliver Smith
+insert Chloe Nguyen 08:09
+insert Grayson Smith 14:42
+insert Carlos Thompson 09:00
+delete Aiden Lewis
+insert Jackson Taylor 13:10
+insert Fatima Lee 13:05
+insert Ava Wang 16:09
+delete Fatima Lee
+delete Oliver Davis
+insert Sofia Singh 15:45
+delete Carlos Thompson
+delete Layla Allen
+insert Jackson Williams 10:13
+delete Hiroshi Singh
+insert Sakura Sanchez 12:19
+insert Sofia Lee 14:56
+insert Emma Williams 10:11
+insert Hassan Davis 16:33
+[('Ava Wang', '16:09'), ('Evelyn Sanchez', '08:37'), ('Chloe Nguyen', '08:09'), ('Grayson Smith', '14:42'), ('Valentina Miller', '09:14'), ('Aisha Singh', '09:23'), ('Jackson Taylor', '13:10'), ('Jackson Williams', '10:13'), ('Emma Williams', '10:11'), ('Sakura Sanchez', '12:19'), ('Sofia Singh', '15:45'), ('Sofia Lee', '14:56'), ('Hassan Wilson', '16:19'), ('Hassan Davis', '16:33')]
+

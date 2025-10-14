@@ -1,0 +1,826 @@
+PriorityQueue 0
+insert (98, 93)
+insert (37, 96)
+raise_key (37, 99)
+insert (95, 88)
+delete
+insert (88, 97)
+insert (35, 96)
+insert (100, 24)
+insert (79, 64)
+insert (80, 31)
+insert (4, 77)
+insert (29, 35)
+insert (34, 22)
+decrease_key (79, 35)
+insert (32, 50)
+insert (49, 28)
+raise_key (80, 39)
+insert (58, 36)
+insert (47, 0)
+delete
+raise_key (95, 100)
+insert (84, 32)
+raise_key (34, 39)
+decrease_key (98, 45)
+[[95, 100], [35, 96], [4, 77], [32, 50], [98, 45], [80, 39], [34, 39], [58, 36], [79, 35], [29, 35], [84, 32], [49, 28], [100, 24], [47, 0]]
+PriorityQueue 1
+insert (36, 1)
+raise_key (36, 6)
+delete
+insert (91, 64)
+insert (46, 59)
+insert (44, 37)
+insert (2, 49)
+raise_key (46, 63)
+delete
+insert (5, 73)
+insert (9, 78)
+delete
+insert (43, 82)
+insert (8, 11)
+insert (28, 63)
+delete
+decrease_key (44, 34)
+insert (75, 34)
+insert (79, 31)
+insert (37, 18)
+insert (52, 100)
+raise_key (5, 86)
+insert (72, 67)
+insert (57, 93)
+insert (83, 29)
+delete
+[[57, 93], [5, 86], [72, 67], [46, 63], [28, 63], [2, 49], [75, 34], [44, 34], [79, 31], [83, 29], [37, 18], [8, 11]]
+PriorityQueue 2
+insert (5, 84)
+decrease_key (5, 74)
+insert (1, 54)
+decrease_key (5, 55)
+decrease_key (5, 33)
+decrease_key (1, 30)
+insert (90, 30)
+insert (91, 81)
+raise_key (5, 50)
+insert (68, 19)
+delete
+insert (60, 94)
+decrease_key (1, 28)
+insert (74, 2)
+insert (73, 97)
+insert (8, 49)
+decrease_key (68, 7)
+insert (56, 45)
+insert (57, 4)
+insert (46, 21)
+insert (79, 34)
+decrease_key (1, 0)
+delete
+raise_key (79, 43)
+insert (71, 41)
+[[60, 94], [5, 50], [8, 49], [56, 45], [79, 43], [71, 41], [90, 30], [46, 21], [68, 7], [57, 4], [74, 2], [1, 0]]
+PriorityQueue 3
+insert (77, 40)
+insert (6, 55)
+decrease_key (6, 50)
+decrease_key (77, 25)
+decrease_key (77, 12)
+insert (58, 69)
+insert (23, 19)
+insert (84, 26)
+decrease_key (58, 52)
+decrease_key (58, 31)
+delete
+insert (38, 2)
+insert (42, 5)
+decrease_key (42, 0)
+raise_key (77, 42)
+delete
+delete
+insert (53, 86)
+insert (96, 75)
+delete
+delete
+delete
+raise_key (42, 5)
+insert (78, 25)
+decrease_key (23, 0)
+raise_key (23, 2)
+insert (75, 55)
+delete
+insert (92, 7)
+[[78, 25], [92, 7], [42, 5], [38, 2], [23, 2]]
+PriorityQueue 4
+insert (12, 72)
+decrease_key (12, 71)
+raise_key (12, 77)
+insert (38, 77)
+delete
+raise_key (12, 100)
+decrease_key (12, 95)
+delete
+insert (27, 16)
+raise_key (27, 26)
+raise_key (27, 69)
+decrease_key (27, 67)
+raise_key (27, 100)
+delete
+insert (29, 92)
+decrease_key (29, 73)
+insert (57, 79)
+decrease_key (57, 54)
+delete
+insert (28, 59)
+decrease_key (28, 45)
+insert (85, 11)
+decrease_key (28, 39)
+insert (55, 100)
+insert (46, 63)
+delete
+decrease_key (46, 29)
+[[57, 54], [28, 39], [46, 29], [85, 11]]
+PriorityQueue 5
+insert (21, 15)
+decrease_key (21, 0)
+insert (77, 2)
+insert (90, 8)
+insert (78, 84)
+insert (51, 60)
+insert (34, 17)
+insert (80, 28)
+insert (47, 96)
+raise_key (77, 47)
+insert (61, 82)
+decrease_key (80, 0)
+raise_key (21, 42)
+insert (55, 65)
+delete
+insert (96, 41)
+delete
+delete
+raise_key (80, 2)
+delete
+insert (15, 41)
+delete
+decrease_key (15, 1)
+delete
+[[21, 42], [96, 41], [34, 17], [90, 8], [80, 2], [15, 1]]
+PriorityQueue 6
+insert (15, 74)
+insert (41, 57)
+insert (92, 67)
+insert (93, 76)
+raise_key (15, 83)
+decrease_key (41, 35)
+raise_key (93, 100)
+insert (61, 14)
+insert (77, 12)
+insert (36, 29)
+delete
+insert (49, 29)
+insert (90, 33)
+decrease_key (41, 19)
+insert (27, 65)
+raise_key (41, 42)
+insert (57, 31)
+insert (2, 59)
+raise_key (36, 38)
+insert (64, 30)
+raise_key (61, 20)
+decrease_key (64, 2)
+insert (62, 13)
+insert (73, 34)
+delete
+raise_key (57, 59)
+decrease_key (2, 10)
+insert (14, 96)
+insert (82, 40)
+insert (47, 79)
+[[14, 96], [47, 79], [92, 67], [27, 65], [57, 59], [41, 42], [82, 40], [36, 38], [73, 34], [90, 33], [49, 29], [61, 20], [62, 13], [77, 12], [2, 10], [64, 2]]
+PriorityQueue 7
+insert (14, 55)
+insert (55, 24)
+delete
+delete
+insert (74, 76)
+raise_key (74, 100)
+insert (28, 89)
+insert (98, 45)
+decrease_key (98, 30)
+insert (9, 5)
+decrease_key (9, 0)
+insert (36, 39)
+insert (91, 52)
+raise_key (91, 95)
+insert (67, 64)
+delete
+insert (84, 94)
+decrease_key (67, 17)
+raise_key (28, 100)
+insert (16, 35)
+raise_key (16, 46)
+decrease_key (67, 8)
+raise_key (16, 68)
+insert (37, 22)
+delete
+[[91, 95], [84, 94], [16, 68], [36, 39], [98, 30], [37, 22], [67, 8], [9, 0]]
+PriorityQueue 8
+insert (64, 27)
+insert (83, 89)
+raise_key (64, 54)
+raise_key (83, 100)
+insert (12, 73)
+decrease_key (12, 56)
+decrease_key (12, 54)
+raise_key (64, 71)
+delete
+insert (70, 82)
+insert (9, 34)
+insert (47, 86)
+insert (37, 70)
+insert (6, 58)
+insert (21, 79)
+insert (30, 52)
+delete
+insert (91, 68)
+insert (7, 100)
+insert (26, 49)
+delete
+decrease_key (37, 68)
+raise_key (70, 100)
+decrease_key (21, 62)
+[[70, 100], [64, 71], [91, 68], [37, 68], [21, 62], [6, 58], [12, 54], [30, 52], [26, 49], [9, 34]]
+PriorityQueue 9
+insert (40, 1)
+insert (47, 10)
+insert (13, 5)
+insert (45, 18)
+decrease_key (40, 0)
+raise_key (13, 37)
+insert (94, 51)
+decrease_key (13, 24)
+delete
+decrease_key (47, 0)
+decrease_key (45, 0)
+insert (56, 40)
+raise_key (45, 2)
+decrease_key (13, 0)
+raise_key (47, 30)
+insert (73, 56)
+insert (82, 18)
+decrease_key (45, 0)
+delete
+raise_key (45, 10)
+insert (77, 100)
+insert (30, 24)
+insert (1, 80)
+delete
+insert (16, 75)
+decrease_key (30, 0)
+insert (24, 98)
+raise_key (56, 54)
+[[24, 98], [1, 80], [16, 75], [56, 54], [47, 30], [82, 18], [45, 10], [40, 0], [30, 0], [13, 0]]
+PriorityQueue 10
+insert (43, 92)
+delete
+insert (33, 54)
+insert (66, 84)
+insert (55, 32)
+decrease_key (55, 0)
+raise_key (33, 78)
+raise_key (55, 18)
+decrease_key (55, 0)
+insert (84, 59)
+raise_key (84, 97)
+insert (49, 61)
+insert (23, 55)
+delete
+decrease_key (55, 0)
+raise_key (23, 91)
+insert (79, 7)
+insert (70, 59)
+insert (78, 78)
+insert (77, 73)
+insert (0, 74)
+insert (53, 58)
+raise_key (66, 100)
+[[66, 100], [23, 91], [78, 78], [33, 78], [0, 74], [77, 73], [49, 61], [70, 59], [53, 58], [79, 7], [55, 0]]
+PriorityQueue 11
+insert (76, 65)
+delete
+insert (22, 91)
+delete
+insert (62, 5)
+raise_key (62, 52)
+delete
+insert (68, 74)
+raise_key (68, 84)
+insert (6, 34)
+raise_key (6, 82)
+insert (92, 74)
+insert (48, 47)
+decrease_key (92, 34)
+decrease_key (92, 0)
+raise_key (68, 100)
+insert (9, 43)
+insert (17, 3)
+insert (98, 0)
+insert (57, 25)
+decrease_key (17, 0)
+raise_key (48, 49)
+insert (11, 46)
+decrease_key (48, 31)
+raise_key (9, 70)
+insert (30, 82)
+insert (91, 24)
+insert (46, 97)
+decrease_key (98, 0)
+decrease_key (68, 76)
+[[46, 97], [30, 82], [6, 82], [68, 76], [9, 70], [11, 46], [48, 31], [57, 25], [91, 24], [98, 0], [92, 0], [17, 0]]
+PriorityQueue 12
+insert (52, 64)
+raise_key (52, 100)
+raise_key (52, 100)
+insert (96, 89)
+insert (5, 36)
+delete
+insert (15, 14)
+decrease_key (96, 71)
+delete
+insert (84, 65)
+delete
+decrease_key (5, 33)
+decrease_key (5, 22)
+decrease_key (5, 7)
+delete
+decrease_key (5, 0)
+insert (92, 70)
+delete
+insert (30, 96)
+delete
+insert (59, 49)
+insert (39, 25)
+[[59, 49], [39, 25], [5, 0]]
+PriorityQueue 13
+insert (99, 26)
+insert (28, 45)
+decrease_key (28, 0)
+insert (82, 26)
+insert (52, 88)
+decrease_key (28, 0)
+delete
+decrease_key (99, 0)
+decrease_key (99, 0)
+raise_key (28, 45)
+insert (30, 42)
+insert (69, 38)
+raise_key (82, 67)
+insert (95, 13)
+insert (50, 43)
+delete
+insert (51, 55)
+delete
+decrease_key (99, 0)
+raise_key (50, 71)
+insert (72, 70)
+decrease_key (69, 8)
+insert (33, 2)
+insert (80, 74)
+insert (67, 91)
+[[67, 91], [80, 74], [50, 71], [72, 70], [28, 45], [30, 42], [95, 13], [69, 8], [33, 2], [99, 0]]
+PriorityQueue 14
+insert (69, 39)
+insert (40, 36)
+raise_key (69, 79)
+raise_key (40, 74)
+raise_key (69, 100)
+decrease_key (40, 38)
+decrease_key (69, 98)
+insert (15, 30)
+insert (13, 16)
+insert (81, 64)
+insert (48, 42)
+insert (38, 75)
+raise_key (40, 86)
+insert (67, 65)
+delete
+raise_key (81, 78)
+delete
+delete
+insert (27, 65)
+insert (74, 98)
+delete
+insert (33, 87)
+insert (94, 67)
+delete
+raise_key (38, 100)
+insert (93, 36)
+delete
+[[94, 67], [67, 65], [27, 65], [48, 42], [93, 36], [15, 30], [13, 16]]
+PriorityQueue 15
+insert (58, 60)
+insert (84, 69)
+insert (72, 97)
+delete
+decrease_key (58, 15)
+insert (81, 44)
+delete
+insert (26, 76)
+raise_key (81, 69)
+delete
+delete
+decrease_key (58, 0)
+raise_key (58, 19)
+raise_key (58, 39)
+insert (95, 58)
+raise_key (58, 46)
+raise_key (95, 100)
+decrease_key (95, 74)
+insert (61, 83)
+insert (91, 21)
+insert (55, 75)
+delete
+insert (96, 3)
+insert (3, 58)
+insert (82, 73)
+insert (86, 35)
+decrease_key (86, 4)
+decrease_key (95, 39)
+raise_key (55, 89)
+insert (59, 86)
+[[55, 89], [59, 86], [82, 73], [3, 58], [58, 46], [95, 39], [91, 21], [86, 4], [96, 3]]
+PriorityQueue 16
+insert (94, 61)
+insert (98, 96)
+insert (2, 64)
+insert (89, 6)
+decrease_key (94, 33)
+decrease_key (2, 53)
+decrease_key (98, 55)
+decrease_key (2, 49)
+insert (96, 30)
+insert (42, 55)
+delete
+raise_key (96, 31)
+decrease_key (89, 0)
+insert (64, 52)
+decrease_key (94, 31)
+decrease_key (64, 23)
+delete
+insert (23, 31)
+insert (5, 40)
+decrease_key (96, 14)
+raise_key (23, 66)
+decrease_key (64, 8)
+raise_key (64, 34)
+decrease_key (5, 30)
+insert (70, 48)
+delete
+raise_key (94, 64)
+raise_key (94, 100)
+insert (66, 24)
+[[94, 100], [2, 49], [70, 48], [64, 34], [5, 30], [66, 24], [96, 14], [89, 0]]
+PriorityQueue 17
+insert (10, 34)
+insert (25, 34)
+decrease_key (25, 0)
+delete
+raise_key (25, 8)
+decrease_key (25, 0)
+delete
+insert (90, 65)
+insert (54, 35)
+raise_key (54, 78)
+insert (71, 64)
+insert (28, 1)
+delete
+raise_key (28, 23)
+decrease_key (28, 0)
+insert (7, 21)
+insert (32, 53)
+insert (86, 73)
+decrease_key (90, 52)
+raise_key (28, 13)
+insert (2, 63)
+decrease_key (2, 57)
+delete
+insert (53, 67)
+raise_key (32, 100)
+insert (99, 81)
+raise_key (90, 65)
+[[32, 100], [99, 81], [53, 67], [90, 65], [71, 64], [2, 57], [7, 21], [28, 13]]
+PriorityQueue 18
+insert (72, 30)
+delete
+insert (87, 69)
+insert (78, 46)
+insert (80, 0)
+insert (79, 50)
+insert (99, 39)
+decrease_key (79, 16)
+delete
+insert (44, 71)
+delete
+delete
+decrease_key (99, 1)
+decrease_key (79, 0)
+insert (60, 29)
+delete
+insert (33, 8)
+insert (54, 49)
+raise_key (79, 45)
+raise_key (54, 78)
+raise_key (80, 32)
+insert (74, 19)
+raise_key (54, 93)
+insert (23, 84)
+insert (48, 43)
+insert (17, 46)
+insert (9, 71)
+delete
+insert (2, 15)
+[[23, 84], [9, 71], [17, 46], [79, 45], [48, 43], [80, 32], [74, 19], [2, 15], [33, 8], [99, 1]]
+PriorityQueue 19
+insert (72, 31)
+delete
+insert (90, 54)
+delete
+insert (14, 47)
+insert (76, 49)
+insert (30, 67)
+decrease_key (30, 52)
+decrease_key (14, 29)
+delete
+delete
+insert (89, 42)
+insert (79, 18)
+insert (11, 86)
+insert (44, 91)
+insert (66, 1)
+insert (1, 14)
+raise_key (11, 96)
+delete
+insert (5, 1)
+insert (85, 48)
+raise_key (5, 24)
+insert (64, 58)
+decrease_key (1, 0)
+raise_key (14, 36)
+decrease_key (14, 2)
+[[44, 91], [64, 58], [85, 48], [89, 42], [5, 24], [79, 18], [14, 2], [66, 1], [1, 0]]
+PriorityQueue 20
+insert (62, 74)
+delete
+insert (17, 53)
+insert (12, 93)
+insert (61, 12)
+raise_key (61, 42)
+raise_key (17, 85)
+insert (20, 44)
+insert (6, 59)
+insert (29, 9)
+insert (64, 32)
+delete
+decrease_key (20, 27)
+insert (24, 21)
+decrease_key (20, 13)
+insert (22, 75)
+insert (90, 26)
+insert (26, 81)
+decrease_key (22, 45)
+decrease_key (6, 26)
+delete
+insert (35, 7)
+insert (57, 67)
+insert (79, 32)
+[[26, 81], [57, 67], [22, 45], [61, 42], [79, 32], [64, 32], [90, 26], [6, 26], [24, 21], [20, 13], [29, 9], [35, 7]]
+PriorityQueue 21
+insert (10, 16)
+decrease_key (10, 0)
+insert (57, 18)
+insert (43, 2)
+raise_key (57, 57)
+insert (76, 26)
+insert (26, 2)
+insert (64, 58)
+insert (67, 26)
+raise_key (57, 68)
+insert (52, 8)
+delete
+insert (73, 23)
+delete
+insert (56, 15)
+insert (46, 40)
+insert (62, 40)
+decrease_key (10, 0)
+delete
+delete
+insert (28, 85)
+insert (68, 47)
+[[28, 85], [68, 47], [76, 26], [67, 26], [73, 23], [56, 15], [52, 8], [43, 2], [26, 2], [10, 0]]
+PriorityQueue 22
+insert (72, 31)
+insert (36, 65)
+insert (12, 34)
+insert (48, 44)
+insert (79, 5)
+insert (3, 26)
+decrease_key (36, 41)
+insert (14, 95)
+insert (56, 13)
+insert (85, 45)
+insert (86, 0)
+insert (99, 0)
+decrease_key (12, 1)
+insert (62, 10)
+insert (15, 10)
+insert (68, 2)
+delete
+insert (74, 28)
+insert (75, 1)
+insert (31, 100)
+insert (35, 53)
+decrease_key (15, 8)
+raise_key (3, 68)
+insert (17, 92)
+decrease_key (56, 0)
+insert (40, 85)
+decrease_key (15, 0)
+insert (43, 28)
+insert (67, 68)
+[[31, 100], [17, 92], [40, 85], [67, 68], [3, 68], [35, 53], [85, 45], [48, 44], [36, 41], [72, 31], [74, 28], [43, 28], [62, 10], [79, 5], [68, 2], [75, 1], [12, 1], [99, 0], [86, 0], [56, 0], [15, 0]]
+PriorityQueue 23
+insert (97, 80)
+decrease_key (97, 75)
+insert (28, 50)
+raise_key (28, 76)
+insert (71, 14)
+delete
+delete
+decrease_key (71, 0)
+delete
+insert (6, 65)
+insert (33, 81)
+insert (67, 57)
+raise_key (6, 85)
+raise_key (67, 84)
+raise_key (67, 100)
+insert (15, 11)
+insert (59, 65)
+insert (12, 94)
+delete
+raise_key (15, 47)
+decrease_key (59, 47)
+raise_key (59, 70)
+insert (72, 81)
+[[12, 94], [6, 85], [72, 81], [33, 81], [59, 70], [15, 47]]
+PriorityQueue 24
+insert (70, 13)
+delete
+insert (39, 76)
+decrease_key (39, 61)
+decrease_key (39, 29)
+delete
+insert (43, 87)
+decrease_key (43, 67)
+insert (63, 16)
+decrease_key (43, 52)
+raise_key (43, 86)
+raise_key (43, 100)
+insert (34, 19)
+raise_key (63, 26)
+delete
+insert (15, 100)
+delete
+decrease_key (63, 0)
+insert (65, 60)
+insert (48, 53)
+insert (57, 91)
+insert (5, 34)
+delete
+raise_key (34, 39)
+delete
+[[48, 53], [34, 39], [5, 34], [63, 0]]
+PriorityQueue 25
+insert (52, 94)
+raise_key (52, 100)
+delete
+insert (26, 73)
+delete
+insert (10, 72)
+insert (37, 58)
+insert (25, 12)
+raise_key (37, 80)
+delete
+insert (79, 1)
+decrease_key (79, 0)
+decrease_key (10, 67)
+insert (35, 11)
+decrease_key (25, 0)
+raise_key (25, 25)
+delete
+insert (61, 100)
+decrease_key (25, 23)
+insert (44, 60)
+insert (20, 73)
+delete
+insert (71, 38)
+decrease_key (79, 0)
+[[20, 73], [44, 60], [71, 38], [25, 23], [35, 11], [79, 0]]
+PriorityQueue 26
+insert (48, 51)
+insert (8, 34)
+raise_key (48, 89)
+insert (68, 81)
+insert (14, 65)
+insert (69, 31)
+insert (64, 93)
+raise_key (68, 100)
+delete
+raise_key (64, 100)
+insert (82, 4)
+delete
+insert (52, 21)
+raise_key (69, 72)
+insert (65, 35)
+raise_key (82, 16)
+raise_key (65, 54)
+insert (2, 6)
+insert (10, 97)
+insert (47, 31)
+raise_key (8, 61)
+insert (3, 17)
+[[10, 97], [48, 89], [69, 72], [14, 65], [8, 61], [65, 54], [47, 31], [52, 21], [3, 17], [82, 16], [2, 6]]
+PriorityQueue 27
+insert (45, 60)
+insert (1, 98)
+decrease_key (1, 68)
+decrease_key (1, 28)
+raise_key (1, 73)
+raise_key (1, 99)
+decrease_key (1, 69)
+delete
+insert (44, 45)
+insert (4, 44)
+raise_key (44, 73)
+decrease_key (44, 55)
+delete
+delete
+delete
+insert (7, 11)
+insert (68, 43)
+decrease_key (68, 0)
+delete
+delete
+insert (92, 82)
+[[92, 82]]
+PriorityQueue 28
+insert (23, 92)
+insert (58, 83)
+insert (12, 93)
+decrease_key (12, 80)
+delete
+raise_key (12, 82)
+insert (24, 88)
+decrease_key (24, 78)
+delete
+raise_key (12, 90)
+insert (17, 29)
+decrease_key (12, 81)
+raise_key (12, 98)
+delete
+decrease_key (24, 38)
+raise_key (17, 76)
+insert (87, 13)
+insert (94, 83)
+insert (56, 24)
+insert (49, 63)
+decrease_key (87, 0)
+delete
+delete
+insert (93, 29)
+[[49, 63], [24, 38], [93, 29], [56, 24], [87, 0]]
+PriorityQueue 29
+insert (49, 59)
+insert (4, 77)
+insert (13, 86)
+raise_key (49, 100)
+insert (72, 38)
+insert (84, 43)
+raise_key (72, 81)
+raise_key (4, 100)
+delete
+insert (98, 41)
+insert (23, 14)
+raise_key (84, 56)
+decrease_key (23, 0)
+insert (5, 65)
+raise_key (4, 100)
+raise_key (98, 88)
+insert (63, 21)
+delete
+raise_key (72, 100)
+decrease_key (84, 7)
+raise_key (72, 100)
+delete
+[[98, 88], [13, 86], [5, 65], [63, 21], [84, 7], [23, 0]]

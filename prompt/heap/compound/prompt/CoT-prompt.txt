@@ -1,0 +1,13 @@
+Q: What is the state of the heap after the following operations:  
+(insert, 52)  
+(insert, 33)  
+(insert, 81)  
+(delete)  
+(insert, 26)  
+A: The heap is initially empty.  
+(insert, 52) → [52]  
+(insert, 33) → [33, 52]  
+(insert, 81) → [33, 52, 81]  
+(delete) → Removes 33 → [52, 81]  
+(insert, 26) → [26, 81, 52]  
+The final answer is [26, 81, 52].

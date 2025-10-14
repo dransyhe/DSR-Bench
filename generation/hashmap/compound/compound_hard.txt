@@ -1,0 +1,852 @@
+HashMap 0 with 30 buckets 
+add key 62 value 26 
+remove 62 
+add key 36 value 18 
+remove 36 
+add key 38 value 27 
+remove 36 
+add key 21 value 60 
+remove 62 
+add key 19 value 65 
+add key 0 value 49 
+add key 35 value 53 
+remove 21 
+add key 72 value 91 
+add key 12 value 73 
+add key 43 value 9 
+remove 72 
+add key 58 value 24 
+add key 84 value 43 
+add key 94 value 82 
+add key 12 value 54 
+remove 94 
+remove 84 
+remove 94 
+add key 40 value 67 
+remove 36 
+add key 75 value 86 
+Final HashMap: [[(0, 49)], [], [], [], [], [(35, 53)], [], [], [(38, 27)], [], [(40, 67)], [], [(12, 54)], [(43, 9)], [], [(75, 86)], [], [], [], [(19, 65)], [], [], [], [], [], [], [], [], [(58, 24)], []] 
+
+HashMap 1 with 30 buckets 
+add key 5 value 76 
+remove 5 
+add key 39 value 49 
+add key 70 value 39 
+add key 1 value 36 
+add key 59 value 21 
+remove 39 
+add key 43 value 1 
+remove 5 
+remove 70 
+add key 23 value 34 
+add key 10 value 48 
+add key 20 value 30 
+add key 88 value 47 
+add key 93 value 39 
+add key 85 value 55 
+remove 20 
+add key 29 value 90 
+add key 41 value 97 
+add key 82 value 91 
+add key 60 value 24 
+add key 2 value 74 
+add key 69 value 31 
+add key 91 value 60 
+remove 5 
+add key 98 value 41 
+add key 86 value 44 
+add key 34 value 36 
+add key 98 value 80 
+Final HashMap: [[(60, 24)], [(1, 36), (91, 60)], [(2, 74)], [(93, 39)], [(34, 36)], [], [], [], [(98, 80)], [(69, 31)], [(10, 48)], [(41, 97)], [], [(43, 1)], [], [], [], [], [], [], [], [], [(82, 91)], [(23, 34)], [], [(85, 55)], [(86, 44)], [], [(88, 47)], [(59, 21), (29, 90)]] 
+
+HashMap 2 with 30 buckets 
+add key 87 value 36 
+add key 35 value 59 
+remove 35 
+add key 42 value 53 
+remove 42 
+add key 73 value 31 
+add key 71 value 62 
+add key 41 value 17 
+remove 41 
+remove 42 
+remove 41 
+add key 97 value 7 
+add key 0 value 31 
+add key 44 value 16 
+remove 42 
+add key 10 value 44 
+remove 73 
+add key 92 value 49 
+add key 65 value 10 
+add key 76 value 92 
+add key 56 value 2 
+remove 10 
+add key 61 value 5 
+add key 8 value 65 
+remove 92 
+add key 88 value 80 
+add key 68 value 86 
+Final HashMap: [[(0, 31)], [(61, 5)], [], [], [], [(65, 10)], [], [(97, 7)], [(8, 65), (68, 86)], [], [], [(71, 62)], [], [], [(44, 16)], [], [(76, 92)], [], [], [], [], [], [], [], [], [], [(56, 2)], [(87, 36)], [(88, 80)], []] 
+
+HashMap 3 with 30 buckets 
+add key 61 value 29 
+add key 88 value 57 
+add key 30 value 0 
+remove 61 
+add key 42 value 27 
+add key 69 value 53 
+remove 61 
+add key 13 value 97 
+remove 69 
+add key 43 value 90 
+remove 13 
+add key 68 value 10 
+remove 30 
+remove 69 
+add key 46 value 80 
+add key 72 value 88 
+remove 69 
+add key 58 value 47 
+add key 63 value 15 
+add key 44 value 8 
+add key 69 value 32 
+add key 72 value 27 
+add key 56 value 82 
+add key 6 value 72 
+remove 56 
+add key 71 value 48 
+Final HashMap: [[], [], [], [(63, 15)], [], [], [(6, 72)], [], [(68, 10)], [(69, 32)], [], [(71, 48)], [(42, 27), (72, 27)], [(43, 90)], [(44, 8)], [], [(46, 80)], [], [], [], [], [], [], [], [], [], [], [], [(88, 57), (58, 47)], []] 
+
+HashMap 4 with 30 buckets 
+add key 76 value 18 
+remove 76 
+add key 86 value 29 
+add key 40 value 35 
+add key 93 value 57 
+add key 13 value 57 
+add key 74 value 98 
+remove 76 
+remove 76 
+add key 94 value 60 
+remove 40 
+add key 3 value 97 
+remove 13 
+remove 76 
+add key 76 value 62 
+add key 88 value 78 
+remove 86 
+add key 66 value 6 
+add key 88 value 47 
+add key 46 value 14 
+remove 40 
+add key 67 value 95 
+add key 91 value 29 
+add key 91 value 30 
+add key 41 value 21 
+add key 8 value 96 
+add key 69 value 73 
+remove 93 
+add key 3 value 86 
+Final HashMap: [[], [(91, 30)], [], [(3, 86)], [(94, 60)], [], [(66, 6)], [(67, 95)], [(8, 96)], [(69, 73)], [], [(41, 21)], [], [], [(74, 98)], [], [(76, 62), (46, 14)], [], [], [], [], [], [], [], [], [], [], [], [(88, 47)], []] 
+
+HashMap 5 with 30 buckets 
+add key 63 value 42 
+add key 79 value 71 
+add key 51 value 40 
+remove 63 
+remove 79 
+add key 76 value 27 
+add key 62 value 7 
+remove 79 
+add key 26 value 80 
+add key 42 value 65 
+add key 53 value 3 
+add key 50 value 43 
+add key 65 value 7 
+remove 62 
+add key 24 value 17 
+add key 48 value 85 
+add key 61 value 0 
+remove 50 
+add key 99 value 21 
+add key 49 value 28 
+add key 11 value 81 
+add key 70 value 25 
+add key 39 value 62 
+add key 54 value 67 
+add key 46 value 67 
+add key 43 value 2 
+remove 70 
+add key 86 value 33 
+Final HashMap: [[], [(61, 0)], [], [], [], [(65, 7)], [], [], [], [(99, 21), (39, 62)], [], [(11, 81)], [(42, 65)], [(43, 2)], [], [], [(76, 27), (46, 67)], [], [(48, 85)], [(49, 28)], [], [(51, 40)], [], [(53, 3)], [(24, 17), (54, 67)], [], [(26, 80), (86, 33)], [], [], []] 
+
+HashMap 6 with 30 buckets 
+add key 69 value 60 
+add key 75 value 59 
+add key 75 value 54 
+add key 1 value 54 
+add key 21 value 25 
+remove 21 
+add key 63 value 19 
+add key 83 value 59 
+remove 75 
+add key 61 value 48 
+remove 69 
+remove 69 
+add key 42 value 42 
+add key 52 value 73 
+remove 69 
+add key 69 value 66 
+remove 21 
+add key 25 value 18 
+add key 58 value 36 
+add key 90 value 97 
+add key 29 value 11 
+remove 69 
+add key 93 value 80 
+add key 36 value 56 
+add key 45 value 89 
+add key 83 value 72 
+add key 17 value 11 
+Final HashMap: [[(90, 97)], [(1, 54), (61, 48)], [], [(63, 19), (93, 80)], [], [], [(36, 56)], [], [], [], [], [], [(42, 42)], [], [], [(45, 89)], [], [(17, 11)], [], [], [], [], [(52, 73)], [(83, 72)], [], [(25, 18)], [], [], [(58, 36)], [(29, 11)]] 
+
+HashMap 7 with 30 buckets 
+add key 46 value 42 
+add key 35 value 47 
+add key 75 value 19 
+remove 75 
+add key 80 value 68 
+add key 65 value 17 
+add key 64 value 51 
+remove 64 
+add key 70 value 26 
+remove 46 
+add key 74 value 99 
+add key 48 value 55 
+add key 4 value 82 
+add key 52 value 6 
+add key 72 value 64 
+add key 65 value 63 
+remove 46 
+add key 99 value 52 
+add key 39 value 29 
+remove 64 
+add key 54 value 74 
+add key 89 value 80 
+remove 4 
+add key 46 value 40 
+add key 18 value 29 
+add key 33 value 78 
+add key 9 value 10 
+add key 69 value 59 
+remove 75 
+Final HashMap: [[], [], [], [(33, 78)], [], [(35, 47), (65, 63)], [], [], [], [(99, 52), (39, 29), (9, 10), (69, 59)], [(70, 26)], [], [(72, 64)], [], [(74, 99)], [], [(46, 40)], [], [(48, 55), (18, 29)], [], [(80, 68)], [], [(52, 6)], [], [(54, 74)], [], [], [], [], [(89, 80)]] 
+
+HashMap 8 with 30 buckets 
+add key 14 value 2 
+remove 14 
+add key 78 value 90 
+remove 14 
+remove 78 
+add key 28 value 2 
+add key 93 value 42 
+remove 14 
+remove 28 
+remove 14 
+add key 64 value 86 
+add key 66 value 33 
+remove 14 
+add key 42 value 27 
+add key 39 value 54 
+add key 80 value 41 
+add key 49 value 15 
+remove 66 
+add key 51 value 69 
+add key 7 value 70 
+add key 49 value 20 
+add key 31 value 82 
+remove 39 
+add key 87 value 14 
+remove 7 
+add key 36 value 43 
+Final HashMap: [[], [(31, 82)], [], [(93, 42)], [(64, 86)], [], [(36, 43)], [], [], [], [], [], [(42, 27)], [], [], [], [], [], [], [(49, 20)], [(80, 41)], [(51, 69)], [], [], [], [], [], [(87, 14)], [], []] 
+
+HashMap 9 with 30 buckets 
+add key 45 value 70 
+add key 5 value 10 
+remove 45 
+remove 5 
+add key 10 value 97 
+remove 45 
+remove 45 
+add key 42 value 97 
+add key 13 value 85 
+remove 45 
+remove 13 
+add key 20 value 7 
+remove 5 
+add key 60 value 29 
+add key 93 value 39 
+add key 51 value 85 
+remove 20 
+add key 79 value 21 
+add key 86 value 89 
+add key 4 value 20 
+add key 18 value 66 
+add key 15 value 60 
+add key 59 value 39 
+add key 39 value 46 
+Final HashMap: [[(60, 29)], [], [], [(93, 39)], [(4, 20)], [], [], [], [], [(39, 46)], [(10, 97)], [], [(42, 97)], [], [], [(15, 60)], [], [], [(18, 66)], [(79, 21)], [], [(51, 85)], [], [], [], [], [(86, 89)], [], [], [(59, 39)]] 
+
+HashMap 10 with 30 buckets 
+add key 45 value 51 
+add key 49 value 1 
+remove 45 
+add key 0 value 66 
+remove 49 
+remove 49 
+add key 74 value 41 
+remove 74 
+add key 60 value 4 
+add key 56 value 46 
+add key 93 value 46 
+add key 39 value 80 
+add key 37 value 15 
+add key 44 value 69 
+remove 45 
+remove 37 
+add key 7 value 56 
+remove 93 
+remove 45 
+add key 10 value 20 
+remove 45 
+add key 48 value 20 
+add key 28 value 93 
+remove 49 
+add key 73 value 41 
+Final HashMap: [[(0, 66), (60, 4)], [], [], [], [], [], [], [(7, 56)], [], [(39, 80)], [(10, 20)], [], [], [(73, 41)], [(44, 69)], [], [], [], [(48, 20)], [], [], [], [], [], [], [], [(56, 46)], [], [(28, 93)], []] 
+
+HashMap 11 with 30 buckets 
+add key 35 value 53 
+remove 35 
+add key 59 value 21 
+add key 82 value 7 
+add key 64 value 23 
+add key 72 value 28 
+add key 13 value 8 
+add key 14 value 97 
+add key 77 value 54 
+add key 79 value 40 
+remove 82 
+add key 79 value 62 
+add key 13 value 60 
+add key 62 value 68 
+add key 13 value 20 
+add key 29 value 1 
+add key 67 value 11 
+remove 79 
+remove 35 
+remove 29 
+remove 82 
+add key 26 value 69 
+Final HashMap: [[], [], [(62, 68)], [], [(64, 23)], [], [], [(67, 11)], [], [], [], [], [(72, 28)], [(13, 20)], [(14, 97)], [], [], [(77, 54)], [], [], [], [], [], [], [], [], [(26, 69)], [], [], [(59, 21)]] 
+
+HashMap 12 with 30 buckets 
+add key 2 value 2 
+add key 85 value 52 
+add key 41 value 95 
+add key 61 value 80 
+add key 75 value 63 
+add key 54 value 53 
+remove 61 
+add key 94 value 39 
+add key 93 value 91 
+add key 65 value 54 
+add key 15 value 30 
+add key 45 value 1 
+remove 75 
+remove 65 
+add key 29 value 54 
+remove 29 
+add key 61 value 44 
+add key 6 value 13 
+add key 91 value 85 
+remove 54 
+remove 91 
+remove 85 
+add key 69 value 75 
+Final HashMap: [[], [(61, 44)], [(2, 2)], [(93, 91)], [(94, 39)], [], [(6, 13)], [], [], [(69, 75)], [], [(41, 95)], [], [], [], [(15, 30), (45, 1)], [], [], [], [], [], [], [], [], [], [], [], [], [], []] 
+
+HashMap 13 with 30 buckets 
+add key 46 value 3 
+add key 51 value 54 
+add key 55 value 29 
+remove 51 
+remove 46 
+add key 77 value 91 
+add key 25 value 26 
+add key 57 value 77 
+add key 3 value 16 
+add key 24 value 44 
+remove 24 
+add key 19 value 36 
+add key 24 value 67 
+add key 42 value 1 
+remove 77 
+remove 25 
+remove 19 
+add key 10 value 64 
+add key 78 value 25 
+add key 18 value 35 
+remove 25 
+add key 24 value 8 
+remove 25 
+add key 92 value 25 
+add key 0 value 72 
+add key 68 value 22 
+Final HashMap: [[(0, 72)], [], [(92, 25)], [(3, 16)], [], [], [], [], [(68, 22)], [], [(10, 64)], [], [(42, 1)], [], [], [], [], [], [(78, 25), (18, 35)], [], [], [], [], [], [(24, 8)], [(55, 29)], [], [(57, 77)], [], []] 
+
+HashMap 14 with 30 buckets 
+add key 22 value 5 
+remove 22 
+add key 13 value 88 
+add key 2 value 4 
+add key 42 value 78 
+remove 2 
+remove 22 
+add key 97 value 98 
+add key 29 value 61 
+add key 90 value 13 
+add key 70 value 42 
+add key 7 value 61 
+remove 70 
+add key 7 value 51 
+remove 7 
+add key 93 value 94 
+remove 7 
+add key 53 value 49 
+add key 47 value 17 
+add key 10 value 21 
+add key 77 value 40 
+add key 16 value 5 
+add key 97 value 67 
+Final HashMap: [[(90, 13)], [], [], [(93, 94)], [], [], [], [(97, 67)], [], [], [(10, 21)], [], [(42, 78)], [(13, 88)], [], [], [(16, 5)], [(47, 17), (77, 40)], [], [], [], [], [], [(53, 49)], [], [], [], [], [], [(29, 61)]] 
+
+HashMap 15 with 30 buckets 
+add key 11 value 79 
+add key 24 value 16 
+add key 33 value 0 
+remove 11 
+add key 30 value 85 
+add key 42 value 15 
+add key 88 value 98 
+add key 34 value 21 
+add key 4 value 11 
+add key 15 value 7 
+add key 47 value 88 
+add key 22 value 83 
+add key 29 value 9 
+add key 2 value 48 
+remove 34 
+add key 23 value 42 
+add key 77 value 25 
+add key 57 value 82 
+add key 39 value 23 
+remove 22 
+remove 77 
+add key 79 value 69 
+add key 54 value 97 
+remove 15 
+add key 1 value 23 
+add key 99 value 0 
+add key 44 value 78 
+add key 3 value 19 
+Final HashMap: [[(30, 85)], [(1, 23)], [(2, 48)], [(33, 0), (3, 19)], [(4, 11)], [], [], [], [], [(39, 23), (99, 0)], [], [], [(42, 15)], [], [(44, 78)], [], [], [(47, 88)], [], [(79, 69)], [], [], [], [(23, 42)], [(24, 16), (54, 97)], [], [], [(57, 82)], [(88, 98)], [(29, 9)]] 
+
+HashMap 16 with 30 buckets 
+add key 53 value 2 
+remove 53 
+add key 97 value 76 
+remove 53 
+add key 32 value 87 
+add key 84 value 8 
+add key 90 value 21 
+add key 56 value 99 
+add key 4 value 86 
+add key 49 value 23 
+remove 49 
+add key 73 value 3 
+add key 70 value 16 
+add key 6 value 63 
+add key 35 value 12 
+add key 97 value 32 
+add key 76 value 53 
+add key 55 value 99 
+add key 35 value 97 
+add key 4 value 9 
+add key 49 value 94 
+add key 39 value 14 
+add key 99 value 10 
+add key 78 value 9 
+Final HashMap: [[(90, 21)], [], [(32, 87)], [], [(4, 9)], [(35, 97)], [(6, 63)], [(97, 32)], [], [(39, 14), (99, 10)], [(70, 16)], [], [], [(73, 3)], [], [], [(76, 53)], [], [(78, 9)], [(49, 94)], [], [], [], [], [(84, 8)], [(55, 99)], [(56, 99)], [], [], []] 
+
+HashMap 17 with 30 buckets 
+add key 89 value 10 
+remove 89 
+add key 87 value 57 
+remove 87 
+add key 29 value 37 
+add key 20 value 20 
+add key 13 value 65 
+add key 31 value 33 
+add key 58 value 7 
+add key 27 value 33 
+remove 29 
+add key 90 value 72 
+add key 95 value 97 
+remove 95 
+add key 53 value 93 
+remove 27 
+remove 27 
+add key 55 value 6 
+add key 17 value 77 
+remove 53 
+remove 55 
+add key 41 value 43 
+add key 79 value 71 
+add key 24 value 56 
+add key 53 value 22 
+Final HashMap: [[(90, 72)], [(31, 33)], [], [], [], [], [], [], [], [], [], [(41, 43)], [], [(13, 65)], [], [], [], [(17, 77)], [], [(79, 71)], [(20, 20)], [], [], [(53, 22)], [(24, 56)], [], [], [], [(58, 7)], []] 
+
+HashMap 18 with 30 buckets 
+add key 92 value 2 
+add key 27 value 55 
+add key 92 value 42 
+add key 40 value 92 
+add key 44 value 54 
+add key 91 value 16 
+remove 91 
+add key 44 value 97 
+add key 78 value 34 
+add key 12 value 21 
+add key 60 value 83 
+remove 12 
+add key 44 value 84 
+add key 23 value 25 
+add key 77 value 21 
+add key 44 value 48 
+add key 73 value 15 
+remove 73 
+add key 39 value 14 
+add key 92 value 4 
+add key 60 value 67 
+remove 92 
+add key 26 value 38 
+add key 50 value 16 
+add key 99 value 6 
+Final HashMap: [[(60, 67)], [], [], [], [], [], [], [], [], [(39, 14), (99, 6)], [(40, 92)], [], [], [], [(44, 48)], [], [], [(77, 21)], [(78, 34)], [], [(50, 16)], [], [], [(23, 25)], [], [], [(26, 38)], [(27, 55)], [], []] 
+
+HashMap 19 with 30 buckets 
+add key 48 value 89 
+remove 48 
+add key 16 value 9 
+remove 48 
+add key 74 value 82 
+add key 81 value 83 
+add key 48 value 81 
+add key 1 value 10 
+add key 84 value 67 
+add key 26 value 99 
+add key 81 value 17 
+add key 53 value 67 
+add key 91 value 87 
+add key 82 value 35 
+add key 85 value 43 
+remove 85 
+remove 48 
+add key 34 value 32 
+add key 63 value 38 
+add key 23 value 67 
+add key 81 value 72 
+remove 53 
+add key 81 value 25 
+remove 26 
+Final HashMap: [[], [(1, 10), (91, 87)], [], [(63, 38)], [(34, 32)], [], [], [], [], [], [], [], [], [], [(74, 82)], [], [(16, 9)], [], [], [], [], [(81, 25)], [(82, 35)], [(23, 67)], [(84, 67)], [], [], [], [], []] 
+
+HashMap 20 with 30 buckets 
+add key 27 value 77 
+add key 2 value 68 
+add key 57 value 46 
+add key 52 value 57 
+add key 14 value 71 
+remove 52 
+add key 17 value 77 
+remove 17 
+add key 62 value 85 
+add key 30 value 38 
+remove 52 
+add key 83 value 92 
+remove 27 
+add key 65 value 65 
+add key 94 value 34 
+remove 30 
+add key 92 value 2 
+add key 80 value 35 
+remove 30 
+remove 52 
+remove 30 
+add key 14 value 7 
+add key 67 value 43 
+add key 44 value 20 
+add key 17 value 77 
+remove 80 
+add key 18 value 76 
+add key 24 value 18 
+add key 59 value 30 
+Final HashMap: [[], [], [(2, 68), (62, 85), (92, 2)], [], [(94, 34)], [(65, 65)], [], [(67, 43)], [], [], [], [], [], [], [(14, 7), (44, 20)], [], [], [(17, 77)], [(18, 76)], [], [], [], [], [(83, 92)], [(24, 18)], [], [], [(57, 46)], [], [(59, 30)]] 
+
+HashMap 21 with 30 buckets 
+add key 83 value 48 
+add key 15 value 68 
+add key 32 value 5 
+remove 32 
+add key 72 value 53 
+remove 83 
+add key 59 value 85 
+add key 1 value 89 
+remove 59 
+remove 72 
+remove 72 
+add key 37 value 66 
+add key 47 value 77 
+remove 47 
+add key 86 value 78 
+add key 83 value 65 
+add key 9 value 81 
+remove 9 
+add key 46 value 89 
+remove 1 
+add key 86 value 8 
+Final HashMap: [[], [], [], [], [], [], [], [(37, 66)], [], [], [], [], [], [], [], [(15, 68)], [(46, 89)], [], [], [], [], [], [], [(83, 65)], [], [], [(86, 8)], [], [], []] 
+
+HashMap 22 with 30 buckets 
+add key 96 value 27 
+add key 35 value 22 
+add key 18 value 78 
+add key 4 value 47 
+remove 18 
+add key 17 value 62 
+add key 75 value 32 
+remove 35 
+add key 73 value 94 
+add key 29 value 96 
+add key 57 value 46 
+add key 23 value 44 
+remove 18 
+remove 57 
+add key 49 value 2 
+add key 73 value 31 
+add key 35 value 44 
+add key 46 value 49 
+remove 35 
+add key 58 value 24 
+add key 13 value 14 
+remove 35 
+add key 88 value 18 
+remove 57 
+remove 75 
+add key 95 value 67 
+add key 40 value 23 
+add key 24 value 85 
+Final HashMap: [[], [], [], [], [(4, 47)], [(95, 67)], [(96, 27)], [], [], [], [(40, 23)], [], [], [(73, 31), (13, 14)], [], [], [(46, 49)], [(17, 62)], [], [(49, 2)], [], [], [], [(23, 44)], [(24, 85)], [], [], [], [(58, 24), (88, 18)], [(29, 96)]] 
+
+HashMap 23 with 30 buckets 
+add key 92 value 0 
+add key 24 value 67 
+add key 10 value 84 
+add key 34 value 29 
+add key 56 value 32 
+add key 63 value 64 
+remove 92 
+add key 58 value 30 
+add key 25 value 29 
+add key 8 value 59 
+add key 7 value 77 
+add key 83 value 59 
+remove 56 
+add key 73 value 79 
+add key 79 value 70 
+remove 10 
+add key 99 value 2 
+add key 1 value 43 
+remove 99 
+add key 8 value 84 
+remove 58 
+add key 69 value 80 
+remove 69 
+add key 50 value 84 
+remove 69 
+Final HashMap: [[], [(1, 43)], [], [(63, 64)], [(34, 29)], [], [], [(7, 77)], [(8, 84)], [], [], [], [], [(73, 79)], [], [], [], [], [], [(79, 70)], [(50, 84)], [], [], [(83, 59)], [(24, 67)], [(25, 29)], [], [], [], []] 
+
+HashMap 24 with 30 buckets 
+add key 94 value 54 
+add key 17 value 54 
+remove 94 
+add key 89 value 79 
+add key 16 value 27 
+add key 84 value 4 
+add key 65 value 79 
+add key 35 value 31 
+remove 89 
+add key 4 value 10 
+add key 50 value 19 
+add key 62 value 28 
+remove 4 
+add key 20 value 12 
+remove 50 
+add key 12 value 14 
+add key 46 value 43 
+add key 89 value 71 
+remove 89 
+add key 80 value 17 
+add key 12 value 73 
+remove 89 
+add key 36 value 98 
+Final HashMap: [[], [], [(62, 28)], [], [], [(65, 79), (35, 31)], [(36, 98)], [], [], [], [], [], [(12, 73)], [], [], [], [(16, 27), (46, 43)], [(17, 54)], [], [], [(20, 12), (80, 17)], [], [], [], [(84, 4)], [], [], [], [], []] 
+
+HashMap 25 with 30 buckets 
+add key 91 value 68 
+remove 91 
+add key 65 value 30 
+add key 36 value 40 
+add key 51 value 99 
+add key 35 value 19 
+add key 27 value 66 
+add key 74 value 6 
+add key 1 value 16 
+add key 16 value 12 
+add key 68 value 19 
+add key 78 value 27 
+add key 84 value 50 
+add key 37 value 66 
+add key 24 value 73 
+add key 52 value 50 
+remove 36 
+remove 68 
+remove 27 
+add key 64 value 0 
+add key 76 value 33 
+add key 3 value 67 
+add key 55 value 3 
+remove 27 
+remove 35 
+add key 4 value 8 
+add key 55 value 77 
+add key 56 value 27 
+Final HashMap: [[], [(1, 16)], [], [(3, 67)], [(64, 0), (4, 8)], [(65, 30)], [], [(37, 66)], [], [], [], [], [], [], [(74, 6)], [], [(16, 12), (76, 33)], [], [(78, 27)], [], [], [(51, 99)], [(52, 50)], [], [(84, 50), (24, 73)], [(55, 77)], [(56, 27)], [], [], []] 
+
+HashMap 26 with 30 buckets 
+add key 16 value 20 
+add key 7 value 57 
+add key 60 value 64 
+add key 12 value 50 
+add key 30 value 23 
+add key 74 value 0 
+add key 58 value 89 
+add key 20 value 31 
+add key 1 value 66 
+add key 5 value 28 
+add key 43 value 19 
+remove 58 
+add key 52 value 48 
+remove 5 
+remove 12 
+add key 60 value 18 
+remove 58 
+add key 84 value 19 
+add key 82 value 68 
+add key 47 value 60 
+add key 94 value 43 
+add key 5 value 43 
+add key 80 value 51 
+add key 13 value 8 
+Final HashMap: [[(60, 18), (30, 23)], [(1, 66)], [], [], [(94, 43)], [(5, 43)], [], [(7, 57)], [], [], [], [], [], [(43, 19), (13, 8)], [(74, 0)], [], [(16, 20)], [(47, 60)], [], [], [(20, 31), (80, 51)], [], [(52, 48), (82, 68)], [], [(84, 19)], [], [], [], [], []] 
+
+HashMap 27 with 30 buckets 
+add key 59 value 74 
+add key 60 value 93 
+remove 60 
+add key 60 value 80 
+add key 33 value 59 
+remove 60 
+add key 81 value 8 
+add key 43 value 41 
+add key 27 value 99 
+add key 67 value 56 
+add key 88 value 22 
+add key 97 value 77 
+add key 42 value 53 
+add key 43 value 88 
+add key 99 value 73 
+remove 60 
+add key 82 value 83 
+add key 14 value 6 
+add key 63 value 26 
+remove 67 
+add key 60 value 2 
+add key 51 value 47 
+add key 17 value 28 
+add key 44 value 67 
+add key 55 value 12 
+Final HashMap: [[(60, 2)], [], [], [(33, 59), (63, 26)], [], [], [], [(97, 77)], [], [(99, 73)], [], [], [(42, 53)], [(43, 88)], [(14, 6), (44, 67)], [], [], [(17, 28)], [], [], [], [(81, 8), (51, 47)], [(82, 83)], [], [], [(55, 12)], [], [(27, 99)], [(88, 22)], [(59, 74)]] 
+
+HashMap 28 with 30 buckets 
+add key 65 value 40 
+add key 76 value 33 
+add key 46 value 52 
+add key 41 value 98 
+add key 65 value 19 
+remove 76 
+remove 65 
+add key 84 value 33 
+add key 92 value 84 
+remove 76 
+add key 47 value 18 
+add key 15 value 2 
+add key 74 value 85 
+add key 68 value 46 
+add key 52 value 28 
+add key 91 value 72 
+remove 46 
+remove 65 
+add key 90 value 13 
+add key 77 value 82 
+add key 90 value 55 
+add key 61 value 9 
+Final HashMap: [[(90, 55)], [(91, 72), (61, 9)], [(92, 84)], [], [], [], [], [], [(68, 46)], [], [], [(41, 98)], [], [], [(74, 85)], [(15, 2)], [], [(47, 18), (77, 82)], [], [], [], [], [(52, 28)], [], [(84, 33)], [], [], [], [], []] 
+
+HashMap 29 with 30 buckets 
+add key 57 value 76 
+remove 57 
+add key 73 value 0 
+add key 14 value 65 
+add key 92 value 30 
+remove 92 
+add key 88 value 51 
+add key 29 value 50 
+add key 38 value 36 
+add key 5 value 60 
+remove 88 
+add key 26 value 69 
+add key 28 value 51 
+add key 70 value 52 
+remove 26 
+add key 8 value 97 
+add key 97 value 76 
+remove 73 
+add key 14 value 85 
+add key 99 value 12 
+remove 73 
+Final HashMap: [[], [], [], [], [], [(5, 60)], [], [(97, 76)], [(38, 36), (8, 97)], [(99, 12)], [(70, 52)], [], [], [], [(14, 85)], [], [], [], [], [], [], [], [], [], [], [], [], [], [(28, 51)], [(29, 50)]] 
+

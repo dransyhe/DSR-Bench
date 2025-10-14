@@ -1,0 +1,531 @@
+LRU Cache Simulation 0, Cache Size: 5 
+access 3
+access 12
+access 5
+access 9
+access 13
+access 11
+access 18
+access 7
+access 2
+access 3
+access 8
+access 3
+access 3
+access 11
+Final Cache: [7, 2, 8, 3, 11]
+LRU Cache Simulation 1, Cache Size: 3 
+access 15
+access 8
+access 12
+access 9
+access 17
+access 6
+access 14
+access 10
+access 13
+access 19
+access 1
+access 4
+access 3
+access 12
+access 11
+access 18
+access 4
+access 3
+Final Cache: [18, 4, 3]
+LRU Cache Simulation 2, Cache Size: 6 
+access 13
+access 1
+access 11
+access 2
+access 6
+access 6
+access 14
+access 18
+access 10
+access 1
+access 11
+access 1
+access 17
+access 13
+access 12
+Final Cache: [10, 11, 1, 17, 13, 12]
+LRU Cache Simulation 3, Cache Size: 4 
+access 17
+access 16
+access 18
+access 4
+access 3
+access 19
+access 12
+access 19
+access 11
+access 5
+access 14
+access 11
+Final Cache: [19, 5, 14, 11]
+LRU Cache Simulation 4, Cache Size: 7 
+access 8
+access 1
+access 7
+access 2
+access 18
+access 9
+access 17
+access 12
+access 13
+access 4
+access 9
+access 6
+access 6
+access 8
+access 17
+Final Cache: [12, 13, 4, 9, 6, 8, 17]
+LRU Cache Simulation 5, Cache Size: 4 
+access 11
+access 18
+access 13
+access 4
+access 9
+access 5
+access 5
+access 0
+access 7
+access 14
+access 3
+access 14
+access 4
+access 16
+access 2
+access 1
+access 8
+access 2
+access 3
+Final Cache: [1, 8, 2, 3]
+LRU Cache Simulation 6, Cache Size: 5 
+access 9
+access 11
+access 4
+access 2
+access 14
+access 6
+access 8
+access 19
+access 12
+access 1
+access 4
+access 14
+access 14
+access 1
+access 1
+access 8
+access 7
+access 3
+access 7
+Final Cache: [14, 1, 8, 3, 7]
+LRU Cache Simulation 7, Cache Size: 5 
+access 15
+access 5
+access 4
+access 7
+access 2
+access 11
+access 7
+access 10
+access 9
+access 11
+access 9
+Final Cache: [2, 7, 10, 11, 9]
+LRU Cache Simulation 8, Cache Size: 4 
+access 4
+access 6
+access 17
+access 9
+access 2
+access 12
+access 4
+access 2
+access 6
+access 2
+access 5
+access 15
+Final Cache: [6, 2, 5, 15]
+LRU Cache Simulation 9, Cache Size: 5 
+access 0
+access 19
+access 11
+access 7
+access 1
+access 9
+access 10
+access 15
+access 15
+access 16
+access 4
+access 8
+access 8
+access 5
+access 18
+access 16
+access 7
+access 16
+Final Cache: [8, 5, 18, 7, 16]
+LRU Cache Simulation 10, Cache Size: 3 
+access 9
+access 1
+access 6
+access 0
+access 19
+access 11
+access 17
+access 4
+access 17
+access 11
+access 12
+access 0
+access 7
+access 13
+access 14
+access 10
+access 9
+access 3
+access 17
+access 12
+Final Cache: [3, 17, 12]
+LRU Cache Simulation 11, Cache Size: 3 
+access 15
+access 16
+access 3
+access 9
+access 2
+access 8
+access 12
+access 4
+access 2
+access 8
+access 16
+access 16
+access 7
+access 2
+Final Cache: [16, 7, 2]
+LRU Cache Simulation 12, Cache Size: 7 
+access 13
+access 1
+access 1
+access 10
+access 4
+access 8
+access 12
+access 12
+access 2
+access 6
+access 5
+access 19
+Final Cache: [4, 8, 12, 2, 6, 5, 19]
+LRU Cache Simulation 13, Cache Size: 7 
+access 1
+access 10
+access 18
+access 16
+access 5
+access 0
+access 11
+access 18
+access 18
+access 16
+access 18
+access 12
+access 9
+access 0
+access 2
+access 7
+access 12
+access 7
+access 15
+access 5
+Final Cache: [9, 0, 2, 12, 7, 15, 5]
+LRU Cache Simulation 14, Cache Size: 6 
+access 5
+access 6
+access 10
+access 4
+access 17
+access 17
+access 3
+access 13
+access 17
+access 11
+access 1
+access 3
+access 10
+access 16
+access 1
+Final Cache: [17, 11, 3, 10, 16, 1]
+LRU Cache Simulation 15, Cache Size: 7 
+access 10
+access 14
+access 6
+access 5
+access 8
+access 10
+access 1
+access 4
+access 9
+access 10
+access 13
+access 13
+Final Cache: [5, 8, 1, 4, 9, 10, 13]
+LRU Cache Simulation 16, Cache Size: 6 
+access 14
+access 0
+access 19
+access 15
+access 2
+access 10
+access 1
+access 2
+access 11
+access 19
+access 11
+access 13
+access 2
+access 16
+Final Cache: [1, 19, 11, 13, 2, 16]
+LRU Cache Simulation 17, Cache Size: 5 
+access 2
+access 2
+access 12
+access 9
+access 4
+access 5
+access 5
+access 15
+access 3
+access 17
+access 18
+access 16
+access 7
+access 0
+access 12
+Final Cache: [18, 16, 7, 0, 12]
+LRU Cache Simulation 18, Cache Size: 4 
+access 6
+access 5
+access 12
+access 16
+access 16
+access 17
+access 14
+access 6
+access 0
+access 3
+access 19
+access 3
+access 8
+access 18
+access 13
+access 17
+access 4
+access 8
+access 16
+Final Cache: [17, 4, 8, 16]
+LRU Cache Simulation 19, Cache Size: 7 
+access 7
+access 8
+access 15
+access 1
+access 12
+access 13
+access 10
+access 6
+access 13
+access 7
+access 16
+access 3
+access 2
+access 13
+access 4
+access 10
+Final Cache: [7, 16, 3, 2, 13, 4, 10]
+LRU Cache Simulation 20, Cache Size: 4 
+access 3
+access 4
+access 3
+access 0
+access 17
+access 2
+access 17
+access 11
+access 7
+access 16
+access 18
+access 10
+access 3
+access 19
+access 11
+access 2
+access 10
+access 0
+access 16
+Final Cache: [2, 10, 0, 16]
+LRU Cache Simulation 21, Cache Size: 6 
+access 0
+access 2
+access 0
+access 7
+access 15
+access 17
+access 1
+access 14
+access 5
+access 10
+access 3
+access 4
+access 11
+access 11
+Final Cache: [14, 5, 10, 3, 4, 11]
+LRU Cache Simulation 22, Cache Size: 5 
+access 16
+access 3
+access 18
+access 10
+access 13
+access 2
+access 5
+access 7
+access 7
+access 13
+access 8
+access 15
+access 3
+Final Cache: [7, 13, 8, 15, 3]
+LRU Cache Simulation 23, Cache Size: 7 
+access 5
+access 14
+access 8
+access 5
+access 2
+access 8
+access 18
+access 2
+access 8
+access 18
+access 13
+access 11
+Final Cache: [14, 5, 2, 8, 18, 13, 11]
+LRU Cache Simulation 24, Cache Size: 6 
+access 14
+access 2
+access 4
+access 8
+access 14
+access 7
+access 7
+access 6
+access 9
+access 8
+access 1
+access 11
+access 19
+access 10
+access 14
+Final Cache: [8, 1, 11, 19, 10, 14]
+LRU Cache Simulation 25, Cache Size: 4 
+access 14
+access 10
+access 18
+access 18
+access 13
+access 5
+access 10
+access 18
+access 18
+access 9
+access 1
+access 3
+access 1
+access 14
+access 7
+access 7
+Final Cache: [3, 1, 14, 7]
+LRU Cache Simulation 26, Cache Size: 7 
+access 17
+access 14
+access 3
+access 8
+access 4
+access 15
+access 3
+access 12
+access 6
+access 9
+access 12
+access 16
+access 13
+access 10
+access 12
+access 1
+access 15
+access 18
+access 19
+Final Cache: [13, 10, 12, 1, 15, 18, 19]
+LRU Cache Simulation 27, Cache Size: 4 
+access 13
+access 16
+access 11
+access 12
+access 14
+access 5
+access 10
+access 9
+access 5
+access 6
+access 18
+access 14
+access 13
+access 4
+access 13
+access 13
+access 19
+access 11
+access 9
+Final Cache: [13, 19, 11, 9]
+LRU Cache Simulation 28, Cache Size: 6 
+access 7
+access 15
+access 17
+access 4
+access 13
+access 1
+access 5
+access 14
+access 3
+access 0
+access 12
+access 1
+access 18
+access 5
+access 18
+access 11
+access 9
+access 15
+Final Cache: [1, 5, 18, 11, 9, 15]
+LRU Cache Simulation 29, Cache Size: 3 
+access 18
+access 12
+access 13
+access 16
+access 6
+access 10
+access 18
+access 0
+access 15
+access 4
+access 6
+access 17
+access 13
+access 11
+access 2
+access 9
+Final Cache: [11, 2, 9]

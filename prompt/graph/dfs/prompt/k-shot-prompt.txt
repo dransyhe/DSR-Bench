@@ -1,0 +1,11 @@
+Q: The graph consists of nodes [14, 22, 39, 49, 93], and edges [(39, 14), (39, 22), (49, 93), (49, 14), (93, 22), (14, 22)].
+What is the depth-first search path starting from node 14?    
+A: The final dfs path is [14, 22, 39, 93, 49]. 
+
+Q: The graph consists of nodes [27, 60, 74, 82, 96], and edges [(96, 27), (96, 82), (96, 74), (60, 27), (60, 82), (27, 82)].
+What is the depth-first search path starting from node 82?
+A: The final dfs path is [82, 27, 60, 96, 74]. 
+
+Q: The graph consists of nodes [32, 33, 46, 53, 86], and edges [(32, 33), (32, 86), (32, 46), (32, 53), (33, 53)].
+What is the depth-first search path starting from node 53?
+A: The final dfs path is [53, 32, 33, 46, 86]. 

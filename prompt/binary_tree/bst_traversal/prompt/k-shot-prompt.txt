@@ -1,0 +1,35 @@
+Q: The root node is Node 10. Node 10's left child is Node 5, and its right child is Node 15. Node 5's left child is Node 3, and its right child is Node 7.  
+Please answer the following questions. Your answer to the following questions should be indexed.
+1. What is the pre-order traversal of the tree?
+2. What is the in-order traversal of the tree?
+3. What is the post-order traversal of the tree?
+4. What is the depth of the tree?
+A:
+1. The pre-order traversal is: [10, 5, 3, 7, 15].
+2. The pre-order traversal is: [3, 5, 7, 10, 15].
+3. The pre-order traversal is: [3, 7, 5, 15, 10].
+4. The depth of the tree is: 3.
+
+Q: The root node is Node 40. Node 40's left child is Node 20, and its right child is Node 60. Node 20's left child is Node 10, and its right child is Node 30. Node 60's left child is Node 50, and its right child is Node 70.
+Please answer the following questions. Your answer to the following questions should be indexed.
+1. What is the pre-order traversal of the tree?
+2. What is the in-order traversal of the tree?
+3. What is the post-order traversal of the tree?
+4. What is the depth of the tree?
+A: 
+1. The pre-order traversal: [40, 20, 10, 30, 60, 50, 70].
+2. The in-order traversal: [10, 20, 30, 40, 50, 60, 70].
+3. The post-order traversal: [10, 30, 20, 50, 70, 60, 40].
+4. The tree depth: 3.
+
+Q: The root node is Node 50. Node 50's left child is Node 30, and its right child is Node 70. Node 30's left child is Node 20, and its right child is Node 40. Node 40's left child is Node 35, and its right child is Node 45. Node 70's left child is Node 60, and its right child is Node 80. Node 80's left child is Node 75.
+Please answer the following questions. Your answer to the following questions should be indexed.
+1. What is the pre-order traversal of the tree?
+2. What is the in-order traversal of the tree?
+3. What is the post-order traversal of the tree?
+4. What is the depth of the tree?
+A:
+1. The pre-order traversal: [50, 30, 20, 40, 35, 45, 70, 60, 80, 75].
+2. The in-order traversal: [20, 30, 35, 40, 45, 50, 60, 70, 75, 80].
+3. The post-order traversal: [20, 35, 45, 40, 30, 60, 75, 80, 70, 50].
+4. The tree depth: 4.

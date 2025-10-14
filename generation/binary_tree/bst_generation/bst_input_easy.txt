@@ -1,0 +1,244 @@
+Tree 0
+13 4 58
+4 None None
+58 44 92
+44 21 54
+21 None None
+54 None None
+92 62 None
+62 None None
+Tree 1
+25 0 91
+0 None 1
+1 None 4
+4 None None
+91 30 94
+30 None None
+94 None None
+Tree 2
+43 None 59
+59 45 74
+45 44 None
+44 None None
+74 60 None
+60 None 66
+66 None None
+Tree 3
+84 10 None
+10 None 39
+39 25 63
+25 19 None
+19 None None
+63 None 81
+81 None None
+Tree 4
+13 2 53
+2 None None
+53 17 70
+17 None 19
+19 None 41
+41 None None
+70 None None
+Tree 5
+21 8 88
+8 None None
+88 78 99
+78 31 None
+31 None 38
+38 None None
+99 None None
+Tree 6
+37 15 69
+15 None 17
+17 None 29
+29 20 36
+20 None None
+36 None None
+69 67 None
+67 53 None
+53 None None
+Tree 7
+93 41 None
+41 22 61
+22 0 31
+0 None 8
+8 None 20
+20 None None
+31 25 None
+25 None None
+61 None None
+Tree 8
+96 8 None
+8 None 10
+10 None 54
+54 49 78
+49 26 None
+26 None None
+78 None None
+Tree 9
+54 31 77
+31 None 44
+44 None None
+77 None 84
+84 None 85
+85 None None
+Tree 10
+6 4 54
+4 None None
+54 51 75
+51 None None
+75 None 92
+92 84 None
+84 None None
+Tree 11
+32 0 53
+0 None 29
+29 25 None
+25 18 None
+18 None None
+53 None None
+Tree 12
+24 0 76
+0 None 6
+6 None None
+76 43 96
+43 None 45
+45 None None
+96 None None
+Tree 13
+66 34 71
+34 33 45
+33 6 None
+6 None 9
+9 None None
+45 None 50
+50 None None
+71 None None
+Tree 14
+66 19 78
+19 None 62
+62 None None
+78 68 84
+68 None 72
+72 69 None
+69 None None
+84 None None
+Tree 15
+75 16 83
+16 None 62
+62 45 None
+45 29 57
+29 None 37
+37 None None
+57 50 None
+50 None None
+83 None None
+Tree 16
+53 12 56
+12 None 20
+20 None None
+56 None 84
+84 74 None
+74 62 80
+62 None None
+80 78 None
+78 None None
+Tree 17
+43 42 48
+42 13 None
+13 2 20
+2 None None
+20 16 None
+16 None None
+48 None 78
+78 None 88
+88 None None
+Tree 18
+21 None 85
+85 61 None
+61 29 65
+29 None None
+65 None 77
+77 None 83
+83 None None
+Tree 19
+47 40 62
+40 None None
+62 None 83
+83 64 None
+64 None None
+Tree 20
+97 34 None
+34 24 94
+24 16 None
+16 None None
+94 70 None
+70 None None
+Tree 21
+86 63 94
+63 21 81
+21 None 33
+33 31 None
+31 None None
+81 None None
+94 None 97
+97 None None
+Tree 22
+80 10 85
+10 None 63
+63 None None
+85 None 98
+98 None None
+Tree 23
+95 60 None
+60 30 65
+30 None 58
+58 49 None
+49 None 57
+57 None None
+65 None 82
+82 None None
+Tree 24
+12 None 17
+17 None 66
+66 39 None
+39 None 54
+54 None 64
+64 None None
+Tree 25
+0 None 40
+40 4 82
+4 None None
+82 None 92
+92 None None
+Tree 26
+50 16 54
+16 10 31
+10 None None
+31 24 None
+24 None 30
+30 None None
+54 None 81
+81 None None
+Tree 27
+20 16 37
+16 5 None
+5 None None
+37 35 97
+35 None None
+97 62 None
+62 None None
+Tree 28
+40 13 52
+13 None 28
+28 None 35
+35 None None
+52 None None
+Tree 29
+18 1 21
+1 None None
+21 None 87
+87 23 93
+23 22 None
+22 None None
+93 None None

@@ -1,0 +1,251 @@
+push 94
+push 97
+pop
+pop
+push 14
+pop
+push 30
+push 96
+[30, 96]
+push 49
+pop
+push 56
+push 62
+push 82
+push 65
+pop
+push 21
+pop
+[56, 62, 82]
+push 98
+push 4
+pop
+pop
+push 34
+push 3
+push 74
+pop
+pop
+[34]
+push 29
+push 14
+pop
+push 64
+push 80
+[29, 64, 80]
+push 82
+push 71
+push 92
+push 60
+push 8
+[82, 71, 92, 60, 8]
+push 29
+pop
+push 24
+push 92
+push 14
+[24, 92, 14]
+push 39
+pop
+push 12
+push 67
+push 7
+push 36
+push 30
+push 48
+push 56
+pop
+[12, 67, 7, 36, 30, 48]
+push 93
+push 84
+push 46
+push 66
+pop
+push 67
+push 7
+[93, 84, 46, 67, 7]
+push 11
+push 83
+push 85
+pop
+push 71
+push 38
+[11, 83, 71, 38]
+push 82
+push 16
+push 89
+push 54
+pop
+push 44
+push 74
+push 23
+[82, 16, 89, 44, 74, 23]
+push 13
+push 7
+pop
+push 49
+push 36
+push 39
+pop
+pop
+push 53
+[13, 49, 53]
+push 33
+push 100
+push 55
+push 54
+push 76
+[33, 100, 55, 54, 76]
+push 18
+push 1
+push 42
+pop
+push 81
+push 30
+[18, 1, 81, 30]
+push 17
+pop
+push 54
+pop
+push 35
+push 49
+push 41
+push 90
+pop
+push 77
+[35, 49, 41, 77]
+push 86
+pop
+push 76
+push 41
+push 49
+[76, 41, 49]
+push 44
+push 41
+push 88
+push 36
+pop
+push 98
+push 52
+push 28
+[44, 41, 88, 98, 52, 28]
+push 94
+pop
+push 91
+push 0
+push 49
+push 49
+[91, 0, 49, 49]
+push 80
+pop
+push 55
+pop
+push 87
+[87]
+push 38
+push 64
+pop
+push 55
+push 44
+push 57
+push 74
+push 70
+[38, 55, 44, 57, 74, 70]
+push 2
+pop
+push 73
+push 47
+push 17
+push 73
+[73, 47, 17, 73]
+push 68
+pop
+push 30
+push 4
+push 93
+[30, 4, 93]
+push 59
+push 77
+push 19
+pop
+push 3
+push 50
+pop
+push 56
+push 36
+push 51
+[59, 77, 3, 56, 36, 51]
+push 37
+push 55
+push 50
+pop
+pop
+push 64
+push 74
+pop
+push 89
+push 78
+[37, 64, 89, 78]
+push 68
+pop
+push 25
+push 6
+push 95
+push 4
+[25, 6, 95, 4]
+push 35
+pop
+push 71
+push 39
+push 75
+push 12
+pop
+push 35
+[71, 39, 75, 35]
+push 91
+push 38
+pop
+push 23
+pop
+pop
+[]
+push 17
+push 62
+push 99
+pop
+push 94
+push 59
+push 17
+push 1
+pop
+push 46
+[17, 62, 94, 59, 17, 46]
+push 67
+push 25
+push 28
+push 32
+pop
+push 10
+[67, 25, 28, 10]
+push 78
+pop
+push 29
+push 49
+pop
+push 64
+push 19
+push 0
+push 31
+pop
+[29, 64, 19, 0]
+push 89
+push 93
+push 12
+pop
+push 54
+push 2
+push 77
+push 84
+push 56
+push 49
+[89, 93, 54, 2, 77, 84, 56, 49]

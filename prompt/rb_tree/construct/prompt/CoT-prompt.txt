@@ -1,0 +1,9 @@
+Q: Suppose you have an empty red-black tree. Construct a red-black tree by inserting the following values in order: [89, 24, 56, 72, 3].
+What's the final state of the red-black tree? 
+A:
+Insert 89 as a red leaf. Since it is the root, recolor it black. 
+Insert 24 as a red leaf. It is 89's left children as 24 < 89. 
+Insert 56 as a red leaf. It is 24's right children. 56 has red parent and black uncle (nil), rotate it so that it is the new root with color black, 24 as its left child, 89 as its right child. Color 89 red.  
+Insert 75 as a red leaf. It is 89's left child. Since it has a red parent, recolor 24 and 89 to black. 
+Insert 3 as a red leaf. It is the left child of 24. 
+The final pre-order traversal of the red-black tree is [56, 24, 3, 89, 72] with color [b, b, r, b, r]. 

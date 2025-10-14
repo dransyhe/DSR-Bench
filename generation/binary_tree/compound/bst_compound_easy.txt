@@ -1,0 +1,252 @@
+Insert: 59
+Insert: 96
+Insert: 33
+Delete: 33
+Insert: 34
+Insert: 66
+[59,34,96,66] 
+Insert: 74
+Delete: 74
+Insert: 24
+Delete: 24
+Insert: 47
+Delete: 47
+Insert: 16
+Insert: 64
+[16,64] 
+Insert: 42
+Insert: 91
+Delete: 42
+Insert: 50
+Insert: 62
+Insert: 41
+Delete: 50
+[91,62,41] 
+Insert: 50
+Insert: 68
+Delete: 68
+Insert: 19
+Delete: 19
+Insert: 93
+Delete: 50
+Insert: 30
+[93,30] 
+Insert: 40
+Insert: 55
+Delete: 55
+Insert: 99
+Insert: 75
+Insert: 12
+Delete: 40
+[75,12,99] 
+Insert: 32
+Insert: 60
+Delete: 32
+Delete: 60
+Insert: 23
+Delete: 23
+Insert: 8
+Insert: 65
+Insert: 19
+[8,65,19] 
+Insert: 43
+Delete: 43
+Insert: 10
+Insert: 5
+Insert: 36
+Delete: 10
+Insert: 73
+Delete: 73
+Insert: 16
+[36,5,16] 
+Insert: 62
+Insert: 19
+Insert: 33
+Insert: 61
+Insert: 30
+Insert: 85
+Insert: 38
+[62,19,33,30,61,38,85] 
+Insert: 73
+Insert: 68
+Insert: 83
+Insert: 44
+Insert: 91
+Delete: 91
+Insert: 64
+[73,68,44,64,83] 
+Insert: 29
+Insert: 83
+Insert: 34
+Delete: 34
+Insert: 74
+Delete: 83
+Insert: 3
+[29,3,74] 
+Insert: 1
+Delete: 1
+Insert: 77
+Insert: 41
+Insert: 12
+Insert: 52
+Delete: 77
+[41,12,52] 
+Insert: 6
+Insert: 85
+Insert: 11
+Delete: 11
+Insert: 7
+Insert: 0
+Insert: 4
+Insert: 84
+Delete: 4
+[6,0,85,7,84] 
+Insert: 91
+Delete: 91
+Insert: 33
+Delete: 33
+Insert: 12
+Insert: 5
+Delete: 12
+[5] 
+Insert: 22
+Delete: 22
+Insert: 9
+Insert: 10
+Insert: 44
+Insert: 69
+[9,10,44,69] 
+Insert: 56
+Insert: 58
+Insert: 55
+Insert: 47
+Insert: 98
+[56,55,47,58,98] 
+Insert: 15
+Delete: 15
+Insert: 94
+Delete: 94
+Insert: 25
+Delete: 25
+Insert: 53
+Insert: 92
+[53,92] 
+Insert: 41
+Insert: 54
+Insert: 69
+Insert: 59
+Insert: 0
+Insert: 66
+Delete: 0
+Insert: 49
+Insert: 50
+[41,54,49,50,69,59,66] 
+Insert: 34
+Insert: 78
+Insert: 38
+Insert: 74
+Insert: 68
+Insert: 13
+Delete: 34
+Insert: 59
+Delete: 74
+[38,13,78,68,59] 
+Insert: 29
+Insert: 48
+Insert: 45
+Insert: 58
+Insert: 59
+Insert: 8
+Insert: 71
+Delete: 48
+[29,8,58,45,59,71] 
+Insert: 70
+Insert: 66
+Insert: 99
+Insert: 26
+Insert: 64
+Insert: 7
+Insert: 44
+Insert: 54
+Delete: 54
+[70,66,26,7,64,44,99] 
+Insert: 48
+Insert: 75
+Insert: 3
+Insert: 38
+Delete: 48
+Delete: 38
+Insert: 50
+[75,3,50] 
+Insert: 2
+Insert: 76
+Insert: 98
+Insert: 48
+Insert: 74
+Insert: 44
+Insert: 7
+[2,76,48,44,7,74,98] 
+Insert: 89
+Insert: 26
+Insert: 80
+Insert: 91
+Insert: 69
+Insert: 42
+Delete: 89
+Insert: 71
+Insert: 19
+[91,26,19,80,69,42,71] 
+Insert: 4
+Insert: 40
+Insert: 78
+Insert: 48
+Insert: 91
+[4,40,78,48,91] 
+Insert: 42
+Insert: 72
+Insert: 0
+Insert: 71
+Insert: 5
+Insert: 34
+Delete: 72
+Delete: 42
+[71,0,5,34] 
+Insert: 73
+Insert: 18
+Insert: 39
+Delete: 18
+Delete: 39
+Delete: 73
+Insert: 96
+[96] 
+Insert: 59
+Insert: 85
+Delete: 59
+Insert: 26
+Delete: 85
+Insert: 95
+Insert: 61
+[26,95,61] 
+Insert: 48
+Insert: 3
+Insert: 31
+Insert: 28
+Insert: 76
+Insert: 37
+[48,3,31,28,37,76] 
+Insert: 76
+Insert: 22
+Delete: 22
+Insert: 88
+Insert: 87
+Insert: 46
+[76,46,88,87] 
+Insert: 60
+Insert: 47
+Insert: 32
+Delete: 47
+Delete: 32
+Insert: 81
+Insert: 13
+Insert: 87
+[60,13,81,87] 

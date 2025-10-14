@@ -1,0 +1,23 @@
+Q: The initial elements are: [28, 82, 6, 41, 13, 34, 59, 46, 97, 65]. What is the final state of DSU after the following union operations?
+union(41, 97)
+union(34, 65)
+union(65, 41)
+union(13, 34)
+union(65, 28)
+[34, 82, 6, 34, 34, 34, 59, 46, 34, 34]
+
+Q: The initial elements are: [83, 59, 4, 12, 86]. What is the final state of DSU after the following union operations?
+union(86, 59)
+union(86, 12)
+union(4, 12)
+union(59, 86)
+union(59, 59)
+A: [83, 86, 86, 86, 86]
+
+Q: The initial elements are: [86, 31, 59, 48, 40, 35]. What is the final state of DSU after the following union operations?
+union(40, 48)
+union(59, 31)
+union(86, 35)
+union(59, 86)
+union(40, 35)
+[59, 59, 59, 59, 59, 59]

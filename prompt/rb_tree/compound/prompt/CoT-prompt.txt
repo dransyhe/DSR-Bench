@@ -1,0 +1,13 @@
+Q: Start with an empty red-black tree. What is the final state of the red-black tree after performing the operations?
+Insert: 1
+Insert: 54
+Delete: 1
+Insert: 90
+Insert: 17
+A: 
+Insert 1 as a red leaf. Since it is the root, recolor it black. 
+Insert 54 as a red leaf. Since 54 > 1, it is the right child of 1. 
+Delete 1. It's only child is 54 (red). Rotate 54 to the root and recolor it black. 
+Insert 90 as a red leaf. It is the right child of 54. 
+Insert 17 as a read leaf, it is the left child of 54. 
+Finally, we traverse the tree in pre-order, giving [[54, 'b'],[17, 'r'],[90, 'r']]. 

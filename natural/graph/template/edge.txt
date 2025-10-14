@@ -1,0 +1,30 @@
+A space tunnel links {planet1} and {planet2}.
+The ancient network includes a direct tunnel between {planet1} and {planet2}.
+Couriers frequently travel the tunnel that connects {planet1} to {planet2}.
+{planet1} is connected to {planet2} via a stable space tunnel.
+A tunnel runs from {planet1} to {planet2}, built by workers from {other_planet}.
+Though {other_planet} is nearby, the space team decides to connect {planet1} and {planet2} via a tunnel.
+There's a tunnel between {planet1} and {planet2}.
+Pilots use the tunnel between {planet1} and {planet2} frequently.
+The tunnel from {planet1} to {planet2} is one of the oldest in the system.
+Navigation charts show a tunnel linking {planet1} and {planet2}.
+{planet1} shares a direct tunnel with {planet2}.
+A shortcut tunnel connects between {planet1} and {planet2}.
+{planet1} connects directly to {planet2} via a tunnel, following demand {other_planet} lies further out.
+Only {planet1} and {planet2} are reachable via this tunnel — not {other_planet}.
+{planet1} and {planet2} are part of the same local cluster, connected by a space tunnel.
+The tunnel between {planet1} and {planet2} is one of the most visited routes.
+Star maps show a space tunnel running between {planet1} and {planet2}.
+The trade tunnel from {planet1} to {planet2} is well-traveled.
+{planet1} and {planet2} are closely connected by a space tunnel.
+A direct tunnel bridges {planet1} and {planet2}.
+{planet1} has a tunnel to {planet2}, which is frequently used by travellers from {other_planet}.
+From {planet1}, one can reach {planet2} directly through a space tunnel.
+The tunnel from {planet1} to {planet2} is well-known for its convenience.
+Couriers travelling via the tunnel from {planet1} to {planet2} are required to purchase a permit.
+{planet1} and {planet2} are directly linked by a tunnel monitored by the space police.
+The tunnel linking {planet1} and {planet2} is a crucial route for all space dwellers.
+The tunnel between {planet1} and {planet2} makes them natural allies.
+While {other_planet} lies in the same sector, the tunnel between {planet1} and {planet2} is the most famous one.
+A tunnel exists between {planet1} and {planet2}, though many mistakenly assume it leads to {other_planet}.
+Long-range scans confirm a navigable tunnel between {planet1} and {planet2}.

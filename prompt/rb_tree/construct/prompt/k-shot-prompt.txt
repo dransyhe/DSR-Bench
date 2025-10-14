@@ -1,0 +1,14 @@
+Q: Suppose you have an empty red-black tree. Construct a red-black tree by inserting the following values in order: 
+    [89, 24, 56, 72, 3].
+What's the final state of the red-black tree?
+A: The final pre-order traversal of the red-black tree is [56, 24, 3, 89, 72] with color [b, b, r, b, r]. 
+
+Q: Suppose you have an empty red-black tree. Construct a red-black tree by inserting the following values in order: 
+    [23, 45, 78, 90, 27].
+What's the final state of the red-black tree?
+A: The final pre-order traversal of the red-black tree is [45, 23, 27, 78, 90] with color [b, b, r, b, r]. 
+
+Q: Suppose you have an empty red-black tree. Construct a red-black tree by inserting the following values in order: 
+    [83, 27, 94, 17, 29].
+What's the final state of the red-black tree?
+A: The final pre-order traversal of the red-black tree is [83, 27, 17, 29, 94] with color [b, b, r, r, b]. 

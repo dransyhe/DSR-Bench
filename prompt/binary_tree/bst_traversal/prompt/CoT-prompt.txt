@@ -1,0 +1,44 @@
+Q: The root node is Node 10. Node 10's left child is Node 5, and its right child is Node 15. Node 5's left child is Node 3, and its right child is Node 7.  
+Please answer the following questions. Your answer to the following questions should be indexed.
+1. What is the pre-order traversal of the tree?
+2. What is the in-order traversal of the tree?
+3. What is the post-order traversal of the tree?
+4. What is the depth of the tree?
+A: 
+1.  
+Start at the root node, which is 10. Visit 10. The list so far is: [10].
+Next, visit the left subtree of 10. The left child of 10 is 5. Visit 5. The list now is: [10, 5].
+Next, visit the left subtree of 5. The left child of 5 is 3. Visit 3. The list now is: [10, 5, 3]. Since 3 has no children, return to node 5.
+Next, visit the right subtree of 5. The right child of 5 is 7. Visit 7. The list now is: [10, 5, 3, 7]. Since 7 has no children, return to 10. 
+Next, visit the right subtree of 10. The right child of 10 is 15. Visit 15. The list now is: [10, 5, 3, 7, 15].
+Next, since 15 has no children, the traversal is complete.
+The final pre-order traversal is: [10, 5, 3, 7, 15].
+2. 
+Start at the root node, which is 10. 
+Next, visit the left subtree of 10. The left child of 10 is 5. 
+Next, visit the left subtree of 5. The left child of 5 is 3. Since 3 has no children, the list now is: [3]. 
+Go back to node 5. The list now is: [3, 5].
+Next, visit the right subtree of 5. The right child of 5 is 7. Since 7 has no children, the list now is: [3, 5, 7].
+Go back to node 10. The list now is: [3, 5, 7, 10]. 
+Next, visit the right subtree of 10. The right child of 10 is 15. Since 15 has no children, the list now is: [3, 5, 7, 10, 15].
+Next, since 15 has no children, the traversal is complete.
+The final in-order traversal is: [3, 5, 7, 10, 15].
+3. 
+Start at the root node, which is 10. 
+Next, visit the left subtree of 10. The left child of 10 is 5. 
+Next, visit the left subtree of 5. The left child of 5 is 3. Since 3 has no children, the list now is: [3]. 
+Next, visit the right subtree of 5. The right child of 5 is 7. Since 7 has no children, the list now is: [3, 7].
+Go back to node 5. Both of its subtrees are visited. The list now is: [3, 7, 5]. 
+Go back to node 10.  
+Next, visit the right subtree of 10. The right child of 10 is 15. Since 15 has no children, the list now is: [3, 7, 5, 15].
+Go back to node 10. Both of its subtrees are visited. The list now is: [3, 7, 5, 15, 10].
+The final post-order traversal is: [3, 7, 5, 15, 10].
+4. 
+Start at the root node, which is 10. Visit 10, whose depth is 1.
+Next, visit the left subtree of 10. The left child of 10 is 5. Visit 5, whose depth is 2.
+Next, visit the left subtree of 5. The left child of 5 is 3. Visit 3, whose depth is 3. Since 3 has no children, go back to node 5.
+Next, visit the right subtree of 5. The right child of 5 is 7. Visit 7, whose depth is 3.
+Next, visit the left subtree of 7. Since 7 has no children, return to 10, whose depth is 1. 
+Next, visit the right subtree of 10. The right child of 10 is 15. Visit 15, whose depth is 2.
+Next, since 15 has no children, the traversal is complete.
+The depth of the tree is: 3.

@@ -1,0 +1,19 @@
+Q: The initial elements are: [31, 87, 60, 44, 35, 32, 77, 14, 8, 54]. What is the final state of DSU after the following union operations?
+union(31, 77)
+union(60, 54)
+union(8, 35)
+union(77, 35)
+union(60, 60)
+union(87, 32)
+A: 
+At the start, the state of the DSU by listing each element's root is [31, 87, 60, 44, 35, 32, 77, 14, 8, 54].
+To union(31, 77). The root of 31 is 31, and the root of 77 is 77. 
+Both have the same rank. We pick 31, and set the root of 77 to be 31. 
+To union(60, 54). The root of 60 is 60, and the root of 54 is 54. 
+Both have the same rank. We pick 60, and set the root of 54 to be 60. 
+To union (8, 35). The root of 8 is 8, and the root of 35 is 35.
+Both have the same rank. We pick 8, and set the root of 35 to be 8. 
+To union (77, 35). The root of 77 is 31, and the root of 35 is 8. 
+The root 31 has a higher rank, so we attach the root 8 under 31. Now the root of 35 and 8 becomes 31. 
+To union (60, 60). They are the same, which means they stay in the same set, so we do not change anything. 
+The final state of the DSU by listing each element's root is [31, 87, 60, 44, 31, 32, 31, 14, 31, 60].

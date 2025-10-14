@@ -1,0 +1,19 @@
+Q: The root node is Node 10. Node 10's left child is Node 5, and its right child is Node 15. Node 5's left child is Node 3, and its right child is Node 7.  
+Please answer the following questions. Your answer to the following questions should be indexed.
+What is the pre-order traversal of the tree?
+A:
+The pre-order traversal is: [10, 5, 3, 7, 15].
+
+Q: The root node is Node 40. Node 40's left child is Node 20, and its right child is Node 60. Node 20's left child is Node 10, and its right child is Node 30. Node 60's left child is Node 50, and its right child is Node 70.
+Please answer the following questions. Your answer to the following questions should be indexed.
+What is the pre-order traversal of the tree?
+A: 
+The pre-order traversal: [40, 20, 10, 30, 60, 50, 70].
+
+
+Q: The root node is Node 50. Node 50's left child is Node 30, and its right child is Node 70. Node 30's left child is Node 20, and its right child is Node 40. Node 40's left child is Node 35, and its right child is Node 45. Node 70's left child is Node 60, and its right child is Node 80. Node 80's left child is Node 75.
+Please answer the following questions. Your answer to the following questions should be indexed.
+What is the pre-order traversal of the tree?
+A:
+The pre-order traversal: [50, 30, 20, 40, 35, 45, 70, 60, 80, 75].
+

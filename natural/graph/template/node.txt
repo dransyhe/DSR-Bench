@@ -1,0 +1,30 @@
+The planet {planet} offers {amenity_list}.
+On {planet}, travelers can find {amenity_list}, though it lacks {non_amenity_list}.
+{planet} is known for its {amenity_list}, and is a sister planet of {other_planet}.
+While {other_planet} is just nearby, {planet} supports {amenity_list}.
+{planet} contains essential services like {amenity_list}, but no trace of {non_amenity_list}.
+A stop at {planet} gives access to {amenity_list}; {non_amenity_list} are unavailable here.
+{planet} is one of the few planets offering {amenity_list}.
+Though smaller than {other_planet}, {planet} has critical infrastructure like {amenity_list}.
+{planet} provides {amenity_list} — a valuable addition to {other_planet}.
+Among nearby systems, it is well-known that {planet} contains {amenity_list}.
+{planet} offers {amenity_list}, though they have a high demand for {non_amenity_list}.
+Travelers can refuel or trade on {planet}, which contains {amenity_list}.
+Despite its size, {planet} hosts {amenity_list} and little else.
+{planet} includes {amenity_list}, but lacks {non_amenity_list}.
+While {other_planet} is often visited by space travellers, {planet} draws in couriers with its {amenity_list}.
+The atmosphere on {planet} is dense, but the amenities — {amenity_list} — make it a worthwhile stop.
+{planet} lacks {non_amenity_list}, but makes up for it with excellent {amenity_list}.
+Couriers often pause at {planet} for its {amenity_list}, skipping {other_planet} entirely.
+{planet} is equipped with {amenity_list}, though it doesn’t support {non_amenity_list}.
+{planet} and {other_planet} serve different needs — the former has {amenity_list}, the latter has {non_amenity_list}.
+Hidden beneath its icy crust, {planet} houses {amenity_list}.
+If you're looking for {amenity_list}, {planet} is your best option.
+The amenities on {planet} — including {amenity_list} — are unmatched in this sector.
+{planet} has all of the following: {amenity_list}, but don’t expect {non_amenity_list} there.
+As a sister plant of {other_planet}, {planet} is rich in {amenity_list}.
+{planet} supports essential travel needs like {amenity_list}, especially useful to {other_planet}.
+At first glance {planet} seems unremarkable, but it quietly supports {amenity_list}.
+{planet} is a reliable waypoint, well stocked with {amenity_list}.
+While couriers might head to {other_planet} for sightseeing, {planet} has everything from {amenity_list}.
+Reports confirm {planet} has {amenity_list}, making it a required stop on long missions.

@@ -1,0 +1,8 @@
+Q: Given a word GATACA$, what does its suffix tree look like?
+A: ['$', 'A', '$', 'CA$', 'TACA$', 'CA$', 'GATACA$', 'TACA$']
+
+Q: Given a word banana$, what does its suffix tree look like?
+A: ['$', 'a', '$', 'na', '$', 'na$', 'banana$', 'na$', '$', 'na$']
+
+Q: Given a word xxhdb$, what does its suffix tree look like?
+A: ['$', 'b$', 'db$', 'hdb$', 'x', 'hdb$', 'xhdb$']

@@ -1,0 +1,6 @@
+Given an array [75, 30, 13, 58, 31]. Delete the first item that has the value 30 in the array.
+Q: What is the updated array?
+A: The original array is [75, 30, 13, 58, 31].
+The first occurrence of 30 is at index 1.
+Removing the value at index 1, the updated array becomes [75, 13, 58, 31].
+The final answer is [75, 13, 58, 31].

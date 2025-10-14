@@ -1,0 +1,17 @@
+Q: Given an empty B+ tree with order 4 and the following sequence of operations, what is the final state of the tree as a pre-order traversal (a list of nodes' keys), ensuring that keys in each node are sorted in ascending order? 
+insert 2
+insert 5
+insert 50
+insert 37
+delete 50
+A: 
+After inserting 2, the tree by its pre-order traversal becomes [[2]], while maintaining the elements in each node in ascending order.
+After inserting 5, the tree becomes [[2, 5]].
+After inserting 50, the tree becomes [[2, 5, 50]].
+After inserting 37, the tree becomes [[2, 5, 37, 50]]. 
+The root node reaches order 4, so splitting happens at the midpoint.  
+The lower half becomes the left child node [2, 5], and the upper half becomes the right child node [37, 50]. 
+The smallest in the right child 37 becomes the parent [37]. 
+The tree becomes [[37], [2, 5], [37, 50]]. 
+After deleting 50, the tree becomes [[37], [2, 5], [37]]. 
+The final state of the B+ tree by pre-oreder traversal is [[37], [2, 5], [37]].

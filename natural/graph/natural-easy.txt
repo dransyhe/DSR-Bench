@@ -1,0 +1,150 @@
+nodes: ['Arcadia', 'Triton', 'Ganymede', 'Fenrir', 'Nereus', 'Vega', 'Wraith', 'Pulsar', 'Orion', 'Ymir']
+edges: [('Triton', 'Ganymede'), ('Triton', 'Pulsar'), ('Triton', 'Orion'), ('Ganymede', 'Wraith'), ('Fenrir', 'Vega'), ('Fenrir', 'Pulsar'), ('Nereus', 'Pulsar'), ('Vega', 'Orion'), ('Vega', 'Ymir'), ('Wraith', 'Pulsar'), ('Pulsar', 'Orion')]
+source: Fenrir
+traversal: ['Fenrir', 'Pulsar', 'Nereus', 'Orion', 'Triton', 'Ganymede', 'Wraith', 'Vega', 'Ymir']
+
+nodes: ['Krypton', 'Draco', 'Levania', 'Triton', 'Ganymede', 'Styx', 'Rigel']
+edges: [('Krypton', 'Triton'), ('Krypton', 'Ganymede'), ('Krypton', 'Rigel'), ('Draco', 'Triton'), ('Draco', 'Styx'), ('Levania', 'Ganymede'), ('Levania', 'Styx')]
+source: Krypton
+traversal: ['Krypton', 'Ganymede', 'Levania', 'Styx', 'Draco', 'Triton', 'Rigel']
+
+nodes: ['Umbra', 'Wraith', 'Yavin', 'Zephyr', 'Fomalhaut']
+edges: [('Umbra', 'Yavin'), ('Wraith', 'Yavin'), ('Yavin', 'Zephyr')]
+source: Fomalhaut
+traversal: ['Fomalhaut']
+
+nodes: ['Xandar', 'Vega', 'Elara', 'Rhea', 'Quasar', 'Zephyr', 'Nereus', 'Arcadia', 'Wraith', 'Fenrir']
+edges: [('Xandar', 'Elara'), ('Xandar', 'Zephyr'), ('Xandar', 'Nereus'), ('Vega', 'Elara'), ('Vega', 'Nereus'), ('Vega', 'Arcadia'), ('Rhea', 'Quasar'), ('Rhea', 'Zephyr'), ('Rhea', 'Arcadia'), ('Quasar', 'Nereus'), ('Quasar', 'Wraith'), ('Quasar', 'Fenrir'), ('Nereus', 'Wraith')]
+source: Vega
+traversal: ['Vega', 'Arcadia', 'Rhea', 'Quasar', 'Fenrir', 'Nereus', 'Wraith', 'Xandar', 'Elara', 'Zephyr']
+
+nodes: ['Xandar', 'Umbriel', 'Elara', 'Umbra', 'Rhea', 'Yavin', 'Io', 'Levania', 'Gaia', 'Icarus']
+edges: [('Xandar', 'Umbriel'), ('Umbriel', 'Elara'), ('Umbriel', 'Umbra'), ('Umbriel', 'Yavin'), ('Elara', 'Umbra'), ('Umbra', 'Rhea'), ('Umbra', 'Yavin'), ('Rhea', 'Yavin'), ('Yavin', 'Levania'), ('Yavin', 'Icarus'), ('Io', 'Icarus'), ('Levania', 'Gaia')]
+source: Umbriel
+traversal: ['Umbriel', 'Elara', 'Umbra', 'Rhea', 'Yavin', 'Icarus', 'Io', 'Levania', 'Gaia', 'Xandar']
+
+nodes: ['Krypton', 'Corvus', 'Boreas', 'Elysia', 'Deneb', 'Pulsar', 'Juno', 'Wraith', 'Ganymede', 'Styx']
+edges: [('Krypton', 'Ganymede'), ('Corvus', 'Boreas'), ('Corvus', 'Deneb'), ('Corvus', 'Styx'), ('Boreas', 'Elysia'), ('Boreas', 'Deneb'), ('Boreas', 'Wraith'), ('Elysia', 'Pulsar'), ('Elysia', 'Ganymede'), ('Deneb', 'Juno'), ('Deneb', 'Wraith'), ('Deneb', 'Styx'), ('Pulsar', 'Ganymede'), ('Wraith', 'Styx')]
+source: Corvus
+traversal: ['Corvus', 'Boreas', 'Deneb', 'Juno', 'Styx', 'Wraith', 'Elysia', 'Ganymede', 'Krypton', 'Pulsar']
+
+nodes: ['Fomalhaut', 'Xenon', 'Deneb', 'Rhea', 'Pulsar', 'Aegis', 'Triton']
+edges: [('Fomalhaut', 'Xenon'), ('Fomalhaut', 'Deneb'), ('Fomalhaut', 'Pulsar'), ('Fomalhaut', 'Aegis'), ('Xenon', 'Rhea'), ('Rhea', 'Pulsar'), ('Aegis', 'Triton')]
+source: Pulsar
+traversal: ['Pulsar', 'Fomalhaut', 'Aegis', 'Triton', 'Deneb', 'Xenon', 'Rhea']
+
+nodes: ['Zephyr', 'Draco', 'Kelvin', 'Corvus', 'Hyperion', 'Rhea']
+edges: [('Kelvin', 'Hyperion'), ('Kelvin', 'Rhea')]
+source: Hyperion
+traversal: ['Hyperion', 'Kelvin', 'Rhea']
+
+nodes: ['Levania', 'Bellatrix', 'Winona', 'Draco', 'Midas', 'Io', 'Yavin', 'Kelvin', 'Cetus']
+edges: [('Levania', 'Draco'), ('Levania', 'Yavin'), ('Bellatrix', 'Yavin'), ('Bellatrix', 'Kelvin'), ('Draco', 'Midas'), ('Draco', 'Cetus'), ('Midas', 'Kelvin')]
+source: Bellatrix
+traversal: ['Bellatrix', 'Kelvin', 'Midas', 'Draco', 'Cetus', 'Levania', 'Yavin']
+
+nodes: ['Elara', 'Selene', 'Umbra', 'Janus', 'Boreas', 'Krypton', 'Miranda', 'Wraith', 'Phoebe', 'Bellatrix']
+edges: [('Elara', 'Bellatrix'), ('Selene', 'Umbra'), ('Selene', 'Wraith'), ('Umbra', 'Krypton'), ('Umbra', 'Wraith'), ('Umbra', 'Phoebe'), ('Janus', 'Boreas'), ('Janus', 'Miranda'), ('Janus', 'Phoebe'), ('Boreas', 'Krypton'), ('Wraith', 'Phoebe')]
+source: Phoebe
+traversal: ['Phoebe', 'Janus', 'Boreas', 'Krypton', 'Umbra', 'Selene', 'Wraith', 'Miranda']
+
+nodes: ['Arcadia', 'Aegis', 'Wraith', 'Triton', 'Oberon', 'Fomalhaut', 'Rhea']
+edges: [('Arcadia', 'Triton'), ('Aegis', 'Oberon'), ('Aegis', 'Rhea'), ('Wraith', 'Triton'), ('Wraith', 'Rhea'), ('Triton', 'Oberon'), ('Triton', 'Rhea'), ('Oberon', 'Fomalhaut')]
+source: Triton
+traversal: ['Triton', 'Arcadia', 'Oberon', 'Aegis', 'Rhea', 'Wraith', 'Fomalhaut']
+
+nodes: ['Aegis', 'Umbriel', 'Triton', 'Bellatrix', 'Vega', 'Krypton', 'Rigel', 'Quasar', 'Phoebe', 'Deneb']
+edges: [('Aegis', 'Triton'), ('Aegis', 'Rigel'), ('Aegis', 'Phoebe'), ('Aegis', 'Deneb'), ('Umbriel', 'Triton'), ('Umbriel', 'Bellatrix'), ('Umbriel', 'Krypton'), ('Umbriel', 'Quasar'), ('Triton', 'Bellatrix'), ('Triton', 'Vega'), ('Triton', 'Krypton'), ('Bellatrix', 'Rigel'), ('Bellatrix', 'Quasar'), ('Krypton', 'Rigel'), ('Krypton', 'Quasar'), ('Krypton', 'Deneb')]
+source: Bellatrix
+traversal: ['Bellatrix', 'Quasar', 'Krypton', 'Deneb', 'Aegis', 'Phoebe', 'Rigel', 'Triton', 'Umbriel', 'Vega']
+
+nodes: ['Wraith', 'Ymir', 'Phoebe', 'Cetus', 'Juno', 'Yavin']
+edges: [('Cetus', 'Yavin'), ('Juno', 'Yavin')]
+source: Juno
+traversal: ['Juno', 'Yavin', 'Cetus']
+
+nodes: ['Oberon', 'Arcadia', 'Orion', 'Aegis', 'Helios', 'Selene', 'Io', 'Bellatrix', 'Kelvin']
+edges: [('Oberon', 'Selene'), ('Oberon', 'Kelvin'), ('Orion', 'Aegis'), ('Helios', 'Io'), ('Helios', 'Bellatrix'), ('Io', 'Kelvin')]
+source: Orion
+traversal: ['Orion', 'Aegis']
+
+nodes: ['Zephyr', 'Boreas', 'Icarus', 'Luna', 'Zebes', 'Nereus', 'Krypton', 'Elara', 'Fomalhaut', 'Io']
+edges: [('Zephyr', 'Nereus'), ('Zephyr', 'Fomalhaut'), ('Boreas', 'Krypton'), ('Icarus', 'Zebes'), ('Icarus', 'Elara'), ('Icarus', 'Io'), ('Luna', 'Zebes'), ('Luna', 'Nereus'), ('Zebes', 'Fomalhaut'), ('Zebes', 'Io'), ('Krypton', 'Elara'), ('Fomalhaut', 'Io')]
+source: Fomalhaut
+traversal: ['Fomalhaut', 'Io', 'Icarus', 'Elara', 'Krypton', 'Boreas', 'Zebes', 'Luna', 'Nereus', 'Zephyr']
+
+nodes: ['Levania', 'Gaia', 'Oberon', 'Nereus', 'Cetus', 'Icarus']
+edges: [('Gaia', 'Nereus')]
+source: Cetus
+traversal: ['Cetus']
+
+nodes: ['Wraith', 'Elysia', 'Deneb', 'Fenrir', 'Juno']
+edges: [('Wraith', 'Elysia'), ('Wraith', 'Deneb'), ('Wraith', 'Fenrir'), ('Elysia', 'Deneb'), ('Elysia', 'Juno'), ('Fenrir', 'Juno')]
+source: Juno
+traversal: ['Juno', 'Elysia', 'Deneb', 'Wraith', 'Fenrir']
+
+nodes: ['Gaia', 'Levania', 'Selene', 'Rigel', 'Titan']
+edges: [('Gaia', 'Titan'), ('Levania', 'Selene'), ('Rigel', 'Titan')]
+source: Gaia
+traversal: ['Gaia', 'Titan', 'Rigel']
+
+nodes: ['Rhea', 'Juno', 'Xandar', 'Zephyr', 'Umbra', 'Selene', 'Titan', 'Zebes', 'Deneb', 'Corvus']
+edges: [('Rhea', 'Xandar'), ('Rhea', 'Umbra'), ('Rhea', 'Deneb'), ('Rhea', 'Corvus'), ('Xandar', 'Umbra'), ('Zephyr', 'Titan'), ('Zephyr', 'Zebes'), ('Zephyr', 'Deneb'), ('Zephyr', 'Corvus'), ('Umbra', 'Corvus'), ('Selene', 'Zebes'), ('Titan', 'Zebes'), ('Titan', 'Deneb')]
+source: Zephyr
+traversal: ['Zephyr', 'Corvus', 'Rhea', 'Deneb', 'Titan', 'Zebes', 'Selene', 'Umbra', 'Xandar']
+
+nodes: ['Elara', 'Umbriel', 'Kelvin', 'Rhea', 'Miranda', 'Ganymede', 'Ymir', 'Arcadia', 'Quasar', 'Zephyr']
+edges: [('Elara', 'Umbriel'), ('Elara', 'Ymir'), ('Elara', 'Quasar'), ('Umbriel', 'Rhea'), ('Umbriel', 'Miranda'), ('Umbriel', 'Ymir'), ('Umbriel', 'Zephyr'), ('Kelvin', 'Ymir'), ('Kelvin', 'Arcadia'), ('Rhea', 'Arcadia'), ('Miranda', 'Ganymede'), ('Miranda', 'Ymir'), ('Miranda', 'Arcadia'), ('Ganymede', 'Quasar')]
+source: Kelvin
+traversal: ['Kelvin', 'Arcadia', 'Miranda', 'Ganymede', 'Quasar', 'Elara', 'Umbriel', 'Rhea', 'Ymir', 'Zephyr']
+
+nodes: ['Helios', 'Zephyr', 'Miranda', 'Styx', 'Deneb', 'Juno', 'Yavin', 'Pulsar', 'Umbriel']
+edges: [('Helios', 'Miranda'), ('Helios', 'Yavin'), ('Helios', 'Pulsar'), ('Zephyr', 'Yavin'), ('Miranda', 'Styx'), ('Styx', 'Yavin'), ('Deneb', 'Yavin'), ('Juno', 'Pulsar'), ('Yavin', 'Pulsar')]
+source: Miranda
+traversal: ['Miranda', 'Helios', 'Pulsar', 'Juno', 'Yavin', 'Deneb', 'Styx', 'Zephyr']
+
+nodes: ['Hyperion', 'Deneb', 'Orion', 'Yavin', 'Miranda', 'Helios', 'Elysia']
+edges: [('Hyperion', 'Yavin'), ('Hyperion', 'Miranda'), ('Hyperion', 'Elysia'), ('Deneb', 'Orion'), ('Deneb', 'Miranda'), ('Deneb', 'Elysia'), ('Orion', 'Miranda'), ('Miranda', 'Elysia'), ('Helios', 'Elysia')]
+source: Elysia
+traversal: ['Elysia', 'Deneb', 'Miranda', 'Hyperion', 'Yavin', 'Orion', 'Helios']
+
+nodes: ['Elara', 'Levania', 'Styx', 'Io', 'Triton', 'Gaia', 'Xandar']
+edges: [('Elara', 'Levania'), ('Elara', 'Styx'), ('Elara', 'Io'), ('Levania', 'Gaia'), ('Levania', 'Xandar'), ('Styx', 'Io'), ('Io', 'Gaia'), ('Io', 'Xandar'), ('Triton', 'Xandar')]
+source: Elara
+traversal: ['Elara', 'Io', 'Gaia', 'Levania', 'Xandar', 'Triton', 'Styx']
+
+nodes: ['Pulsar', 'Yavin', 'Winona', 'Vega', 'Zebes', 'Rhea', 'Luna']
+edges: [('Pulsar', 'Vega'), ('Pulsar', 'Luna'), ('Winona', 'Zebes'), ('Vega', 'Zebes'), ('Zebes', 'Rhea'), ('Zebes', 'Luna')]
+source: Vega
+traversal: ['Vega', 'Pulsar', 'Luna', 'Zebes', 'Rhea', 'Winona']
+
+nodes: ['Titan', 'Zebes', 'Wraith', 'Icarus', 'Bellatrix', 'Xenon']
+edges: [('Titan', 'Zebes'), ('Titan', 'Icarus'), ('Titan', 'Bellatrix'), ('Titan', 'Xenon'), ('Zebes', 'Wraith'), ('Zebes', 'Bellatrix'), ('Wraith', 'Xenon')]
+source: Bellatrix
+traversal: ['Bellatrix', 'Titan', 'Icarus', 'Xenon', 'Wraith', 'Zebes']
+
+nodes: ['Umbriel', 'Rhea', 'Yavin', 'Midas', 'Fomalhaut']
+edges: [('Umbriel', 'Rhea'), ('Rhea', 'Yavin'), ('Rhea', 'Midas'), ('Yavin', 'Fomalhaut')]
+source: Yavin
+traversal: ['Yavin', 'Fomalhaut', 'Rhea', 'Midas', 'Umbriel']
+
+nodes: ['Elara', 'Phoebe', 'Selene', 'Styx', 'Orion', 'Miranda', 'Elysia']
+edges: [('Elara', 'Phoebe'), ('Elara', 'Selene'), ('Elara', 'Miranda'), ('Elara', 'Elysia'), ('Phoebe', 'Styx'), ('Selene', 'Elysia'), ('Orion', 'Miranda')]
+source: Selene
+traversal: ['Selene', 'Elara', 'Elysia', 'Miranda', 'Orion', 'Phoebe', 'Styx']
+
+nodes: ['Quasar', 'Styx', 'Triton', 'Elysia', 'Nereus', 'Draco']
+edges: [('Quasar', 'Styx'), ('Styx', 'Elysia'), ('Styx', 'Nereus'), ('Triton', 'Nereus'), ('Triton', 'Draco'), ('Elysia', 'Draco')]
+source: Elysia
+traversal: ['Elysia', 'Draco', 'Triton', 'Nereus', 'Styx', 'Quasar']
+
+nodes: ['Vega', 'Ganymede', 'Zephyr', 'Titan', 'Deneb', 'Midas', 'Boreas', 'Styx', 'Nereus']
+edges: [('Vega', 'Deneb'), ('Ganymede', 'Titan'), ('Ganymede', 'Styx'), ('Zephyr', 'Nereus'), ('Titan', 'Deneb'), ('Titan', 'Nereus'), ('Deneb', 'Boreas'), ('Midas', 'Nereus')]
+source: Titan
+traversal: ['Titan', 'Deneb', 'Boreas', 'Vega', 'Ganymede', 'Styx', 'Nereus', 'Midas', 'Zephyr']
+
+nodes: ['Zebes', 'Fenrir', 'Janus', 'Io', 'Midas', 'Bellatrix']
+edges: [('Zebes', 'Bellatrix'), ('Fenrir', 'Bellatrix')]
+source: Midas
+traversal: ['Midas']
+

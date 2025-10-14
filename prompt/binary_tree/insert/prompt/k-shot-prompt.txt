@@ -1,0 +1,26 @@
+Q: The root node is Node 10. Node 10's left child is Node 5, and its right child is Node 15. Node 5's left child is Node 3, and its right child is Node 7.  
+You would now like to insert a node with value 4 in this binary search tree. Insertion should preserve 
+the validity of a binary search tree. After the insertion, return the answer the following questions.  
+What is the pre-order traversal of the current tree?
+What is the post-order traversal of current tree?
+A: 
+The pre-order traversal is: [10, 5, 3, 4, 7, 15].
+The post-order traveral is: [4, 3, 7, 5, 15, 10]. 
+
+Q: The root node is Node 40. Node 40's left child is Node 20, and its right child is Node 60. Node 20's left child is Node 10, and its right child is Node 30. Node 60's left child is Node 50, and its right child is Node 70.
+You would now like to insert a node with value 45 in this binary search tree. Insertion should preserve 
+the validity of a binary search tree. After the insertion, return the answer the following questions.  
+What is the pre-order traversal of the current tree?
+What is the post-order traversal of current tree?
+A: 
+The pre-order traversal is: [40, 20, 10, 30, 60, 50, 45, 70].
+The post-order traveral is: [10, 30, 20, 45, 50, 70, 60, 40]. 
+
+Q: The root node is Node 50. Node 50's left child is Node 30, and its right child is Node 70. Node 30's left child is Node 20, and its right child is Node 40. Node 40's left child is Node 35, and its right child is Node 45. Node 70's left child is Node 60, and its right child is Node 80. Node 80's left child is Node 75.
+You would now like to insert a node with value 90 in this binary search tree. Insertion should preserve 
+the validity of a binary search tree. After the insertion, return the answer the following questions.  
+What is the pre-order traversal of the current tree?
+What is the post-order traversal of current tree?
+A: 
+The pre-order traversal is: [50, 30, 20, 40, 35, 45, 70, 60, 80, 75, 90].
+The post-order traveral is: [20, 35, 45, 40, 30, 60, 75, 90, 80, 70, 50]. 

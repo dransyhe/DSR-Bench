@@ -1,0 +1,11 @@
+Q: Given a word xxhdb$, what does its suffix tree look like?
+A: 
+Given the word xxhdb$, it has suffix: xxhdb$, xhdb$, hdb$, db$, b$, and $. 
+We first insert xxhdb$ to the tree. Since tree is empty, we insert xxhdb$ as a child of the root.  
+We then insert xhdb$ to the tree. Since xhdb$ and xxhdb$ share the same prefix x, we remove node xxhdb$ from the children of root, insert x as a children of the root, and insert xhdb$, and hdb$ as children of x. 
+We then insert hdb$ to the tree. Since it shares no prefix with the current child node of root, we insert hdb$ as a child of the root. 
+We then insert db$ to the tree. Since it shares no prefix with the current child node of root, we insert it as a child of the root. 
+We then insert b$ to the tree. Since it shares no prefix with the current child node of root, we insert it as a child of the root. 
+We finally insert $ to the tree. Since it shares no prefix with the current child node of root, we insert it as a child of the root. 
+Now we sort each level of children alphabetically, root's child is sorted in order of '$', 'b$', 'db$', 'hdb$', 'x', and 'x''s children is sorted in the order of 'hdb$', 'xhdb$'. 
+We finally do a pre-order traversal of the tree. The final answer is thus: ['$', 'b$', 'db$', 'hdb$', 'x', 'hdb$', 'xhdb$']. 

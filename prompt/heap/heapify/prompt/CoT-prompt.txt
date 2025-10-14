@@ -1,0 +1,23 @@
+Q: Given an array [71, 32, 100, 52, 21], turn it into a min-heap with array-based implementation.  
+If a node has two children, the left child must be smaller than (or equal to) the right child.
+A:  
+Begin with the array [71, 32, 100, 52, 21].
+Start from the last non-leaf node 32 at index 1.
+For the current subtree, root is 32, assume it is the smallest.
+Its right child 21 is smaller than the current smallest 32.
+Root is not the smallest, swap 32 with 21 and continue heapifying recursivly.
+For the current subtree, root is 32, assume it is the smallest.
+Root is smallest, no more heapifying needed for the current subtree.
+Heap after heapifying index 1: [71, 21, 100, 52, 32]
+Start from the next non-leaf node 71 at index 0.
+For the current subtree, root is 71, assume it is the smallest.
+Its left child 21 is smaller than the current smallest 71.
+Root is not the smallest, swap 71 with 21 and continue heapifying recursivly.
+For the current subtree, root is 71, assume it is the smallest.
+Its left child 52 is smaller than the current smallest 71.
+Its right child 32 is smaller than the current smallest 52.
+Root is not the smallest, swap 71 with 32 and continue heapifying recursivly.
+For the current subtree, root is 71, assume it is the smallest.
+Root is smallest, no more heapifying needed for the current subtree.
+Heap after heapifying index 0: [21, 32, 100, 52, 71]
+The final min-heap is [21, 32, 100, 52, 71].

@@ -1,0 +1,23 @@
+Q: You are given an empty trie tree, what is its final state after the following operations? 
+insert gqtghfdpcvu
+insert gqtgbldok
+insert gqtgbldznn
+insert gqtghfdpc
+delete gqtgbldok
+A: ['', 'g', 'q', 't', 'g', 'b', 'l', 'd', 'z', 'n', 'n', 'h', 'f', 'd', 'p', 'c', 'v', 'u']
+
+Q: You are given an empty trie tree, what is its final state after the following operations? 
+insert cnpqzqdjm
+delete cnpqzqdjm
+insert jvjmtujnw
+insert jwxuxnmw
+insert jwlktmxtghbh
+A: ['', 'j', 'v', 'j', 'm', 't', 'u', 'j', 'n', 'w', 'w', 'l', 'k', 't', 'm', 'x', 't', 'g', 'h', 'b', 'h', 'x', 'u', 'x', 'n', 'm', 'w']
+
+Q: You are given an empty trie tree, what is its final state after the following operations? 
+insert fwakjhhygaj
+insert fwakjhhyv
+insert fwakjhhyvpqa
+delete fwakjhhyv
+insert fwakjhhyvpgp
+A: ['', 'f', 'w', 'a', 'k', 'j', 'h', 'h', 'y', 'g', 'a', 'j', 'v', 'p', 'g', 'p', 'q', 'a']
