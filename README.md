@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="figures/main.png"  width="50%" style="display:inline-block; margin-right:2%;" />
-  <img src="figures/radar.png"  width="43%" style="display:inline-block" />
+  <img src="figures/main_v2.png"  width="55%" style="display:inline-block; margin-right:2%;" />
+  <img src="figures/radar_v2.png"  width="40%" style="display:inline-block" />
 </p>
 
 <p align="center">
@@ -24,11 +24,13 @@
 
 DSR-Bench is a benchmark for LLMs designed to test their structural reasoning ability: the ability to understand and manipulate 
 data according to specific relationships such as order, hierarchy, and connectivity. It contains 6 categories of 20 
-data structures, 30 operations, summing up to a total of 2700 questions. It has the following strengths: 
+data structures, 35 operations, summing up to a total of 4140 questions. It has the following strengths: 
 
 - **Hierarchical organization**: Tasks are organized by increasing structural complexity, enabling a fine-grained analysis of specific reasoning skills. Within each category, we design a range of tasks to isolate different sources of structural complexity, allowing structural reasoning to be broken down into progressively more challenging tasks. This approach precisely identifies the specific types of data relationships that pose difficulties for LLM reasoning.
 
 - **Deterministic evaluation**: Each data structure task has a concise and well-defined correct final state, allowing for deterministic and unambiguous scoring. Unlike open-ended tasks, this design supports fully automated evaluation without the need for human or model-based judgment, resulting in a fairer and more objective evaluation pipeline. 
+
+- **Interpretable, diagnostic insights**: Data structures are fundamental and interpretable, with easily computable ground truth. This allows for direct comparison of model reasoning traces, making it easier to analyze how models reason and why they fail. This addresses a key limitation of existing benchmarks, where reliance on leaderboard scores may incentivize reward hacking.
 
 - **Low-contamination data**: All tasks are generated efficiently from synthetic distributions, significantly reducing contamination risks from pretraining data. This setup also enables large-scale evaluation with minimal human involvement.
 
@@ -131,9 +133,9 @@ DSR-Bench-spatial extends 3 data structures in DSR-Bench (K-D Heap, K-D Tree, Ge
 
 This suite can easily be tested by adjusting the `--dim` flag for implemented data structures. 
 
-### DSR-Bench-natural
+### DSR-Bench-realistic
 
-DSR-Bench-natural extends 3 data structures in DSR-Bench (queue, binary search tree, and graphs) into narrative-based natural language questions. LLMs are no longer evaluated on textbook/interview question style formal prompts like “Given an empty queue. Do the following operations: (enqueue 2), (dequeue), (enqueue 3)... What is the current queue?”, but on a real-world scenario that implicit require the usage and maintenance of a data structure, like “On a sunny afternoon, an ice cream truck rolled into the park. Each children take their place at the end of the line while the vendor serves from the front. Leila Choi ran over and joined the line. The next kid is being served… What is the order of the remaining kids in line?”
+DSR-Bench-realistic extends 3 data structures in DSR-Bench (queue, binary search tree, and graphs) into narrative-based questions in realistic setting. LLMs are no longer evaluated on textbook/interview question style formal prompts like “Given an empty queue. Do the following operations: (enqueue 2), (dequeue), (enqueue 3)... What is the current queue?”, but on a real-world scenario that implicit require the usage and maintenance of a data structure, like “On a sunny afternoon, an ice cream truck rolled into the park. Each children take their place at the end of the line while the vendor serves from the front. Leila Choi ran over and joined the line. The next kid is being served… What is the order of the remaining kids in line?”
 
 This suite can easily be tested through calling the `natural` module. For example, 
 
