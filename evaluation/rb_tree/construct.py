@@ -132,9 +132,10 @@ def main():
     for answer in answers:
         try:
             js_answer = json.loads(answer)
-            pre_answers.append(js_answer["final_answer"])
+            pre_answers.append(js_answer.get("final_answer", js_answer))
         except Exception as e:
-            print(f"Error encountered probably due to short of tokens.")
+            print(f"Error parsing answer: {e}")
+            # print(f"Error encountered probably due to short of tokens.")
             pre_answers.append(None if args.ted else "")
             continue
 

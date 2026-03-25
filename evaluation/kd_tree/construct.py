@@ -8,22 +8,33 @@ from evaluation.batch_eval import get_batch_results
 from evaluation.eval import prompt_list, model_list
 from evaluation.utils import list_to_str, parse_arguments, levenshtein
 
-from evaluation.kd_tree.schema import KDTSchema, KDTSchemaAnsOnly
+from evaluation.kd_tree.schema import KDTSchema, KDTSchemaAnsOnly, KDTTEDSchema, KDTTEDSchemaAnsOnly
+from evaluation.tree_ted import ted_score, _kdt_label
+
+TED_SUPPORTED = True
 
 
 def main():
 
     args = parse_arguments()
     args.type = "kd_tree"
-    
+
+    if args.ted and not TED_SUPPORTED:
+        print("Warning: --ted is not supported for this task. Falling back to 0/1 scoring.")
+        args.ted = False
+
     dim = args.dim
-    
+
     args.operation = f"construct_d{args.dim}"
 
     i = 0
     Q_list = []
 
     post_truths = []
+
+    if args.ted:
+        with open(f"generation/kd_tree/construct_{dim}d/construct_{args.mode}_tree.json", "r") as f:
+            truths_tree = json.load(f)
     
     # data_dist = 'moon' # 'circle', 'moon', 'blobs', 'unif'
     # dim = 3 # 2, 3, 5
@@ -68,8 +79,14 @@ def main():
                 points = lines[i].split(":")[1]
                 Q = f"Construct a KD-tree with the following points: {points}\n"
                 Q += f"If there's ever ties when sorting an axis, such as [56, 32] and [56, 12] when sortinhg by x-axis, please keep the original order in the given data."
-                Q += "After that, please answer the following question:\n" + \
-                    "Q: What is the pre-order traversal of the tree? Output a list of nodes like the input. \n"
+                if args.ted:
+                    Q += ("After that, please answer the following question:\n"
+                          "Q: Represent the final KD-tree as a nested JSON object "
+                          "with keys \"point\" (list of ints), "
+                          "\"left\" (subtree or null), and \"right\" (subtree or null).\n")
+                else:
+                    Q += "After that, please answer the following question:\n" + \
+                        "Q: What is the pre-order traversal of the tree? Output a list of nodes like the input. \n"
                 i += 1
                 # print(f"Q: {Q}")
                 Q = translate(Q, Q_state, args)
@@ -82,7 +99,10 @@ def main():
                 i += 1
                 pass
 
-    traverseSchema = KDTSchemaAnsOnly if args.prompt == "AnsOnly" else KDTSchema
+    if args.ted:
+        traverseSchema = KDTTEDSchemaAnsOnly if args.prompt == "AnsOnly" else KDTTEDSchema
+    else:
+        traverseSchema = KDTSchemaAnsOnly if args.prompt == "AnsOnly" else KDTSchema
     if args.batch:
         answers = get_batch_results(Q_list, args, traverseSchema)
     else: 
@@ -95,23 +115,26 @@ def main():
     for answer in answers:
         try:
             js_answer = json.loads(answer)
-            post_answers.append(js_answer["final_answer"])
+            post_answers.append(js_answer.get("final_answer", js_answer))
         except Exception as e:
-            print(f"Error encountered probably due to short of tokens.")
-            post_answers.append("")
+            print(f"Error parsing answer: {e}")
+            post_answers.append(None if args.ted else "")
             continue
-        
+
     score = []
     partial_score = []
 
     for i in range(len(post_answers)):
-        if list_to_str(post_answers[i]).strip() == list_to_str(post_truths[i]).strip():
-            score.append(1)
+        if args.ted:
+            s = ted_score(post_answers[i], truths_tree[i], label_fn=_kdt_label)
+            partial_score.append(s)
+            score.append(1 if s == 1.0 else 0)
         else:
-            score.append(0)
-            # print(repr(list_to_str(post_answers[i]).strip()))
-            # print(repr(list_to_str(post_truths[i]).strip()))
-        partial_score.append(1 - levenshtein(list_to_str(post_answers[i]).strip(), list_to_str(post_truths[i]).strip()))
+            if list_to_str(post_answers[i]).strip() == list_to_str(post_truths[i]).strip():
+                score.append(1)
+            else:
+                score.append(0)
+            partial_score.append(1 - levenshtein(list_to_str(post_answers[i]).strip(), list_to_str(post_truths[i]).strip()))
  
     log(Q_list, score, partial_score, answers, args)
 

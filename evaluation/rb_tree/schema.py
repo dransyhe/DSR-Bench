@@ -1,6 +1,5 @@
 from pydantic import BaseModel
-from typing import List, Tuple, Optional
-# from typing import Any
+from typing import Optional
 
 class Step(BaseModel):
     explanation: str
