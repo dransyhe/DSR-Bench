@@ -46,6 +46,7 @@ def parse_arguments():
     parser.add_argument('--batch', type=bool, default=False, help='batch eval if True (default: False)')
     parser.add_argument('--format', type=str, default="schema", help='type of structured format method, schema or function (default: schema)')
     parser.add_argument('--dim', type=int, default=5, help='dimension for kd-heap, kd-tree, and geometric graph')
+    parser.add_argument('--ted', action='store_true', default=False, help='use tree-edit distance scoring; falls back to 0/1 if unsupported by the task')
     args = parser.parse_args()
     
     name_map = {"short": "easy", "medium": "medium", "long": "hard"}
