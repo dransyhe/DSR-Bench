@@ -7,20 +7,32 @@ from evaluation.eval import translate, predict, log
 from evaluation.batch_eval import get_batch_results
 from evaluation.utils import parse_arguments, levenshtein, str_to_nested_float_list
 
-from evaluation.geom_graph.schema import GeomSchema, GeomSchemaAnsOnly
+from evaluation.geom_graph.schema import GeomSchema, GeomSchemaAnsOnly, GeomGEDSchema, GeomGEDSchemaAnsOnly
+from evaluation.graph_ged import ged_score
+
+GED_SUPPORTED = True
+
 
 def main():
 
     args = parse_arguments()
     args.type = "geom_graph"
-    
+
+    if args.ted and not GED_SUPPORTED:
+        print("Warning: --ted is not supported for this task. Falling back to 0/1 scoring.")
+        args.ted = False
+
     k = args.dim
     args.operation = f"construct_{k}d"
-    
+
     i = 0
     j = 0
     Q_list = []
     truths = []
+
+    if args.ted:
+        with open(f"generation/geom_graph/construct_{k}d/construct_{args.mode}_graph.json", "r") as f:
+            truths_graph = json.load(f)
     
     if args.description == "full":
         description = ("A random geometric graph consists of nodes and edges. Each edge connects two nodes. \n" 
@@ -53,8 +65,13 @@ def main():
             elif "BFS" in line:
                 bfs = line.split(":")[-1].rstrip("\n")
                 truths.append(bfs)
-                
-                Q = f"Q: What is the final states of the graph? Output the breath-first-search of nodes represented by their original coordinate. \n"
+
+                if args.ted:
+                    Q = ("Q: What is the final state of the graph? "
+                         "Output a JSON object with keys \"nodes\" (list of all node coordinates) "
+                         "and \"edges\" (list of edges, each edge as [[x1,...],[x2,...]]). \n")
+                else:
+                    Q = f"Q: What is the final states of the graph? Output the breath-first-search of nodes represented by their original coordinate. \n"
                 
                 if "deepseek-chat" in args.model:
                     if args.prompt == "AnsOnly":
@@ -75,7 +92,10 @@ def main():
             i += 1
     print(len(Q_list))
     
-    graphSchema = GeomSchemaAnsOnly if args.prompt == "AnsOnly" else GeomSchema
+    if args.ted:
+        graphSchema = GeomGEDSchemaAnsOnly if args.prompt == "AnsOnly" else GeomGEDSchema
+    else:
+        graphSchema = GeomSchemaAnsOnly if args.prompt == "AnsOnly" else GeomSchema
     if args.batch:
         answers = get_batch_results(Q_list, args, graphSchema)
     else: 
@@ -89,21 +109,26 @@ def main():
     for i, answer in enumerate(answers):
         try:
             js_answer = json.loads(answers[i])
-            answer = js_answer["final_answer"]
+            answer = js_answer.get("final_answer", js_answer)
         except Exception as e:
-            print(f"Error encountered at index {i}: {e}")
+            print(f"Error parsing answer at index {i}: {e}")
             res.append(0)
             partial_res.append(0)
-            continue 
-        
-        truths[i] = str_to_nested_float_list(truths[i])
-        if str(answer) == str(truths[i]):
-            res.append(1)
+            continue
+
+        if args.ted:
+            s = ged_score(answer, truths_graph[i])
+            partial_res.append(s)
+            res.append(1 if s == 1.0 else 0)
         else:
-            res.append(0)
-            print(f"Answer: {str(answer)}")
-            print(f"Truth: {str(truths[i])}")
-        partial_res.append(1 - levenshtein(str(answer), str(truths[i])))
+            truths[i] = str_to_nested_float_list(truths[i])
+            if str(answer) == str(truths[i]):
+                res.append(1)
+            else:
+                res.append(0)
+                print(f"Answer: {str(answer)}")
+                print(f"Truth: {str(truths[i])}")
+            partial_res.append(1 - levenshtein(str(answer), str(truths[i])))
 
     log(Q_list, res, partial_res, answers, args)
 
